@@ -38,7 +38,7 @@ This led to their duality as a political force to be reckoned with in the diplom
 > - Another account maintains that the Berenfaer were originally formed to fight for freedom in western [[Oventhart]] against the tyrranical armies of [[Kenorex]] from [[Kambah]], rallying many insurgents near the border to wage guerilla warfare, only to be eventually stopped and hunted down by the disciplined army of [[Karahath]].
 > 
 > If one asks the storytellers, one shall hear tales of bravery and sacrifice.
-> - Stories speak of a charismatic elf that went by the name of Berenfaer (allegedly meaning "a soul most bold" in ancient elven, pronounced be-ren-FA-er) who roamed the land, who fought and plotted in shadow and light to undermine villainous nobles and bloodthirsty tyrants, who cared for the common man and asked for nothing in return but a place by the fire. There are many variations of the tale, but all culminate in the heroic death of Berenfaer against the backdrop of the Karokhi or Oventhartan Wars. The epilogue recounts his closest comrades being asked, by passers-by or by family or by torturers "Where is Berenfaer?", only to reply "_I am_ Berenfaer".
+> - Stories speak of a charismatic elf that went by the name of Berenfaer (allegedly meaning "a soul most bold" in ancient elven, pronounced be-ren-FA-er) who roamed the land, who fought and plotted in shadow and light to undermine villainous nobles and bloodthirsty tyrants, who cared for the common man and asked for nothing in return but a place by the fire. There are many variations of the tale, but all culminate in the heroic death of Berenfaer against the backdrop of the Karokhi or Oventhartan Wars. The epilogue recounts his closest comrades being asked, by passers-by or by family or by torturers "Where is Berenfaer?", only to reply "_We are_ Berenfaer".
 > 
 > That's pretty much the short of it. The truth might lie somewhere in the middle.
 > One smashing takeaway is: _We are_ Berenfaer.
@@ -50,13 +50,13 @@ This led to their duality as a political force to be reckoned with in the diplom
 
 The Berenfaer consist of an array of operatives spread across Naerk. To preserve the security protocols, they refer to each other by their agent nicknames and operate within regional cells that have only as much contact with the rest of the Berenfaer as is deemed safe by the higher layer of handlers and comms agents.
 
-The leadership itself is based in Zolkar, and consists of the assembly of spymasters, accomplished operatives who take on the strategic and supportive duties.
+The leadership itself is based in Zolkar, and consists of the **assembly of spymasters**, accomplished operatives who take on the strategic and supportive duties.
 The spymasters have roles that range from political direction to undercover oversight, and are tasked with making sure that the operative network remains decentralised and individual cells have enough support when taking the initiative in their own regions.
 
 The most influential spymasters include:
 - [[Steelshade]], councillor and political face of the Berenfaer and Elestair, holding one of the two seats of Zolkar in the Council of [[Palaurim]]; he is credited with reviving the Berenfaer by spearheading the Zolkar's Dawn riots
 - [[Black Mist]], head of intelligence and master spy, a vigilante with multiple identities and sharpshooter
-- Banshee, head analyst and cultural face of the Berenfaer, a powerful arcanist and muse of Elestair; coming into the fold after rescuing Steelshade in Hashnev, she is credited with spearheading the security protocol reforms
+- Banshee, head analyst and cultural face of the Berenfaer, a powerful arcanist and muse of Elestair; coming into the fold after rescuing Steelshade in Hashnev, she is credited with introducing the security protocol reforms
 - Teucer, captain of the scouts and sharpshooter
 - Ajax, captain of the guard and ferocious axeman
 
