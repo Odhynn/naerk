@@ -1,4 +1,4 @@
-import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
+import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 import style from "./styles/search.scss"
 // @ts-ignore
 import script from "./scripts/search.inline"
@@ -24,7 +24,7 @@ export default (() => {
               <circle cx="8" cy="8" r="7" />
             </g>
           </svg>
-        </div>
+        </button>
         <div id="search-container">
           <div id="search-space">
             <input
@@ -32,8 +32,8 @@ export default (() => {
               id="search-bar"
               name="search"
               type="text"
-              aria-label="Search for something"
-              placeholder="Search for something"
+              aria-label={searchPlaceholder}
+              placeholder={searchPlaceholder}
             />
             <div id="results-container"></div>
           </div>
