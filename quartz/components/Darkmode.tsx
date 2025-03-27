@@ -5,7 +5,7 @@ import darkmodeScript from "./scripts/darkmode.inline"
 import styles from "./styles/darkmode.scss"
 import { QuartzComponentConstructor, QuartzComponentProps } from "./types"
 
-function Darkmode({ displayClass }: QuartzComponentProps) {
+const Darkmode: QuartzComponent = ({ displayClass, cfg }: QuartzComponentProps) => {
   return (
     <div class={`darkmode ${displayClass ?? ""}`}>
       <input class="toggle" id="darkmode-toggle" type="checkbox" tabIndex={-1} />
