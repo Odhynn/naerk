@@ -28,11 +28,20 @@ wiki:
 > α σω σπασω τα κακκαλα
 > _-- maniacal Qrattan threat she gleefully picked up from [[Bjonnyr]]_
 
+Rowena Annwyn Raerundlin is the daughter of high druid [[Smolynx]] Raerundlin, an unofficial knight-errant of the Circle of the Stag, an ironclad battlemage that obliterates enemies with slow but devastating magically charged strikes, a twisted genius who would go far if she cared to, and one of the [[Everbryght]].
+
 > - you think _I'm_ crazy? you should see my Ginger...
 > _has a habit leaning on the fourth wall_
 
 > - KiCk iN ThE dOoR
 > _always works_
+
+> [!note] Tell the bees
+> Her mother was Rhonwen ap Qwynn, a staff-wielding monk serving as a secret operative back in the Realms Beyond, and a beekeeper when the forces of evil were not pressing down on innocent folk. She died in a battle to keep a powerful artifact away from the wrong hands when her daughter was but 5 years old at the time.
+> Right after her father broke the news to Rowena, he bade her to tell the bees. Little Rowena was anguished and furious, but nonetheless cursed and sniffled her way to the hives and did so.
+> When the bees actually turned up around Rhonwen's funeral pyre, Smolynx magically opened Rowena's ears to their buzzing, in which they lamented their mistress' demise and welcomed in the young one; she walked away crying, forever attuned to nature despite her darkening psyche.
+
+Rowena has watched herself grow more unhinged and impulsive with time. While the rest of the Everbryght try their best not to let the evils of the world to push them to the dark side, she is always tempted to accept the challenge and push right back in kind.
 
 > [!danger] Chaotic Evil = Independent and Determined
 > - sword, spell and staff / fire and steel / bloodlust and vengeance
@@ -43,14 +52,6 @@ wiki:
 > 	- *the stranger and the foe we gazed upon in the mirror*
 > - Violence isn't the answer. Violence is the question. The answer is yes.
 
-Rowena Annwyn Raerundlin is the daughter of high druid [[Smolynx]] Raerundlin, an unofficial knight-errant of the Circle of the Stag, an ironclad battlemage that obliterates enemies with slow but devastating magically charged strikes, a twisted genius who would go far if she cared to, and one of the [[Everbryght]].
-
-> [!note] Tell the bees
-> Her mother was Rhonwen ap Qwynn, a staff-wielding monk serving as a secret operative back in the Realms Beyond, and a beekeeper when the forces of evil were not pressing down on innocent folk. She died in a battle to keep a powerful artifact away from the wrong hands when her daughter was but 5 years old at the time.
-> Right after her father broke the news to Rowena, he bade her to tell the bees. Little Rowena was anguished and furious, but nonetheless cursed and sniffled her way to the hives and did so.
-> When the bees actually turned up around Rhonwen's funeral pyre, Smolynx magically opened Rowena's ears to their buzzing, in which they lamented their mistress' demise and welcomed in the young one; she walked away crying, forever attuned to nature despite her darkening psyche.
-
-Rowena has watched herself grow more unhinged and impulsive with time. While the rest of the Everbryght try their best not to let the evils of the world to push them to the dark side, she is always tempted to accept the challenge and push right back in kind.
 She attended the same wizarding school as Aileen: Gwynnedh Battlemage Academy, whose curriculum focuses on abjuration, evocation, and the employ of magic staves. They were roommates during their studies there, and she holds her dear as a little sister. Though Aileen's twist on the staff is more ballistic, Rowena is more direct: she bops fools over the head with it.
 She adheres to the philosophy of the flame druids, who observe the dynamic balancing factors of nature that wipe the slate clean and usher in rebirth, and thus possesses both a fondness for the natural world and a penchant for arson.
 She is devoted to the people she chooses to count among her own, and ruthless to everyone else.
