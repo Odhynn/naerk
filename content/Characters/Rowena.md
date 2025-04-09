@@ -30,11 +30,11 @@ wiki:
 
 Rowena Annwyn Raerundlin is the daughter of high druid [[Smolynx]] Raerundlin, an unofficial knight-errant of the Circle of the Stag, an ironclad battlemage that obliterates enemies with slow but devastating magically charged strikes, a twisted genius who would go far if she cared to, and one of the [[Everbryght]].
 
-> - you think _I'm_ crazy? you should see my Ginger...
-> _has a habit leaning on the fourth wall_
+> you think _I'm_ crazy? you should see my Ginger...
+> _-- has a habit leaning on the fourth wall_
 
-> - KiCk iN ThE dOoR
-> _always works_
+> KiCk iN ThE dOoR
+> _-- always works_
 
 > [!note] Tell the bees
 > Her mother was Rhonwen ap Qwynn, a staff-wielding monk serving as a secret operative back in the Realms Beyond, and a beekeeper when the forces of evil were not pressing down on innocent folk. She died in a battle to keep a powerful artifact away from the wrong hands when her daughter was but 5 years old at the time.
