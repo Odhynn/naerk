@@ -11,7 +11,7 @@ wiki:
   ancestry: half-elf
   profession: battlemage, deputy
   born: 4782
-  height: 6'0"
+  height: 6'1"
   weight: 175 lb.
 ---
 > [!attributes] 
@@ -21,7 +21,7 @@ wiki:
 > > | --- | --- |
 > > | born | 4782, Realms Beyond |
 > > | ethnicity | Ffolk |
-> > | height | 6'0" |
+> > | height | 6'1" |
 > > | weight | 166 lb. |
 > > | appearance | <li>blond hair in a braid</li><li>eerie blue eyes</li><li>unnerving grin</li><li>athletic physique</li> |
 
@@ -65,4 +65,4 @@ She smells of hot iron.
 > Ulfwyr is Ire: when something has ticked him off, the air pressure drops; few can hold a grudge in such an unsettling manner.
 > And then there's Rowena. I've been told that, when she saw how a junior court wizard had scorched young Aileen's left face during a serf revolt, she froze and her own face paled; saying nothing, she left her to the medic's care and stormed off. Days later, that wizard was mysteriously abducted over the corpse of his bodyguard; he was found dead in a shack, face melted off his bones.
 > Rowena is Wrath. I can't say whether that makes her, among the Everbryght, the one most suited to take on the world.
-> - Llyn ap Lwgh, conversing with Lady Sen of the Kashiwa Clan
+> _-- Llyn ap Lwgh, conversing with Lady Sen of the Kashiwa Clan_

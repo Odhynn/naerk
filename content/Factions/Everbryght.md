@@ -24,7 +24,7 @@ Though this ore is not something they expect someone to fight them for, they pre
 
 - [[Smolynx]] Raerundlin, male elf Druid of the Circle of the Stag
 - [[Rowena]] Raerundlin, female half-elf Battlemage (of the jock variety)[^7]
-- [[Gwynne]] Shizusdottir, female nephelim Knight Hospitaller
+- [[Gwynne]] An Daragh, female nephelim Knight Hospitaller
 - [[Ulfwyr]] Arthwyrsson, male human Ranger longbowman
 - [[Bjonnyr]] Arthwyrsson, male human Barbarian axeman
 - [[Aileen]] Rosewood, female human Battlemage (of the nerd variety)[^7]
@@ -173,4 +173,4 @@ Limping after him, they briefly crossed blades with a [[Shizu#Blood Moon|young s
 [^4]: Sigrid, a bard well-versed in arcane lore by Annwn and Bjorg the Mad, hailed from the same region as the ap Qwynn siblings but had no clan name, thus she adopted the task force callsign as hers.
 [^5]: The Everbryght swords' morgholjucht-steel alloy glows in the vicinity of morghonljucht traces, and can bind the traces to itself with a certain alchemical procedure. 
 [^6]: The Everbryght Stanza consists of those last 3 lines and is inscribed on the sword-anchors of the Everbryght, as it lyrically conveys the nature of their never-ending quest. They have taken to using it as a calling sign to recognise one another in delicate or discreet situations: one member will begin reciting the stanza in their own ancient native language (that is alien to Naerk) and the other will finish it.
-[^7]: Aileen and Rowena both attended Gwynnedh Battlemage Academy, a wizard school with an emphasis on abjuration, evocation, and the employ of magic staves, that Bjorg the Mad and Annwn Raerundlin also adhered to. The girls' approaches to the tradition, however, are wildly unorthodox: Aileen has extensively modified her staves to function as a crossbow or rifle through which she can channel ray spells, while Rowena uses hers to actually physically beat people up.
+[^7]: Aileen and Rowena both attended Gwynnedh Battlemage Academy, a wizarding doctrine focusing on abjuration, evocation, and the employ of magic staves, that Bjorg the Mad's and Annwn Raerundlin's sword-and-staff style was tangential to. The girls' approaches to the tradition, however, are wildly unorthodox: Aileen has extensively modified her staff to function as a crossbow or rifle through which she can channel ray spells, while Rowena uses hers to directly, physically, brutally beat people up.
