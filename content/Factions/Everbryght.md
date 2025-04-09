@@ -141,7 +141,7 @@ Since then, their paths have diverged and crossed as each follows their own ques
 - 4817, Winter
   - Smolynx travelled to [[Sunshine]] isle to speak with [[Droghor]] of the Dragonpact.
   - Ulfwyr and Bjonnyr (the Arthwyrsson brothers) travelled to Zolkar where they became involved in the events culminating in [[Zolkar's Dawn Riot]] and the resurgence of the [[Berenfaer]]; they were joined by Rowena as soon as she heard of the amount of shite that was going down.
-  - Gwynne finished her training and was knighted under the Hospitaller Far West Chapter
+  - Gwynne finished her training and was knighted a cadet hospitaller under the Chapter of the West
   - Aileen joined the [[Halcyon]] band for she shared their harrowed condition and sailed with them to [[Stormfall]], where she was captured and sent to [[Hashnev]] in chains.
 - 4817, Spring
   - Smolynx travelled through the Allwick desert alongside his tiger companion Mr. Timms, where he briefly joined a band of spellcasters to traverse through an extra-planar crypt of riddles
@@ -155,7 +155,7 @@ Since then, their paths have diverged and crossed as each follows their own ques
 - 4817, Autumn
   - Aileen, joined by the [[Halcyon]] band, travelled to Oventhart to track missing Berenfaer agents, set up the ground at Greenmills for the [[Berenfaer]] to organise the resistance, was appointed to the [[Dragonpact]] as the commander of the kobold [[Slitherscale Brigade]], and moved on to [[Merkal]] where she fought the sinister forces trying to break [[Drakainia]] loose from her prison, culminating in the [[Battle of Klegonai Fields]] and the killing of Drakainia in her demiplane prison in [[Mherg Tundra]]
   - Smolynx and Rowena answered the call of the Oventhari druidic circles and fought against [[Drakainia]]'s abberration hordes in the forests
-  - Gwynne caught wind of a lead while in [[Ekteron]] that led her to ask officers of the passing [[Wolf Legion]] to smuggle her into [[Olgizmar]]; there she was arrested by the magister circles and incarcerated in the cold iron mines until cataclysmic [[vethfall-(2020)]] events sundered the wards and led her joining the defence of [[Bránstraž]].
+  - Gwynne caught wind of a lead while in [[Ekteron]] that led her to ask officers of the passing [[Wolf Legion]] to smuggle her into [[Olgizmar]]; there she was arrested by the magister circles and incarcerated in the cold iron mines until the cataclysmic post-[[Vethfall]] events sundered the wards and led to her joining the defence of [[Bránstraž]].
   - Ulfwyr and Bjonnyr were caught in a seastorm while on their South Sea escapades and were marooned in [[Drozzin]], where they slew the sea dragon [[Ozrallon]] and traversed the Screaming Maze to obtain a Crown of the Cyclopes
 - 4818, Winter
   - Aileen went missing for a year after [[Vethfall]], trapped in a temporal bubble inside Drakainia's demiplane prison

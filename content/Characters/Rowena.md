@@ -55,6 +55,7 @@ Rowena has watched herself grow more unhinged and impulsive with time. While the
 She attended the same wizarding school as Aileen: Gwynnedh Battlemage Academy, whose curriculum focuses on abjuration, evocation, and the employ of magic staves. They were roommates during their studies there, and she holds her dear as a little sister. Though Aileen's twist on the staff is more ballistic, Rowena is more direct: she bops fools over the head with it.
 She adheres to the philosophy of the flame druids, who observe the dynamic balancing factors of nature that wipe the slate clean and usher in rebirth, and thus possesses both a fondness for the natural world and a penchant for arson.
 She is devoted to the people she chooses to count among her own, and ruthless to everyone else.
+She occasionally blurts out expletives in her native Ffolk tongue or antagonising barbs in South Darroki (in a mocking nod to a certain [[Gwynne|little miss paladin]] she often butts heads with).  
 She smells of hot iron.
 
 > [!quote] Anger in the Everbryght
@@ -66,3 +67,6 @@ She smells of hot iron.
 > And then there's Rowena. I've been told that, when she saw how a junior court wizard had scorched young Aileen's left face during a serf revolt, she froze and her own face paled; saying nothing, she left her to the medic's care and stormed off. Days later, that wizard was mysteriously abducted over the corpse of his bodyguard; he was found dead in a shack, face melted off his bones.
 > Rowena is Wrath. I can't say whether that makes her, among the Everbryght, the one most suited to take on the world.
 > _-- Llyn ap Lwgh, conversing with Lady Sen of the Kashiwa Clan_
+
+## Wells of Power
+
