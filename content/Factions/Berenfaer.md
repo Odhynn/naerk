@@ -1,6 +1,6 @@
 ---
 title: Berenfaer
-date: 2024-03-05
+date: 2017-11-20
 author: odysseas
 tags:
   - factions/Berenfaer
@@ -50,6 +50,8 @@ This led to their duality as a political force to be reckoned with in the diplom
 
 The Berenfaer consist of an array of operatives spread across Naerk. To preserve the security protocols, they refer to each other by their agent nicknames and operate within regional cells that have only as much contact with the rest of the Berenfaer as is deemed safe by the higher layer of handlers and comms agents.
 
+### Personnel
+
 The leadership itself is based in Zolkar, and consists of the **assembly of spymasters**, accomplished operatives who take on the strategic and supportive duties.
 The spymasters have roles that range from political direction to undercover oversight, and are tasked with making sure that the operative network remains decentralised and individual cells have enough support when taking the initiative in their own regions.
 
@@ -60,5 +62,7 @@ The most influential spymasters include:
 - Teucer, captain of the scouts and sharpshooter
 - Ajax, captain of the guard and ferocious axeman
 
-Beyond a multitude of clandestine safehouses in foreign territories, the Berenfaer maintain a few formal strongholds on Zolkar, the most prominent being the castles of Pegasus Keep (overlooking Elestair) and Fort Freyr (along the coastline of Ilistair).
+### Bases
+
+Beyond a multitude of clandestine safehouses in foreign territories, the Berenfaer maintain a few formal strongholds on Zolkar, the most prominent being the castles of Pegasus Keep (overlooking [[Elestair]]) and Fort Freyr (along the coastline of [[Ilistair]]).
 Fort Freyr was captured from a major slave trader during the riots in the winter of 4817, while Pegasus Keep was magically constructed during the next summer by Banshee, with inhabitants coming to marvel at the carpentry and masonry flying into place as she sung and played on her harp.

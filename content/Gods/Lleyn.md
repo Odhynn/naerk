@@ -49,7 +49,7 @@ Whenever travellers would come through the Qusmic sky passages to Naerk, they wo
 This role was traditionally held by elven matrons until the [[Harrowing of Athalaar]]. After the cataclysm caused the demise of the Lady, her Maidens, and the athalaari elves in general, Yerastu arranged for the mantle to be henceforth borne by duskwalkers, reincarnations of past Ladies, so that Edhailin would not be left alone to disastrously unwind as Eltirion did. 
 
 Lleyn was a Lady of the Lake since the 46th century, the 65th of her name.
-On her watch she received a number of offworld travellers who would have a dramatic impact on Naerk's history, including Faenyss Laffirdul, [[Shizu the Swordmaiden]], the [[6th Sentinels of the Silver Flame]], and last but evidently not least, [[Sennarin#the Arrival|the entirety of the Sennarii people]].
+On her watch she received a number of offworld travellers who would have a dramatic impact on Naerk's history, including Faenyss Laffirdul, [[Shizu the Swordmaiden]], the [[7th Silver Flame Sentinels]], and last but evidently not least, [[Sennarin#the Arrival|the entirety of the Sennarii people]].
 
 ### Ascension
 

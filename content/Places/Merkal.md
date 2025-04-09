@@ -19,7 +19,7 @@ tags:
 > > | Religions | [[Yast]], [[Tarov]], [[Saekla]], [[Neverborn]], [[Klemnestron]] |
 > > | Location | eastern [[Oventhart]] |
 
-A city in central-east [[Oventhart]] that was plagued by the events of cultists, outsiders, [[Drakainia]] and subsequently [[Vethfall]].
+A city in central-east [[Oventhart]] that was plagued by the events of cultists, outsiders, [[Drakainia]] and subsequently [[vethfall-(2020)]].
 
 ## History
 

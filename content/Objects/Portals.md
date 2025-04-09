@@ -22,4 +22,4 @@ The [[druid]] circles almost unanimously began to resist the Thorny Passage, but
 
 ## After Vethfall
 
-These portals came to the fore again after the [[Vethfall]]. Traditional magical ways of teleportation and dimensional change began to fail, making the portals' value enormous. Accordingly, the Thorny Passage, who had survived and been forgotten, resumed tormenting travelers and gaining power from the few portals they had in hidden places under their control.
+These portals came to the fore again after the [[vethfall-(2020)]]. Traditional magical ways of teleportation and dimensional change began to fail, making the portals' value enormous. Accordingly, the Thorny Passage, who had survived and been forgotten, resumed tormenting travelers and gaining power from the few portals they had in hidden places under their control.

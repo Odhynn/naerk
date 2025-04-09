@@ -36,7 +36,7 @@ tags:
 ### Diplomatic relations
 - trade frameworks with [[Belgosreim]], [[North Darrok]], [[Alagon]] and [[Stormfall]]
 - demarcated territory boundaries and trade with the [[Athar]] Confederation, occasionally disrupted by mining prospection and raids
-- improving yet still cool relations with [[Sennarin]], following the peace treaty that ended the Arrival Wars in 4804
+- improving yet still cool relations with [[Sennarin]], following the peace treaty that ended the Arrival Wars (4793-4804)
 
 ### Dwarven Clans
 
@@ -48,4 +48,9 @@ tags:
 
 ## History
 
-The Bjaglanders never trusted or tried to understand the [[Sennarin|Sennari]] Clans. They waged constant war against them with numerous invasions, starting from year 4796 and carrying on every spring. The third invasion, at year 4798, was the biggest.
+Shortly after the Winter War, barbarians from the hordes of Thimvert came to settle in northwast Athalaar. Cut off from the rest of the world soon after as a result of [[the Harrowing]], after centuries of fighting against the elements, oni, ogres, and the Athar orcs, they consolidated their hold over the land they called Bjåglant.
+
+Over the course of the 48th century the ring of eternal storm around the shores of Athalaar broke off and gradually receded; with the seas now tranversable, the Bjåglanders didn’t take long to rediscover their ancestors' maritime ferocity, and soon began to raid across the sea and settle along the shores to the southwest.
+
+Just as they were beginning to push the frontier into Mitheryn forest, the [[Sennarin|Sennarii]] arrived from another world in 4790 and claimed the land instead. Tensions immediately rose and the Bjåglanders responded with a series of raids and invasions against the Sennarii, starting from 4793 and carrying on every spring; the third invasion in 4798 was the greatest in scale. Hostilities persisted until 4804, when both exhausted sides reached an accord that ended [[Sennarin#the Arrival Wars|the Arrival Wars]] and ushered in a period of tenuous peace.
+Popular resentment still lingers, but the benefits of trade, cultural and scientific exchange, and cooperation against the Harrowlands threat are rapidly wiping away the bad blood.

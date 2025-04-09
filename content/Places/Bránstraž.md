@@ -17,4 +17,4 @@ tags:
 > > | Religions | [[Yerastu]], [[Maeronian]], [[Yushan]], [[Malahir]] |
 > > | Location | Northwest [[Olgizmar]] |
 
-A fortified city that stands out as the least corrupted place in the island, after the demonic outbreak. Shortly after [[Vethfall]] and the breaking of the defensive demon wards, it was subjected to a demon attack by 100 demons led by a balor, [[Orgris]].
+A fortified city that stands out as the least corrupted place in the island, after the demonic outbreak. Shortly after [[vethfall-(2020)]] and the breaking of the defensive demon wards, it was subjected to a demon attack by 100 demons led by a balor, [[Orgris]].

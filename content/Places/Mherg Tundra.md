@@ -18,7 +18,7 @@ The tundra that spreads beyond [[Hoen]] and [[Oventhart]] to the freezing wastes
 
 ## Vethfall
 
-During [[Vethfall]], a huge extradimensional portal opened to the northwest of [[Oventhart]], in [[Mherg Tundra]]. It was at this point that Huge creatures from the [[Void]] Plane began to appear and head towards [[Merkal]] in waves, tearing apart everything in their path.
+During [[vethfall-(2020)]], a huge extradimensional portal opened to the northwest of [[Oventhart]], in [[Mherg Tundra]]. It was at this point that Huge creatures from the [[Void]] Plane began to appear and head towards [[Merkal]] in waves, tearing apart everything in their path.
 
 It soon became clear that the defense could not hold out forever. Each successive wave came stronger, with huge creatures with infinite eyes, tentacles and mental attacks. The defense was gradually giving way, and it became clear that the only way was for someone to go to the gate they were coming from and close it. And this job was undertaken by the [[Halcyon]], with the help of a few trusted friends and [[Twilight Veil]] that were aware of the events.
 
