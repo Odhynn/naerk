@@ -20,13 +20,14 @@ tags:
 > -- _final verse of the Everbryght stanza_
 
 The Everbryght are a group of six aliens hailing from the [[Realms Beyond]] who travel Naerk in search of a rare mineral that might help repair the fallout of a cataclysmic disaster in their homeworld.
+Though this ore is not something they expect someone to fight them for, they prefer to keep their quest known to as few as possible.
 
 - [[Smolynx]] Raerundlin, male elf Druid of the Circle of the Stag
-- [[Rowena]] Raerundlin, female half-elf Battlemage (of the jock variety)
+- [[Rowena]] Raerundlin, female half-elf Battlemage (of the jock variety)[^7]
 - [[Gwynne]] Shizusdottir, female nephelim Knight Hospitaller
 - [[Ulfwyr]] Arthwyrsson, male human Ranger longbowman
 - [[Bjonnyr]] Arthwyrsson, male human Barbarian axeman
-- [[Aileen]] Rosewood, female human Battlemage (of the nerd variety)
+- [[Aileen]] Rosewood, female human Battlemage (of the nerd variety)[^7]
 
 ## Morghonljucht
 
@@ -89,7 +90,7 @@ In an unfortunate turn of events borne of their parents' past always catching up
 > Bide my spirit protect them
 > Till the end of their time.
 
-Dinoksetijd's "treasure" survived, though they were subtly scarred by the event; it was this spell-scar that would eventually forge them into the Everbryght.
+Dinoksetijd's "treasure" survived, though they were subtly scarred by the event; it was this spell-scar that would bind them to a singular purpose.
 They were:
 - Smolynx, son of Annwn, 163 years old[^3]
 - Rowena, daughter of Smolynx, 17 years old
@@ -141,10 +142,10 @@ Since then, their paths have diverged and crossed as each follows their own ques
   - Smolynx travelled to [[Sunshine]] isle to speak with [[Droghor]] of the Dragonpact.
   - Ulfwyr and Bjonnyr (the Arthwyrsson brothers) travelled to Zolkar where they became involved in the events culminating in [[Zolkar's Dawn Riot]] and the resurgence of the [[Berenfaer]]; they were joined by Rowena as soon as she heard that good shite was going down.
   - Gwynne finished her training and was knighted under the Hospitaller Chapter of Dusk
-  - Aileen joined the [[Halcyon]] band for she shared their harrowed condition and sailed with them to [[Stormfall]], where she was captured and sent to [[Hashnev]] in chains
+  - Aileen joined the [[Halcyon]] band for she shared their harrowed condition and sailed with them to [[Stormfall]], where she was captured and sent to [[Hashnev]] in chains.
 - 4817, Spring
   - Smolynx travelled through the Allwick desert alongside his tiger companion Mr. Timms, where he briefly joined a band of spellcasters to traverse through an extra-planar crypt of riddles
-  - Aileen won her gladiatorial freedom in the arena and bore through the wicked machinations of slavers, royals, hellspriests and vampires in corrupt and evil-infested [[Hashnev]], managing to draw Palaurim's attention during the diplomatic councils, become a special commissar, and save a captured [[Steelshade]] who inducted her into the [[Berenfaer]]; Ulfwyr and [[Black Mist]] aided her efforts during the climactic battle in the palace
+  - Aileen won her gladiatorial freedom in the arena and bore through the wicked machinations of slavers, royals, hellspriests and vampires in corrupt and evil-infested [[Hashnev]], managing to draw Palaurim's attention during the diplomatic councils, get appointed as a special commissar, and save a captured [[Steelshade]] who inducted her into the [[Berenfaer]]; Ulfwyr and [[Black Mist]] aided her efforts during the climactic battle in the palace.
   - Gwynne undertook a pilgrimage that began in the [[Temple of the Sapphire Guard]] in the [[Alagon]] archipelago
 - 4817, Summer
   - Smolynx and Rowena journeyed through the [[Edhelwood]]
@@ -152,7 +153,7 @@ Since then, their paths have diverged and crossed as each follows their own ques
   - Ulfwyr and Bjonnyr sailed along the isles of the South Sea, setting up contacts and safehouses; Bjonnyr helped end [[the Blackthroat Disease]] and slew [[Nessessor]] in [[Marjalat]].
   - Gwynne's pilgrimage continued into [[North Darrok]] and the [[Four Winds Monastery]].
 - 4817, Autumn
-  - Aileen, joined by the [[Halcyon]] band, travelled to Oventhart to track missing Berenfaer agents, set up the ground at Greenmills for the [[Berenfaer]] to organise the resistance and moved on to [[Merkal]] where she fought the sinister forces trying to break [[Drakainia]] loose from her prison, culminating in the [[Battle of Klegonai Fields]] and the killiing of Drakainia in her demiplane prison in [[Mherg Tundra]]
+  - Aileen, joined by the [[Halcyon]] band, travelled to Oventhart to track missing Berenfaer agents, set up the ground at Greenmills for the [[Berenfaer]] to organise the resistance, was appointed to the [[Dragonpact]] as the commander of the kobold [[Slitherscale Brigade]], and moved on to [[Merkal]] where she fought the sinister forces trying to break [[Drakainia]] loose from her prison, culminating in the [[Battle of Klegonai Fields]] and the killing of Drakainia in her demiplane prison in [[Mherg Tundra]]
   - Smolynx and Rowena answered the call of the Oventhari druidic circles and fought against the abberration hordes in the woods
   - Gwynne caught wind of a lead while in [[Ekteron]] that led her to ask officers of the passing [[Wolf Legion]] to smuggle her into [[Olgizmar]]; there she was arrested and incarcerated in the cold iron mines until cataclysmic [[vethfall-(2020)]] events sundered the wards and led her joining the defence of [[Bránstraž]].
   - Ulfwyr and Bjonnyr were caught in a seastorm while on their South Sea escapades and were marooned in [[Drozzin]], where they slew the sea dragon [[Ozrallon]] and traversed the Screaming Maze to obtain a Crown of the Cyclopes
@@ -161,7 +162,7 @@ Since then, their paths have diverged and crossed as each follows their own ques
   - Smolynx investigated Aileen's disappearance with the aid of [[Ingasto]] and the [[Twilight Veil]]
   - Rowena could not stomach her father's safe approach and set out blindly on her own to find anything that might lead to Aileen, ended up arrested and sent to [[Kemilia]] where she got tangled up in a conspiracy implicating [[Ashiro]]'s Wells of Power and the [[Crimson Steel]]  
 
-Little morghonljucht has been collected thus far (Smolynx is the only one to have been lucky), but the Everbryght have naught to do but keep moving.
+Little morghonljucht has been collected thus far (Smolynx is the only one to have been lucky), but the Everbryght have naught to do but keep moving, keep looking, and tell noone.
 
 ---
 
@@ -174,3 +175,4 @@ Limping after him, they briefly crossed blades with a [[Shizu#Blood Moon|young s
 [^4]: Sigrid, a bard well-versed in arcane lore by Annwn and Bjorg the Mad, hailed from the same region as the ap Qwynn siblings but had no clan name, thus she adopted the task force callsign as hers.
 [^5]: The Everbryght swords' morgholjucht-steel alloy glows in the vicinity of morghonljucht traces, and can bind the traces to itself with a certain alchemical procedure. 
 [^6]: The Everbryght Stanza consists of those last 3 lines and is inscribed on the sword-anchors of the Everbryght, as it lyrically conveys the nature of their never-ending quest. They have taken to using it as a calling sign to recognise one another in delicate or discreet situations: one member will begin reciting the stanza in their own ancient native language (that is alien to Naerk) and the other will finish it.
+[^7]: Aileen and Rowena both attended Gwynnedh Battlemage Academy, a wizard school with an emphasis on abjuration, evocation, and the employ of magic staves, that Bjorg the Mad and Annwn Raerundlin also adhered to. The girls' approaches to the tradition, however, are wildly unorthodox: Aileen has extensively modified her staves to function as a crossbow or rifle through which she can channel ray spells, while Rowena uses hers to actually physically beat people up.
