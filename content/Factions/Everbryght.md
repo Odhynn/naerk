@@ -64,7 +64,7 @@ The Realms Beyond were home to a semi-secret organisation tasked with covertly d
 
 
 In the years leading up to 4787, the Task Force Rosewood operatives picked up on the efforts of a triumvirate of sinister spellcasters (Rheverask Blackfang aided by his protegé Griannimhziel, Faenyss Laffirdul, and Jeanne Claire Lillith) to obtain the Swords of the Archangels, two twin artifacts with the power to slay a god.
-Realising the extent of Faenyss Laffirdul's ambitions, squad leader Annwn Raerundlin briefed a group of adventurers that had risen to heroes fighting alongside the task force before and anointed them as the [[7th Silver Flame Sentinels]][^2].
+Realising the extent of Faenyss Laffirdul's ambitions, squad leader Annwn Raerundlin briefed a group of adventurers that had risen to hero status fighting alongside the task force before and anointed them as the [[7th Silver Flame Sentinels]][^2].
 
 The Triumvirate's dark, world-upending designs meant that those blades had to be kept from their hands at all costs.
 - **The Dawnblade** had fallen to Naerk along with its wielder eons ago, and having proven their mettle by their side, the Silver Flame Sentinels were tasked with travelling there and retrieving it.
@@ -90,7 +90,7 @@ In an unfortunate turn of events borne of their parents' past always catching up
 > Bide my spirit protect them
 > Till the end of their time.
 
-Dinoksetijd's "treasure" survived, though they were subtly scarred by the event; it was this spell-scar that would bind them to a singular purpose.
+Dinoksetijd's "treasure" survived, though they were subtly scarred by the event; it was this spell-scar that would eventually bind them to a singular purpose.
 They were:
 - Smolynx, son of Annwn, 163 years old[^3]
 - Rowena, daughter of Smolynx, 17 years old
@@ -140,12 +140,12 @@ Since then, their paths have diverged and crossed as each follows their own ques
 
 - 4817, Winter
   - Smolynx travelled to [[Sunshine]] isle to speak with [[Droghor]] of the Dragonpact.
-  - Ulfwyr and Bjonnyr (the Arthwyrsson brothers) travelled to Zolkar where they became involved in the events culminating in [[Zolkar's Dawn Riot]] and the resurgence of the [[Berenfaer]]; they were joined by Rowena as soon as she heard that good shite was going down.
-  - Gwynne finished her training and was knighted under the Hospitaller Chapter of Dusk
+  - Ulfwyr and Bjonnyr (the Arthwyrsson brothers) travelled to Zolkar where they became involved in the events culminating in [[Zolkar's Dawn Riot]] and the resurgence of the [[Berenfaer]]; they were joined by Rowena as soon as she heard of the amount of shite that was going down.
+  - Gwynne finished her training and was knighted under the Hospitaller Far West Chapter
   - Aileen joined the [[Halcyon]] band for she shared their harrowed condition and sailed with them to [[Stormfall]], where she was captured and sent to [[Hashnev]] in chains.
 - 4817, Spring
   - Smolynx travelled through the Allwick desert alongside his tiger companion Mr. Timms, where he briefly joined a band of spellcasters to traverse through an extra-planar crypt of riddles
-  - Aileen won her gladiatorial freedom in the arena and bore through the wicked machinations of slavers, royals, hellspriests and vampires in corrupt and evil-infested [[Hashnev]], managing to draw Palaurim's attention during the diplomatic councils, get appointed as a special commissar, and save a captured [[Steelshade]] who inducted her into the [[Berenfaer]]; Ulfwyr and [[Black Mist]] aided her efforts during the climactic battle in the palace.
+  - Aileen won her gladiatorial freedom in the arena and bore through the wicked machinations of slavers, royals, hellspriests and vampires in corrupt and evil-infested [[Hashnev]], managing to draw Palaurim's attention during the diplomatic councils, get appointed as a special committee member, and save a captured [[Steelshade]] who inducted her into the [[Berenfaer]]; Ulfwyr and [[Black Mist]] aided her efforts during the climactic battle in the palace.
   - Gwynne undertook a pilgrimage that began in the [[Temple of the Sapphire Guard]] in the [[Alagon]] archipelago
 - 4817, Summer
   - Smolynx and Rowena journeyed through the [[Edhelwood]]
@@ -154,17 +154,15 @@ Since then, their paths have diverged and crossed as each follows their own ques
   - Gwynne's pilgrimage continued into [[North Darrok]] and the [[Four Winds Monastery]].
 - 4817, Autumn
   - Aileen, joined by the [[Halcyon]] band, travelled to Oventhart to track missing Berenfaer agents, set up the ground at Greenmills for the [[Berenfaer]] to organise the resistance, was appointed to the [[Dragonpact]] as the commander of the kobold [[Slitherscale Brigade]], and moved on to [[Merkal]] where she fought the sinister forces trying to break [[Drakainia]] loose from her prison, culminating in the [[Battle of Klegonai Fields]] and the killing of Drakainia in her demiplane prison in [[Mherg Tundra]]
-  - Smolynx and Rowena answered the call of the Oventhari druidic circles and fought against the abberration hordes in the woods
-  - Gwynne caught wind of a lead while in [[Ekteron]] that led her to ask officers of the passing [[Wolf Legion]] to smuggle her into [[Olgizmar]]; there she was arrested and incarcerated in the cold iron mines until cataclysmic [[vethfall-(2020)]] events sundered the wards and led her joining the defence of [[Bránstraž]].
+  - Smolynx and Rowena answered the call of the Oventhari druidic circles and fought against [[Drakainia]]'s abberration hordes in the forests
+  - Gwynne caught wind of a lead while in [[Ekteron]] that led her to ask officers of the passing [[Wolf Legion]] to smuggle her into [[Olgizmar]]; there she was arrested by the magister circles and incarcerated in the cold iron mines until cataclysmic [[vethfall-(2020)]] events sundered the wards and led her joining the defence of [[Bránstraž]].
   - Ulfwyr and Bjonnyr were caught in a seastorm while on their South Sea escapades and were marooned in [[Drozzin]], where they slew the sea dragon [[Ozrallon]] and traversed the Screaming Maze to obtain a Crown of the Cyclopes
 - 4818, Winter
-  - Aileen went missing for a year after [[vethfall-(2020)]], trapped in a temporal bubble inside Drakainia's demiplane prison
+  - Aileen went missing for a year after [[Vethfall]], trapped in a temporal bubble inside Drakainia's demiplane prison
   - Smolynx investigated Aileen's disappearance with the aid of [[Ingasto]] and the [[Twilight Veil]]
   - Rowena could not stomach her father's safe approach and set out blindly on her own to find anything that might lead to Aileen, ended up arrested and sent to [[Kemilia]] where she got tangled up in a conspiracy implicating [[Ashiro]]'s Wells of Power and the [[Crimson Steel]]  
 
 Little morghonljucht has been collected thus far (Smolynx is the only one to have been lucky), but the Everbryght have naught to do but keep moving, keep looking, and tell noone.
-
----
 
 [^1]: While investigating archmage Faenyss Laffirdul in 4776 over at their native Realms Beyond, agents Timon Diveldyr and Ullisson Firlyvan unwittingly followed him through a portal and washed up on the Lake of the Moon.
 Faenyss had already left, having the means to immediately escape Athalaar and conduct his business, while the two dumbstruck rangers were told by the [[Lleyn|Lady of the Lake]] that they could still ascend Eltirion during the incoming Bloodmoon and return to their homeworld.
