@@ -58,9 +58,9 @@ The spymasters have roles that range from political direction to undercover over
 The most influential spymasters include:
 - [[Steelshade]], councillor and political face of the Berenfaer and Elestair, holding one of the two seats of Zolkar in the Council of [[Palaurim]]; he is credited with reviving the Berenfaer by spearheading the Zolkar's Dawn riots
 - [[Black Mist]], head of intelligence and master spy, a vigilante with multiple identities and sharpshooter
-- Banshee, head analyst and cultural face of the Berenfaer, a powerful arcanist and muse of Elestair; coming into the fold after rescuing Steelshade in Hashnev, she is credited with introducing the security protocol reforms
-- Teucer, captain of the scouts and sharpshooter
-- Ajax, captain of the guard and ferocious axeman
+- [[Aileen|Banshee]], head analyst and cultural face of the Berenfaer, a powerful arcanist and muse of Elestair; coming into the fold after rescuing Steelshade in Hashnev, she is credited with introducing the security protocol reforms
+- [[Ulfwyr|Teucer]], captain of the scouts and sharpshooter
+- [[Bjonnyr|Ajax]], captain of the guard and ferocious axeman
 
 ### Bases
 
