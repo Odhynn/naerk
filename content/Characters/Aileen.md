@@ -32,11 +32,11 @@ wiki:
 
 Aileen Saoirse Rosewood, a.k.a. Rose Spellsmith, is a lead spymaster of the [[Berenfaer]], an accomplished battlemage, a skilled performer in song and harp, a workaholic crafter of magic items and spells with a doctorate in clockwork engineering from Kwarix, and one of the [[Everbryght]].
 
-She is a twitchy bookworm, selectively obsessive, studious in her art and meticulous in her projects.
-She bears burn marks on her left side, mementoes of state crackdown upon the civilian uprisings of her teen years.
-She will overanalyse and overthink things before they happen, and nag about any mistakes after they happen.
-She is accompanied and watched over by her familiar and aide Sir Felix, a sarcastic silvanshee making sure this anxious redhead keeps her head on.
-She smells of roses.
+- a twitchy bookworm, selectively obsessive, studious in her art and meticulous in her projects
+- bears burn marks on her left side, mementoes of state crackdown upon the civilian uprisings of her teen years
+- will overanalyse and overthink things before they happen, and nag about any mistakes after they happen
+- accompanied and watched over by her familiar and aide Sir Felix, a sarcastic silvanshee making sure this anxious redhead keeps her head on
+- smells of roses
 
 ## Halcyon
 

@@ -32,12 +32,12 @@ wiki:
 
 Ulfwyr Arthwyrsson, a.k.a. the Wolf, is a top field agent of the [[Berenfaer]], a scout sniper longbowman well-versed in guerilla warfare, a cynical paramedic, and one of the [[Everbryght]].
 
-He speaks common with a slight North Darroki accent.
-He possesses an inquisitive mind and uncanny eloquence that is severely offset by his pride and misanthropism. 
-Though especially prone to anger, he usually opts to diss and glare instead of raising the tone of his voice (except when it comes to his senile owl Skárll).
-He often tilts his head in conversation or when concentrating on his hearing.
-He has taught his wolf, Virginia, to help in interrogations by growling or sitting on the prisoner.
-He smells of rain.
+- speaks common with a slight North Darroki accent
+- possesses an inquisitive mind and uncanny eloquence that is severely offset by his pride and misanthropism
+- especially prone to anger, but usually opts to diss and glare instead of yelling (except when it comes to his senile owl Skárll)
+- often tilts his head in conversation or when concentrating on his hearing
+- has taught his wolf, Virginia, to help in interrogations by growling or sitting on the prisoner
+- smells of rain
 
 ## Berenfaer
 

@@ -31,12 +31,11 @@ wiki:
 > ΑΠΑΝΩ ΝΤΩΣ!
 > _-- joyful Qrattan battle-exclamation_
 
-Bjonnyr Arthwyrsson, a.k.a. the Bear, is a top field agent of the [[Berenfaer]], an unrelenting towering barbarian wielding a greataxe, a skilled smith and artisan, and one of the [[Everbryght]].
+Bjonnyr Arthwyrsson, a.k.a. the Bear, is a top field agent of the [[Berenfaer]], an unrelenting towering barbarian wielding a greataxe, a skilled smith and carpenter, and one of the [[Everbryght]].
 
-He speaks common with a slight North Darroki accent.
-Though prone to bursts of fierce battle-rage when threatened, he makes is a gentle giant that more often than not is mildly disgruntled to realise he has to play the adult in the room.
-He revels in blacksmithing and woodworking in his spare time.
-He smells of fur.
+- speaks common with a slight North Darroki accent.
+- prone to bursts of fierce battle-rage when threatened, but otherwise a gentle giant who more often than not is the adult in the room
+- smells of fur
 
 ## Berenfaer
 
