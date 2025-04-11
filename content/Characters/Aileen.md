@@ -28,7 +28,7 @@ wiki:
 > > | appearance | <li>copper red hair</li><li>green eyes</li><li>freckled skin</li> |
 
 > Heads held high.
-> _-- signature sign-off in Aileen's revolutionary correspondence_
+> _-- signature sign-off in revolutionary correspondence_
 
 Aileen Saoirse Rosewood, a.k.a. Rose Spellsmith, is a lead spymaster of the [[Berenfaer]], an accomplished battlemage, a skilled performer in song and harp, a workaholic crafter of magic items and spells with a doctorate in clockwork engineering from Kwarix, and one of the [[Everbryght]].
 

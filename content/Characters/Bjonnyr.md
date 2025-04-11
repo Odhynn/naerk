@@ -39,7 +39,7 @@ Bjonnyr Arthwyrsson, a.k.a. the Bear, is a top field agent of the [[Berenfaer]],
 
 ## Berenfaer
 
-He participated in the [[Zolkar's Dawn Riot]] events that led to the resurgence of the Berenfaer after invited thence by his brother [[Ulfwyr]] in 4817.
+He participated in the [[Zolkar's Dawn Riot]] events that led to the resurgence of the Berenfaer, along with his brother [[Ulfwyr]] in 4817.
 They sailed to the South Sea afterwards to explore and expand the presence of the Berenfaer.
 
 ## South Sea
