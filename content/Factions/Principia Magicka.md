@@ -72,7 +72,7 @@ This list contains magic that is potentially dangerous to the user, as well as t
 **Repeated time manipulation.**
 **Repeated usage of elemental spell channeling from opposite sides of the [[Elemental Ring]].**
 **Impeded magic in a relevant plane.**
-**Long Range Teleportation** *(After [[vethfall-(2020)]])*
+**Long Range Teleportation** *(After [[Vethfall]])*
 
 ## Chapter 3. Restricted Magic
 This list contains spells whose use has been restricted for safety reasons and to prevent some effects from getting out of control.

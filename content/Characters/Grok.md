@@ -23,7 +23,7 @@ A devoted paladin of the [[Luminous Sword]]. He fights with his armored fists, n
 
 ## Vethfall
 
-Grok arrived in [[Oventhart]] during the late stage of the battle of [[vethfall-(2020)]] and fought the abominations of [[Yast]] with the [[Halcyon]] group.
+Grok arrived in [[Oventhart]] during the late stage of the battle of [[Vethfall]] and fought the abominations of [[Yast]] with the [[Halcyon]] group.
 
 ## Tarthyn Invasion
 

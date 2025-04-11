@@ -40,7 +40,7 @@ Aileen Saoirse Rosewood, a.k.a. Rose Spellsmith, is a lead spymaster of the [[Be
 
 ## Halcyon
 
-Aileen was part of the 2nd Selanaari Expedition to Selanaar when she was caught inside the Harrowmist along with the [[Halcyon]] band.
+Aileen was part of the 2nd Sennarii Expedition to Selanaar when she was caught inside the Harrowmist along with the [[Halcyon]] band.
 Bound with them by their common harrowing curse, they sailed to [[Stormfall]], where they were captured and sent to [[Hashnev]] in chains to fight as gladiators.
 
 After they won their freedom in the arena, she had no option than to remain in the corrupt and evil-infested [[Hashnev]] with them, tagging along through the wicked machinations of slavers, royals, hellspriests and vampires.
