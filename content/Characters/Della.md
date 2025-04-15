@@ -1,6 +1,6 @@
 ---
 title: Lady Della
-subtitle: male mounted archer
+subtitle: Pirate Counselor
 date: 2024-08-23
 author: sfakias
 tags:

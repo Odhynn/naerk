@@ -1,5 +1,5 @@
 ---
-title: Belaroth
+title: Blackclaw
 date: 2024-03-28
 author: sfakias
 tags:

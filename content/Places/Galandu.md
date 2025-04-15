@@ -1,5 +1,5 @@
 ---
-title: Frolicat
+title: Galandu
 date: 2024-05-01
 author: sfakias
 tags:
