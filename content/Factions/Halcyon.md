@@ -1,6 +1,6 @@
 ---
 title: Halcyon
-subtitle: harrowed band
+subtitle: band of misfits
 date: 2025-04-11
 author: odysseas
 tags:
@@ -15,5 +15,5 @@ Provided with a stash of leaves to burn whenever the condition of one of them pr
 - [[Olsar]]
 - [[Ternath]]
 - [[Orok]]
-- [[Aileen]]
-- [[Wo Cho]]
+- [[Aileen]] (after Selanaar)
+- [[Wo Cho]] (after Hashnev)

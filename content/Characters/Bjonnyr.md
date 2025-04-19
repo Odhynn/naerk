@@ -31,18 +31,18 @@ wiki:
 > ΑΠΑΝΩ ΝΤΩΣ!
 > _-- joyful Qrattan battle-exclamation_
 
-Bjonnyr Arthwyrsson, a.k.a. the Bear, is a top field agent of the [[Berenfaer]], an unrelenting towering barbarian wielding a greataxe, a skilled smith and carpenter, and one of the [[Everbryght]].
+Bjonnyr Arthwyrsson, a.k.a. the Bear, is a field agent of the [[Berenfaer]] by the handle "Ajax", an towering barbarian wielding a greataxe, a skilled smith and carpenter, and one of the [[Everbryght]].
 
 - speaks common with a slight North Darroki accent.
-- prone to bursts of fierce battle-rage when threatened, but otherwise a gentle giant who more often than not is the adult in the room
-- smells of fur
+- prone to bursts of fierce battle-rage, but otherwise a gentle giant who more often than not is the adult in the room
+- smells of wet fur
 
 ## Berenfaer
 
-He participated in the [[Zolkar's Dawn Riot]] events that led to the resurgence of the Berenfaer, along with his brother [[Ulfwyr]] in 4817.
-They sailed to the South Sea afterwards to explore and expand the presence of the Berenfaer.
+He took part in the [[Zolkar's Dawn Riot]] events that led to the resurgence of the Berenfaer, along with his brother [[Ulfwyr]] in 4817.
+They both sailed to the South Sea afterwards to explore and expand the presence of the Berenfaer.
 
 ## South Sea
 
 While travelling through [[Marjalat]] he joined [[Delishart]], [[Ludvig]] and [[Malthis]] in ending [[The Blackthroat Disease]] and slaying [[Nessessor]].
-Later that year, the brothers' sea journeys took them to [[Drozzin]], where they fought and killed the sea dragon [[Ozrallon]].
+Later that year, the Arthwyrsson brothers' sea journeys took them to [[Drozzin]], where they fought and killed the sea dragon [[Ozrallon]].

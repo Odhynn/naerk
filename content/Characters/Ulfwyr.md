@@ -30,18 +30,17 @@ wiki:
 > Feh.
 > _-- annoyed Qrattan syllable_
 
-Ulfwyr Arthwyrsson, a.k.a. the Wolf, is a top field agent of the [[Berenfaer]], a scout sniper longbowman well-versed in guerilla warfare, a cynical paramedic, and one of the [[Everbryght]].
+Ulfwyr Arthwyrsson, a.k.a. the Wolf, is a field agent of the [[Berenfaer]] by the handle "Teucer", a scout sniper longbowman well-versed in guerilla warfare, a cynical paramedic, and one of the [[Everbryght]].
 
 - speaks common with a slight North Darroki accent
-- possesses an inquisitive mind and uncanny eloquence that is severely offset by his pride and misanthropism
-- especially prone to anger, but usually opts to diss and glare instead of yelling (except when it comes to his senile owl Skárll)
-- often tilts his head in conversation or when concentrating on his hearing
-- has taught his wolf, Virginia, to help in interrogations by growling or sitting on the prisoner
+- sharp mind and uncanny eloquence is severely offset by pride and misanthropism
+- holds silent grudges
+- has taught his dire wolf companion, Virginia, to help in interrogations by sitting on the prisoner
 - smells of rain
 
 ## Berenfaer
 
-He was a major player in the [[Zolkar's Dawn Riot]] events that led to the resurgence of the Berenfaer, under the guidance of [[Steelshade]] and alongside [[Black Mist]].
+He was a major actor in the [[Zolkar's Dawn Riot]] events that led to the resurgence of the Berenfaer, under the guidance of [[Steelshade]] and alongside [[Black Mist]].
 
 ## South Sea
 
