@@ -127,17 +127,20 @@ They were named the Everbryght in honour of [[Shizu|the Swordmaiden Serene]] and
 
 The Everbryght all arrived in Naerk with nothing but a projection of their bodies and a sword, and that's what they will eventually depart with unless either the body or the anchor are destroyed.
 
-Smolynx was the first to test the endeavour's viability and successfully projected to Naerk in 4804. To her astonishment [[Lleyn]] witnessed once more a falling star descend upon the lands of Sennarin, and gently nudged it to another lake in Mitheryn forest.
-The druids there witnessed a blind elf emerge naked from the lake, quivering, clutching a sword, and were soon amazed to discover that he spoke something resembling Druidic.
-In the following years, Smolynx scoured Sennarin and Bjåglant for morghonljucht traces, became a prominent leader of the [[Circle of the Stag]] and worked with the Swordmaiden Serene's sisters, Lady Hime and Lady Sen of the Clans of Snow, to prepare for the arrival of the 5 children 11 years later in 4815.
-
-Following a year of acclimatisation and preparation, the first trial of the youngsters was their participation in the 2nd Sennarii Expedition to the Harrowlands during the Blood Moon of 4816, where they hoped to uncover clues long lost to even Abraar Emberbeard.
-On the haunted shores of Selanaar, the expedition went as horribly wrong as the previous one. Sennarii soldiers torn apart around them, the youngsters made it through fraught landscapes and deadly battles with oni, aberrations, and ghosts, to the final stand at Doong-jiao mountain where the [[Halcyon]] broke [[Angaeradh]] loose from her confinement that she might hold the Haruspex of Voolthow at bay.
-[[Aileen]] climbed and blinked her way to the top of the ancient comms tower and sent out a signal to the Griffon Cavalry beyond the shores, who promptly swooped in and extracted the remnants of the expedition; however, she was momentarily caught in the Harrowmist and contracted the curse.
-
-After that, the Everbryght agreed to go their separate ways and spread out across Naerk, so that they may cover more ground and have more chances of finding a lead.
-Since then, their paths have diverged and crossed as each follows their own quests. 
-
+- 4804
+  Smolynx was the first to test the endeavour's viability and successfully project to Naerk. To her astonishment [[Lleyn]] saw once more a falling star descend from the skies, and gently nudged it to a lake in Mitheryn forest. The druids there witnessed a blind elf emerge naked from the lake, quivering, clutching a sword, and speaking an outlandish variant of Druidic.
+- 4805-4815
+  For the next decade, Smolynx scoured Sennarin and Bjåglant for morghonljucht traces, became a prominent leader of the [[Circle of the Stag]] and worked with the Swordmaiden Serene's sisters, Lady Hime and Lady Sen of the Clans of Snow, to prepare for the arrival of the 5 children.
+- 4815, Spring
+  Upon arrival, they spent a year and a half to acclimate and learn about Naerk.
+  - Gwynne served as an officer cadet in the Griffon Cavalry of the Snow Clans, eventually reaching the rank of Reserve Lance-Lieutenant, and trained with the Knights Hospitaller in their newly established chapter house in Yoakyuuden.
+  - Ulfwyr and Bjonnyr travelled to [[Bjåglant]] and [[North Darrok]] under the tutelage of Smolynx.
+  - Aileen and Rowena were tutored by Lady Sen and Lady Hime respectively so that they would adapt their arcane knowledge to vethian magic.
+- 4816, Autumn
+  - The first trial of the youngsters was their participation in the 2nd Sennarii Expedition to the Harrowlands during the Blood Moon of 4816, where they hoped to uncover clues long lost to even Abraar Emberbeard.
+  - On the haunted shores of Selanaar, the expedition went as horribly awry as the previous one. Sennarii soldiers torn apart around them, the youngsters made it through fraught landscapes and deadly battles with oni, aberrations, and ghosts, to the final stand at Doong-jiao mountain where the [[Halcyon]] band broke [[Angaeradh]] loose from her confinement, that she might hold the Haruspex of Voolthow at bay.
+  - Aileen climbed and blinked her way to the top of the ancient comms tower and sent out a distress signal to Smolynx, was momentarily caught in the Harrowmist and contracted the curse.The Griffon Cavalry homed into the signal and extracted the remnants of the expedition.
+  - After that, the Everbryght agreed to go their separate ways and spread out across Naerk, so that they may cover more ground and have more chances of finding a lead. Since then, their paths have diverged and crossed again as each follows their own quests. 
 - 4817, Winter
   - Smolynx travelled to [[Sunshine]] isle to speak with [[Droghor]] of the Dragonpact.
   - Ulfwyr and Bjonnyr (the Arthwyrsson brothers) travelled to Zolkar where they became involved in the events culminating in [[Zolkar's Dawn Riot]] and the resurgence of the [[Berenfaer]]; they were joined by Rowena as soon as she heard of the amount of shite that was going down.
@@ -160,9 +163,20 @@ Since then, their paths have diverged and crossed as each follows their own ques
 - 4818, Winter
   - Aileen went missing for a year after [[Vethfall]], trapped in a temporal bubble inside Drakainia's demiplane prison
   - Smolynx investigated Aileen's disappearance with the aid of [[Ingasto]] and the [[Twilight Veil]]
-  - Rowena could not stomach her father's safe approach and set out blindly on her own to find anything that might lead to Aileen, ended up arrested and sent to [[Kemilia]] where she got tangled up in a conspiracy implicating [[Ashiro]]'s Wells of Power and the [[Crimson Steel]]  
+  - Rowena could not stomach her father's safe approach and set out blindly on her own to find anything that might lead to Aileen, ended up arrested and sent to [[Kemilia]] where she got tangled up in a conspiracy implicating [[Ashiro]]'s Wells of Power and the [[Crimson Steel]] assassins.  
 
-Little morghonljucht has been collected thus far (Smolynx is the only one to have been lucky), but the Everbryght have naught to do but keep moving, keep looking, and tell noone.
+## Secrecy
+
+While morghonljucht has no apparent use in Naerk, Smolynx has dictated they be discreet about their quest. Precious few individuals besides the Everbryght are aware of the mission: 
+- Lady Sen and Lady Hime, the Swordmaiden Serene's sisters and leaders of the Clans of Snow.
+- [[Aldastrio]] and [[Droghor]] Firan, the Swordmaiden Serene's old comrades and powerful paragons in their field.
+- Hrimgar, Aarda, and Brotje Emberbeard, elders of Clan Emberbeard who were at first reluctant to condone or aid in the matter.
+- Ghorrek Emberbeard, cleric of Klont, was authorised by the clan elders to accompany the Everbryght in their travels; he chose the [[Rowena|crazy one]].
+- Mordrydd Emberbeard, expatriate alchemist, has declined to help.
+- [[Lindiwe]] ap Lwgh, once a [[Lleyn#Lady of the Lake|Maiden of the Lake]] and now an explorer of the [[Syvhorms Cartographic Society]].
+- [[Heather]], a globetrotting witch prodigy and a manic changeling perpetually high on tea.
+
+Little morghonljucht had been collected by the end of 4817 (Smolynx is the only one to have been lucky), but the Everbryght have naught to do but keep moving, keep looking, and tell noone.
 
 [^1]: While investigating archmage Faenyss Laffirdul in 4776 over at their native Realms Beyond, agents Timon Diveldyr and Ullisson Firlyvan unwittingly followed him through a portal and washed up on the Lake of the Moon.
 Faenyss had already left, having the means to immediately escape Athalaar and conduct his business, while the two dumbstruck rangers were told by the [[Lleyn|Lady of the Lake]] that they could still ascend Eltirion during the incoming Bloodmoon and return to their homeworld.
