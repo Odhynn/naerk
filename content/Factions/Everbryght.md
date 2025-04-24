@@ -167,12 +167,12 @@ The Everbryght all arrived in Naerk with nothing but a projection of their bodie
 
 ## Secrecy
 
-While morghonljucht has no apparent use in Naerk, Smolynx has dictated they be discreet about their quest. Precious few individuals besides the Everbryght are aware of the mission: 
+While morghonljucht has no apparent use in Naerk, Smolynx has dictated they be discreet about their quest. Precious few individuals besides the Everbryght are aware of their mission: 
 - Lady Sen and Lady Hime, the Swordmaiden Serene's sisters and leaders of the Clans of Snow.
-- [[Aldastrio]] and [[Droghor]] Firan, the Swordmaiden Serene's old comrades and powerful paragons in their field.
+- [[Aldastrio]] and [[Droghor]] Firan, the Swordmaiden Serene's comrades of yore and powerful paragons in their field.
 - Hrimgar, Aarda, and Brotje Emberbeard, elders of Clan Emberbeard who were at first reluctant to condone or aid in the matter.
 - Ghorrek Emberbeard, cleric of Klont, was authorised by the clan elders to accompany the Everbryght in their travels; he chose the [[Rowena|crazy one]].
-- Mordrydd Emberbeard, expatriate alchemist, has declined to help.
+- [[Mordrydd]] Emberbeard, expatriate alchemist, [[Segue|has thus far declined to help]].
 - [[Lindiwe]] ap Lwgh, once a [[Lleyn#Lady of the Lake|Maiden of the Lake]] and now an explorer of the [[Syvhorms Cartographic Society]].
 - [[Heather]], a globetrotting witch prodigy and a manic changeling perpetually high on tea.
 

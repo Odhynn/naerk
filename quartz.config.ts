@@ -14,8 +14,8 @@ const config: QuartzConfig = {
     defaultDateType: "created",
     theme: {
       typography: {
-        header: "Ubuntu",
-        body: "Ubuntu",
+        header: "Alegreys",
+        body: "Alegreya",
         code: "Cascadia Code",
       },
       colors: {

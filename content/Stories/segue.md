@@ -19,23 +19,23 @@ The young mage rubbed her forehead in exasperation. “Sorry to have to bother y
 “Charming” repeated wryly the black cat familiar hovering by the girl’s shoulder over the sounds of joyful vulgarity coming from across the bank.  
 “I know, right?” said an amused [[Mordrydd]], “my Fishes are a hearty bunch, to be sure. I have acquired an elite clientele, from [[Jarl Bugril]]’s [[Folegg|sickly kid]] to the drunkard that just took a dive over there. Big plus, they do not mind when I cause one too many...” he made a gleeful blow-up gesture, “...explosions! I’m right fine where I stand, right here, right now. Might have taken you up on yer offer once, but I'm going through a settled-down phase at the moment. So, yeah... nope.”  
 The cat grinned thoughtfully and whispered a few unintelligible words in its mistress’s ear. The girl mulled over them for a second and glanced back at the dwarf.  
-“Well, I suppose I should be glad for you finding your place...” She paused for effect. “Especially this far from home.”  
+“Well, it is good that you found your place...” She paused for effect. “Never the less this far from home.”  
 A tiny yet visible bit of Mordrydd’s grin evaporated.  
-“Ah, yeah, excuse me. Forgot to mention. I did knock on their door too” added the mage girl, pretending not to notice she had struck a nerve. “The Emberbeard Clan Hold of [[Thurskogen]], while I was studying for a few months in the Hall of Skalds in [[Spøkkeborg]]. Needless to say, they were not very eager themselves, even though Morgonljucht is supposed to be their shtick.”  
+“Ah, yes, excuse me. Forgot to mention. We did knock on their door too” added the mage girl, pretending not to notice she had struck a nerve. “The Emberbeard Clan Hold of [[Thurskogen]]. Needless to say, they were not very eager themselves, even though Morgonljucht is supposed to be their shtick.”  
 The dwarf eyed the young mage inquisitively, his attention having drifted entirely away from his vials. “It IS their shtick” he finally said, suddenly serious, “that’s why they won’t hand it to a stranger. They can’t have a stranger milk something out of the bloody Morgonljucht now, can they?” He shook his head as he tried to bury his dwarven nose back into his notes.  
 “Nope. Better any practical use of the dumb stuff remain in research limbo forever than someone else beating them in their own game, I guess” he murmured. “Abraar Emberbeard’s descendants toiled for generations to unlock its huge potential, and their efforts were marred with failure and disappointment. After all that, as far as the clan is concerned, it wouldn’t do to give it all up, even under the ‘pretext’ of outsourcing or collaboration, no...” He glanced back up at the girl. “No, that’s not their way. If the Clan can’t make something out of the damn thing, then no one should.”  
 “But what if YOU were the one to jumpstart the Morgonljucht research again?” tried the girl. “You’re one of the clan.”  
 “Debatable” sighed the dwarf. “Why do ya think I had to come here to ‘find my place’ in the first place?” Mordrydd looked into the girl’s eyes, and she could see it was a deep pot of story she had stirred.  
 “Apologies, master dwarf” tried her familiar, in a baritone voice atypical of a cat, “we didn’t mean to pry.”  
 “Nay, it’s fine. The clans can hold on to their honour for as long and as tightly as they wish, no matter the cost, the years, the waste, no matter which side of the [[Draugrelfr River]] they might sit” said the dwarf as he gazed vaguely westward, far over the shacks of [[Kranårvikk]].  
-“The clans of the dwarf-lords in their hallowed mountains;” recited the redhead witch, “the clans of the warrior-poets in their misty woods; the clans of the eternal sentinels in the [[Harrowlands]] where the shadows lie. The price they have all paid for ‘honour’ is steep and most of the time unnecessary, I know.”  
+“The clans of the dwarf-lords in their hallowed mountains;” recited the redhead witch, “the clans of the warrior-poets in their misty woods; the clans of the eternal sentinels in the [[Harrowlands]] where the ghosts prowl. The price they have all paid for ‘honour’ is steep and most of the time unnecessary, I know.”  
 “Aye...”  
 
 A solemn silence passed between them for a moment or two.  
 “...How ‘d ye know where to find me anyway? Do my esteemed kin still keep tabs on me?” Mordrydd finally spoke.  
 “Heather told me” smiled the girl. “She says ‘hi’, by the way.”  
 “How is she? Still perpetually high on jarl grey tea?”  
-“Even more so since the abomination clusterfuck.”  
+“Even more so since the Vethfall.”  
 “Hrahahach. Hah. Well” chuckled Mordrydd, “my answer’s still nope. But let me say this much: if I ever get tired of my Fishes, I shall consider taking your mad project on.”  
 “Thank you; this much is good for now; if you ever do, send a raven” replied the girl, taking a closed envelope out of her backpack and placing it on Mordrydd’s worktable.  
 “Alright then, Ginger” nodded the dwarf. “See you around.”  
