@@ -173,7 +173,7 @@ While morghonljucht has no apparent use in Naerk, Smolynx has dictated they be d
 - Hrimgar, Aarda, and Brotje Emberbeard, elders of Clan Emberbeard who were at first reluctant to condone or aid in the matter.
 - Ghorrek Emberbeard, cleric of Klont, was authorised by the clan elders to accompany the Everbryght in their travels; he chose the [[Rowena|crazy one]].
 - [[Mordrydd]] Emberbeard, expatriate alchemist, [[Segue|has thus far declined to help]].
-- [[Lindiwe]] ap Lwgh, once a [[Lleyn#Lady of the Lake|Maiden of the Lake]] and now an explorer of the [[Syvhorms Cartographic Society]].
+- [[Lindiwe]] ap Lwgh, once a [[Lleyn#Maidens of the Lake|Maiden of the Lake]] and now an explorer of the [[Syvhorms Cartographic Society]].
 - [[Heather]], a globetrotting witch prodigy and a manic changeling perpetually high on tea.
 
 Little morghonljucht had been collected by the end of 4817 (Smolynx is the only one to have been lucky), but the Everbryght have naught to do but keep moving, keep looking, and tell noone.

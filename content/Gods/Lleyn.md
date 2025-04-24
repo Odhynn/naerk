@@ -41,15 +41,17 @@ Lleyn, commonly known as Lady of the Lake, is the newest deity on the planescape
 "Lady of the Lake" was a title given to the gatekeepers of the ancient skyportal of Edhailin, the Lake of the Moon.
 Situated in eastern [[Athalaar]] just opposite the Selanaari peninsula and close to [[Mitheryn]] forest, Edhailin served as the arrival gate of the sky passages that arced through [[Qusm|the Cosmodrome]] to distant worlds, and has always tended to by a Lady of the Lake, much like [[Eltirion]] (the departure gate of the sky passages) has always been tended to by a Prophetess Under the Mountain.
 
+#### Maidens of the Lake
 Every Lady of the Lake was expected to take in a score of young women under her tutelage and prepare them to potentially succeed her; these were called the Maidens of the Lake.
 While the Lady of the Lake would have to always remain near Edhailin to the end of her long watch, the Maidens were expected to travel far and wide. Thus, when the time would come to choose a new Lady of the Lake among them, the girl would have had the chance to see the world and be wise and patient enough before she would give up her name and be confined to stand guard over Edhailin for the rest of her life.
 
+#### Function
 Whenever travellers would come through the Qusmic sky passages to Naerk, they would typically appear in the sky as falling stars, arcing round [[Qusm|the Cosmodrome]] and materialising into the lake. The Lady of the Lake would see them emerge from the waters and soothe and shelter them until they could adapt to the world, while keeping the fluctuating energies of the portal from getting out of control.
 
 This role was traditionally held by elven matrons until the [[Harrowing of Athalaar]]. After the cataclysm caused the demise of the Lady, her Maidens, and the athalaari elves in general, Yerastu arranged for the mantle to be henceforth borne by duskwalkers, reincarnations of past Ladies, so that Edhailin would not be left alone to disastrously unwind as Eltirion did. 
 
-Lleyn was a Lady of the Lake since the 46th century, the 65th of her name.
-On her watch she received a number of offworld travellers who would have a dramatic impact on Naerk's history, including Faenyss Laffirdul, [[Shizu the Swordmaiden]], the [[7th Silver Flame Sentinels]], and last but evidently not least, [[Sennarin#the Arrival|the entirety of the Sennarii people]].
+Lleyn was originally a Lady of the Lake since the 46th century, the 65th of her name; her maiden name is unknown.
+On her watch she received a number of offworld travellers who would have a dramatic impact on Naerk's history, including Faenyss Laffirdul, [[Shizu|the Swordmaiden Serene]], the [[7th Silver Flame Sentinels]], and last but evidently not least, [[Sennarin#the Arrival|the entirety of the Sennarii people]].
 
 ### Ascension
 
