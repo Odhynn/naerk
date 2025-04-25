@@ -41,7 +41,7 @@ This led to their duality as a political force to be reckoned with in the diplom
 > - Stories speak of a charismatic elf that went by the name of Berenfaer (allegedly meaning "a soul most bold" in ancient elven, pronounced be-ren-FA-er) who roamed the land, who fought and plotted in shadow and light to undermine villainous nobles and bloodthirsty tyrants, who cared for the common man and asked for nothing in return but a place by the fire. There are many variations of the tale, but all culminate in the heroic death of Berenfaer against the backdrop of the Karokhi or Oventhartan Wars. The epilogue recounts his closest comrades being asked, by passers-by or by family or by torturers "Where is Berenfaer?", only to reply "_We are_ Berenfaer".
 > 
 > That's pretty much the short of it. The truth might lie somewhere in the middle.
-> One smashing takeaway is: _We are_ Berenfaer.
+> "We are Berenfaer" is a smashing one-liner though. Keep it in mind for recruitment. And keep safe out there.
 > 
 > Heads held high,
 > Banshee
@@ -60,11 +60,13 @@ The most influential spymasters include:
 - [[Black Mist]], head of intelligence and master spy, a vigilante with multiple identities and sharpshooter
 - [[Aileen|Banshee]], head analyst and cultural face of the Berenfaer, a powerful arcanist and muse of Elestair; coming into the fold after rescuing Steelshade in Hashnev, she is credited with introducing the security protocol reforms
 - **Hugo**, inquisitor of [[Lainek]] and head loremaster
-- **Scorpio**, guerilla general, former pirate and daredevil
+- **Absinthe**, diviner wizard
+- **Scorpio**, captain of the guard, former pirate and daredevil
 - [[Ulfwyr|Teucer]], captain of the scouts and paramedic marksman
-- [[Bjonnyr|Ajax]], captain of the guard and ferocious axeman
-- **Nettle**, expat elderly gnoll shaman
-- **Honeypot**, halfling bard and social beast
+- [[Bjonnyr|Ajax]], captain of the raiders and ferocious axeman
+- **Sunstroke**, expat elderly gnoll shaman
+- **Honeypot**, halfling bard and socialising beast
+- **Quake**, dwarven kineticist and intrepid explorer
 
 ### Bases
 
