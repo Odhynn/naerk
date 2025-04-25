@@ -13,7 +13,7 @@ wiki:
   profession: barbarian
   born: 4796
   height: 6'5"
-  weight: 190 lb.
+  weight: 230 lb.
   residence: [[Elestair]]
 ---
 > [!attributes]
@@ -25,7 +25,7 @@ wiki:
 > > | born | 4796, Realms Beyond |
 > > | ethnicity | Qrattan Northlanders |
 > > | height | 6'5" |
-> > | weight | 200 lb. |
+> > | weight | 230 lb. |
 > > | appearance | <li>bearskin</li><li>dark brown hair</li><li>auburn beard</li><li>sharp canines</li> |
 
 > ΑΠΠΑΝΩ ΝΤΩΣ!
@@ -40,7 +40,7 @@ Bjonnyr Arthwyrsson is a field agent of the [[Berenfaer]] by the handle "Ajax", 
 
 ## Berenfaer
 
-He took part in the [[Zolkar's Dawn Riot]] events that led to the resurgence of the Berenfaer, along with his brother [[Ulfwyr]] in 4817.
+In 4817 he took part in the [[Zolkar's Dawn Riot]] events that led to the resurgence of the Berenfaer, along with his brother [[Ulfwyr]], and led the charge in the Battle for Fort Freyr near [[Ilistair]].
 They both sailed to the South Sea afterwards to explore.
 
 ## South Sea
