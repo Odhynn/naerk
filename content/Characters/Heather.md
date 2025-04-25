@@ -27,6 +27,8 @@ wiki:
 > > | height | 5'7" |
 > > | weight | 110 lb. |
 > > | appearance | <li>long black hair</li><li>mismatched eyes</li><li>pallid purple skin</li> |
+> > | stats | [[Heather 20 H52.pdf\|Pathfinder-1e]] |
+
 
 Heather is two-centuries old manic changeling witch that travels Naerk in search of horticultural materials, rarely staying in one place for more than one season.
 She is a high ranking member of the [[Circle of the Stag]] in Mitheryn forest, and known to other druidic circles as a skilled shapeshifter.

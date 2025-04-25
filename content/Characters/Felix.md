@@ -12,11 +12,14 @@ tags:
 > >
 > > | | |
 > > | --- | --- |
-> > | appearance | <li>bushy black fur</li><li>luminous yellow</li><li>sarcastic baritone voice</li> |
+> > | allegiance | Evergrowing Forest |
+> > | appearance | <li>bushy black fur</li><li>luminous violet eyess</li><li>sarcastic baritone voice</li> |
 
-Sir Felix is a prominent silvanshee agathion of the Evergrowing forest and the familiar of [[Aileen]] Rosewood.
+> Damn your eyes!
 
-He was reincarnated to this manifestation from a singular soul, that of Felix Mason: an Imtarian petty officer killed in 4601 in the highlands of [[Zelgerosh]] by his own countrymen while buying time for a young [[Heather]] to escape.
+Sir Felix is a prominent silvanshee (cat agathion) of the Evergrowing forest and the familiar of [[Aileen]] Rosewood.
+
+He was reincarnated to this manifestation from a singular soul, that of Sgt. Felix Mason: an Imtarian petty officer killed in 4601 in the highlands of [[Zelgerosh]] by his own countrymen while buying time for a young [[Heather]] to escape.
 In life, Felix Mason dreamed of being knighted, before eventually getting disillusioned by the conduct of the knights themselves. In death, the hag coven to which young Heather belonged commended his valiant soul to the paragons of the [[Evergrowing Forest]], who then granted his new celestial form a honorary knightly prefix.
 
 Two centuries later in 4816, at the behest of [[Smolynx]] Raerundlin (a druid of the [[Circle of the Stag]] of which Heather was also a member) he was dispatched to aid the younger [[Everbryght]] when the 2nd Sennarii Expedition to the Harrowlands went awry. He walked one of them, young witch [[Aileen]] Rosewood through a critical mission that enabled the expedition's rescue at the cost of her contracting the Harrowing curse.

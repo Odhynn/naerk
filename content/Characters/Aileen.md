@@ -35,7 +35,7 @@ Aileen Saoirse Rosewood, a.k.a. Rose Spellsmith, is a lead agent of the [[Berenf
 - a twitchy bookworm, selectively obsessive, studious in her art and meticulous in her projects
 - bears burn marks on her left side, mementoes of state crackdown upon the civilian uprisings of her teen years
 - will overanalyse and overthink things before they happen, and nag about any mistakes after they happen
-- accompanied and watched over by her familiar and aide Sir Felix, a sarcastic silvanshee making sure this anxious redhead keeps her head on
+- accompanied and watched over by her familiar [[Felix|Sir Felix]], a sarcastic silvanshee making sure this anxious redhead keeps her head on
 - smells of roses
 
 ## Halcyon
