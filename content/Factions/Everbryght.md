@@ -47,30 +47,36 @@ The Realms Beyond were home to a semi-secret organisation tasked with covertly d
 | Command Cell   | Bjorg the Mad         | M human         | spymaster  | tactical       |
 |                | Dinoksetijd           | M silver dragon | loremaster | tactical       |
 | Hawthorn Squad | Annwn Raerundlin      | F silver elf    | handler    | tactical       |
-|                | Rhonwen ap Qwynn      | F human         | agent      | light scrapper |
+| (urban ops)    | Rhonwen ap Qwynn      | F human         | agent      | light scrapper |
 |                | Angallyr Aylinsson    | M human         | agent      | hard support   |
 |                | Joslyn Wintermoon     | F halfling      | agent      | soft support   |
+|                | Percyval ap Qwynn     | M human         | agent      | hard support   |
 | Mosspine Squad | Kenneth of Gulthmere  | M nephelim      | handler    | tactical       |
-|                | Karyn Whiteshanks     | F human         | handler    | soft support   |
+| (rural ops)    | Karyn Whiteshanks     | F human         | handler    | soft support   |
 |                | Timon Diveldyr        | M half-drow     | agent      | hard support   |
 |                | Ullisson Firlyvan     | M half-elf      | agent      | light scrapper |
-| Backup         | Shizu the Swordmaiden | F human         | affiliate  | heavy scrapper |
+|                | Midnight Rose         | F human         | handler    | soft support   |
+| Grimvine Squad | Gwayran Dindaltikk    | M rock gnome    | handler    | tactical       |
+| (covert ops)   | Nobody                | M whisper gnome | agent      | soft support   |
+|                | Roondar Possumfall    | M halfling      | agent      | light scrapper |
+|                | Roywyn Possumfall     | F halfling      | agent      | light scrapper |
+| Backup         | Shizu the Swordmaiden | F human         | associate  | heavy scrapper |
 |                | Sigrid Rosewood       | F human         | agent      | soft support   |
 |                | Rhudd ap Qwynn        | M human         | agent      | hard support   |
-|                | Smolynx Raerundlin    | M moon elf      | affiliate  | tactical       |
+|                | Smolynx Raerundlin    | M moon elf      | associate  | tactical       |
+|                | Arthwyr Arkalsson     | M human         | associate  | heavy scrapper |
 | Medical        | Aisling Sereniir      | F wood elf      | agent      | medic          |
 |                | Fjona Firlyvan        | F half-elf      | agent      | medic          |
-
 
 
 In the years leading up to 4787, the Task Force Rosewood operatives picked up on the efforts of a triumvirate of sinister spellcasters (Rheverask Blackfang aided by his protegé Griannimhziel, Faenyss Laffirdul, and Jeanne Claire Lillith) to obtain the Swords of the Archangels, two twin artifacts with the power to slay a god.
 Realising the extent of Faenyss Laffirdul's ambitions, squad leader Annwn Raerundlin briefed a group of adventurers that had risen to hero status fighting alongside the task force before and anointed them as the [[7th Silver Flame Sentinels]][^2].
 
 The Triumvirate's dark, world-upending designs meant that those blades had to be kept from their hands at all costs.
-- **The Dawnblade** had fallen to Naerk along with its wielder eons ago, and having proven their mettle by their side, the Silver Flame Sentinels were tasked with travelling there and retrieving it.
+- **The Dawnblade** had been taken to Naerk some 50 years ago, and having proven their mettle by the agents' side, the Silver Flame Sentinels were tasked with travelling there and retrieving it.
 - Task Force Rosewood instead hunted after **the Duskblade**, which had not left the Realms Beyond and as such was the focus of most of the Triumvirate's efforts.
 
-While both parties were successful at fending off the triumvirate, this came at a heavy price: in the case of Task Force Rosewood, most of the operatives were killed in action.
+While both parties were successful at fending off the triumvirate, this came at a heavy price. In the case of Task Force Rosewood, most of the operatives were killed in action; only Angallyr, Arthwyr, Fiona, Sigrid, and Smolynx survived. 
 
 Sadly, disaster arrived nonetheless: a magical catastrophe of great magnitude struck the Realms Beyond not too long after.
 Its parent organisation scattered and its personnel decimated, Task Force Rosewood disbanded and kept a low profile, evading reprisal from what remained of the Triumvirate forces.

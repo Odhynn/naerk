@@ -46,7 +46,7 @@ Bound with them by their common harrowing curse, they sailed to [[Stormfall]], w
 After they won their freedom in the arena, she had little option than to remain in corrupt and cutthroat [[Hashnev]] with the band and tag along through the wicked machinations of slavers, royals, hellspriests and vampires.
 While her more ruthless companions [[Ternath]], [[Olsarthis]], and [[Orok]] fit right in, the first two being former residents of the city, she crafted magic items tirelessly to alleviate her stress, and was eventually offered a magicsmith's position in the [[Cornuzel]] chapter.
 
-They managed to draw Palaurim's attention to the slave trade in Arbader during the diplomatic councils, and where appointed to a committee overseeing the matter after the crown put them on trial for conspiracy.
+They managed to draw Palaurim's attention to the slave trade in Arbader during the diplomatic councils, and were appointed to a committee overseeing the matter after the crown put them on trial for conspiracy.
 In the process she met [[Steelshade]] and later managed to free him from the vampires; he inducted her into the [[Berenfaer]], a role that she fervently took up, with [[Ulfwyr]] and [[Black Mist]] eventually coming to Hashnev to provide backup during the climactic battle in the palace.
 
 After the whole affair had died down and [[Ternath]] secured himself a position at the top of the church of [[Sergonial]] and close to the royal house, Aileen happily left her post at the committee to become a spymaster of the Berenfaer.

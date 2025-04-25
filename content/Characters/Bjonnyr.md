@@ -25,22 +25,23 @@ wiki:
 > > | born | 4796, Realms Beyond |
 > > | ethnicity | Qrattan Northlanders |
 > > | height | 6'5" |
-> > | weight | 190 lb. |
-> > | appearance | <li>bearskin</li><li>brown hair</li><li>auburn beard</li><li>sharp canines</li> |
+> > | weight | 200 lb. |
+> > | appearance | <li>bearskin</li><li>dark brown hair</li><li>auburn beard</li><li>sharp canines</li> |
 
-> ΑΠΑΝΩ ΝΤΩΣ!
-> _-- joyful Qrattan battle-exclamation_
+> ΑΠΠΑΝΩ ΝΤΩΣ!
+> _-- jubilant Qrattan battlecry_
 
-Bjonnyr Arthwyrsson, a.k.a. the Bear, is a field agent of the [[Berenfaer]] by the handle "Ajax", an towering barbarian wielding a greataxe, a skilled smith and carpenter, and one of the [[Everbryght]].
+Bjonnyr Arthwyrsson is a field agent of the [[Berenfaer]] by the handle "Ajax", a towering barbarian wielding a greataxe, a skilled smith and carpenter, and one of the [[Everbryght]].
 
 - speaks common with a slight North Darroki accent.
 - prone to bursts of fierce battle-rage, but otherwise a gentle giant who more often than not is the adult in the room
+- observes the totem of the bear and looks the part
 - smells of wet fur
 
 ## Berenfaer
 
 He took part in the [[Zolkar's Dawn Riot]] events that led to the resurgence of the Berenfaer, along with his brother [[Ulfwyr]] in 4817.
-They both sailed to the South Sea afterwards to explore and expand the presence of the Berenfaer.
+They both sailed to the South Sea afterwards to explore.
 
 ## South Sea
 

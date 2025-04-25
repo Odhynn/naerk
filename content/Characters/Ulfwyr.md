@@ -24,18 +24,18 @@ wiki:
 > > | born | 4791, Realms Beyond |
 > > | ethnicity | Qrattan Northlanders |
 > > | height | 5'11" |
-> > | weight | 156 lb. |
-> > | appearance | <li>brown hair</li><li>ice blue eyes</li><li>auburn stubble</li><li>sharp canines</li> |
+> > | weight | 155 lb. |
+> > | appearance | <li>dark brown hair</li><li>ice blue eyes</li><li>auburn stubble</li><li>sharp canines</li> |
 
 > Feh.
-> _-- annoyed Qrattan syllable_
+> _-- dismissive Qrattan syllable_
 
-Ulfwyr Arthwyrsson, a.k.a. the Wolf, is a field agent of the [[Berenfaer]] by the handle "Teucer", a scout sniper longbowman well-versed in guerilla warfare, a cynical paramedic, and one of the [[Everbryght]].
+Ulfwyr Arthwyrsson is a field agent of the [[Berenfaer]] by the handle "Teucer", a scout sniper longbowman well-versed in guerilla warfare, a cynical paramedic, and one of the [[Everbryght]].
 
 - speaks common with a slight North Darroki accent
-- sharp mind and uncanny eloquence is severely offset by pride and misanthropism
+- caustic eloquence
 - holds silent grudges
-- has taught his dire wolf companion, Virginia, to help in interrogations by sitting on the prisoner
+- has taught his dire wolf companion, Virginia, to growl and sit on interrogees
 - smells of rain
 
 ## Berenfaer
