@@ -27,6 +27,13 @@ wiki:
 > > | weight | 136 lb. |
 > > | appearance | <li>copper red hair</li><li>green eyes</li><li>freckled skin</li> |
 > > | stats | [[Aileen 18 H55.pdf\|Pathfinder 1e]], [[Aileen 19 PF2e.pdf\|Pathfinder 2e]] |
+> > 
+> > ###### Affiliations
+> > | | |
+> > | --- | --- |
+> > | allegiance | [[Berenfaer]] |
+> > | residence | [[Elestair]] |
+> > | band | [[Halcyon]], [[Everbryght]] |
 
 > Heads held high.
 > _-- signature sign-off in revolutionary correspondence_
@@ -50,7 +57,7 @@ They managed to draw Palaurim's attention to the slave trade in Arbader during t
 
 In the process she met [[Steelshade]] and later managed to free him from the vampires lurking below the Church of Xaurim; he inducted her into the [[Berenfaer]], a role that she fervently took up, with [[Ulfwyr]] and [[Black Mist]] eventually coming to Hashnev to provide backup during the climactic battle in the palace.
 
-After the whole affair had died down and [[Ternath]] had secured himself a position at the top of the church of [[Sergonial]] and close to the royal house, Aileen happily left her post at the committee to become a full-time agent and later spymaster of the Berenfaer.
+After the whole affair had died down and Ternath had secured himself a position at the top of the church of [[Sergonial]] and close to the royal house, Aileen happily left her post at the committee to become a full-time agent and later spymaster of the Berenfaer.
 She overhauled the organisation, introducing many reforms in security measures, tactics, and protocol.
 Using her magic harp, she single-handedly constructed Pegasus Keep in [[Elestair]] over the summer of 4817.
 

@@ -20,10 +20,6 @@ wiki:
   residence: Kranårvikk
 ---
 > [!attributes] 
-> > [!grid]
-> >
-> > ![[../img/Tordun-by-Magnus-Toren.jpg]]
-> 
 > > [!quote]
 > >
 > > | | |
