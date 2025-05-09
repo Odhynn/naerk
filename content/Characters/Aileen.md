@@ -59,7 +59,7 @@ They managed to draw the Palaurim Council's attention to the slave trade in Arba
 
 In the process she met [[Steelshade]] and later managed to free him from the vampires lurking below the Church of Xaurim; he inducted her into the [[Berenfaer]], a role that she fervently took up, with [[Ulfwyr]] and [[Black Mist]] eventually coming to Hashnev to provide backup during the climactic battle in the palace.
 
-After the whole affair had died down and Ternath had secured himself a position at the top of the church of [[Sergonial]] and close to the royal house, Aileen happily left her post at the committee to become a full-time agent and later spymaster of the Berenfaer.
+After the [[Hashnev, Revolt and Betrayal|whole affair]] had died down and Ternath had secured himself a position at the top of the church of [[Sergonial]] and the royal house by scheming behind his bandmates' back, Aileen happily abandoned Hashnev and her post at the committee to become a full-time agent and later spymaster of the Berenfaer in [[Zolkar]].
 She overhauled the organisation, introducing many reforms in security measures, tactics, and protocol.
 Using her magic harp, she single-handedly constructed Pegasus Keep in [[Elestair]] over the summer of 4817.
 

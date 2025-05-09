@@ -8,12 +8,13 @@ tags:
 ---
 
 The Halcyon band was made out of survivors of the events that transpired during the Blood Moon of 4816 on Selanaar.
-They were extracted along with the remnants of the 2nd Sennarii Expedition and diagnosed as afflicted with the harrowing curse.
-Provided with a stash of leaves to burn whenever the condition of one of them progressed, so that they might be shunted off to Utopia for treatment, they stuck together during the following months, becoming involved in the events at Hashnev and Oventhart.
+They were extracted along with the remnants of the 2nd Sennarii Expedition to Selanaar and diagnosed as afflicted with the harrowing curse.
+Provided with a stash of leaves to burn whenever the condition of one of them progressed, so that they might be shunted off to Utopia for treatment, they stuck together during the following months, becoming involved in the [[Hashnev, Revolt and Betrayal|political turmoil in Hashnev]] and [[Vethfall|the eldritch troubles of Oventhart]].
 
-- [[Ulsath]]
-- [[Olsar]]
-- [[Ternath]]
+Its members were:
+- [[Ulsath]] Feltharyn
+- [[Olsarthis]] Feltharyn
+- [[Ternath]] Inkblood
 - [[Orok]]
-- [[Aileen]] (after Selanaar)
+- [[Aileen]] Rosewood (after Selanaar)
 - [[Wo Cho]] (after Hashnev)

@@ -1,5 +1,5 @@
 ---
-title: 1st Admiral Naroth Geadanya
+title: First Admiral Naroth Geadanya
 subtitle: male finfolk priest
 date: 2024-02-28
 author: sfakias

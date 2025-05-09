@@ -28,7 +28,7 @@ _"If I may contribute SOMETHING of essence to this terribly stagnant conversatio
 I'll have to speak to him later on the element of surprise, thought Shizu.
 _"NOW!"_ shouted Aldastrio and started running towards the gate.
 It begins. "The grace of [[Yerastu]] protect me. FORM A LINE!" Shizu yelled as all four of them sprinted forward, as she reached in her backpack for her new shield.
----
+
 A minute later she had made it. Still alive. They were inside the gates, out of breath but safe.
 And they had lost [[Domovoi]].
 Amid the torrent of thought, memories, and emotions that rushed through her mind, voices, here and there. The defenders of the keep were talking. The dialogue almost flew over her head. The voices, how did they matter, why?
