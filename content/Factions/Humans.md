@@ -7,6 +7,7 @@ tags:
  
 ---
 
+
 Humans are one of the newest races to appear on [[Naerk]]. Intelligent, inventive, with rapid rates of reproduction and adaptation compared to the old races, they were gradually able to dominate most areas of the world. The following are the most distinguished heritages:
 
 | heritage    | skin complexion | typical regions                                                                                  |

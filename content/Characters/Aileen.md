@@ -26,6 +26,7 @@ wiki:
 > > | height | 5'5" |
 > > | weight | 136 lb. |
 > > | appearance | <li>copper red hair</li><li>green eyes</li><li>freckled skin</li> |
+> > | stats | [[Aileen 18 H55.pdf\|Pathfinder 1e]], [[Aileen 19 PF2e.pdf\|Pathfinder 2e]] |
 
 > Heads held high.
 > _-- signature sign-off in revolutionary correspondence_
