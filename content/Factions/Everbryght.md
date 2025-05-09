@@ -150,25 +150,25 @@ The Everbryght all arrived in Naerk with nothing but a projection of their bodie
 - 4817, Winter
   - Smolynx travelled to [[Sunshine]] isle to speak with [[Droghor]] of the Dragonpact.
   - Ulfwyr and Bjonnyr (the Arthwyrsson brothers) travelled to Zolkar where they became involved in the events culminating in [[Zolkar's Dawn Riot]] and the resurgence of the [[Berenfaer]]; they were joined by Rowena as soon as she heard of the amount of shite that was going down.
-  - Gwynne finished her training and was knighted a cadet hospitaller under the Chapter of the West
+  - Gwynne finished her training and was ordained a knight hospitaller under the Chapter of the West.
   - Aileen joined the [[Halcyon]] band for she shared their harrowed condition and sailed with them to [[Stormfall]], where she was captured and sent to [[Hashnev]] in chains.
 - 4817, Spring
-  - Smolynx travelled through the Allwick desert alongside his tiger companion Mr. Timms, where he briefly joined a band of spellcasters to traverse through an extra-planar crypt of riddles
+  - Smolynx travelled through the Allwick desert alongside his tiger companion Mr. Timms, where he briefly joined a band of spellcasters to traverse through an extra-planar crypt of riddles.
   - Aileen won her gladiatorial freedom in the arena and bore through the wicked machinations of slavers, royals, hellspriests and vampires in corrupt and evil-infested [[Hashnev]], managing to draw Palaurim's attention during the diplomatic councils, get appointed as a special committee member, and save a captured [[Steelshade]] who inducted her into the [[Berenfaer]]; Ulfwyr and [[Black Mist]] aided her efforts during the climactic battle in the palace.
-  - Gwynne undertook a pilgrimage that began in the [[Temple of the Sapphire Guard]] in the [[Alagon]] archipelago
+  - Gwynne undertook a pilgrimage that began in the [[Temple of the Sapphire Guard]] in the [[Alagon]] archipelago.
 - 4817, Summer
-  - Smolynx and Rowena journeyed through the [[Edhelwood]]
+  - Smolynx and Rowena journeyed through the [[Edhelwood]].
   - Aileen became a spymaster of the Berenfaer, introducing many reforms in security measures, tactics, and protocol, and building Pegasus Keep in [[Elestair]] with her magic harp.
   - Ulfwyr and Bjonnyr sailed along the isles of the South Sea, setting up contacts and safehouses; Bjonnyr helped end [[the Blackthroat Disease]] and slew [[Nessessor]] in [[Marjalat]].
   - Gwynne's pilgrimage continued into [[North Darrok]] and the [[Four Winds Monastery]].
 - 4817, Autumn
-  - Aileen, joined by the [[Halcyon]] band, travelled to Oventhart to track missing Berenfaer agents, set up the ground at Greenmills for the [[Berenfaer]] to organise the resistance, was appointed to the [[Dragonpact]] as the commander of the kobold [[Slitherscale Brigade]], and moved on to [[Merkal]] where she fought the sinister forces trying to break [[Drakainia]] loose from her prison, culminating in the [[Battle of Klegonai Fields]] and the killing of Drakainia in her demiplane prison in [[Mherg Tundra]]
+  - Aileen, joined by the [[Halcyon]] band, travelled to Oventhart to track missing Berenfaer agents, set up the ground at Greenmills for the [[Berenfaer]] to organise the resistance, was appointed to the [[Dragonpact]] as the commander of the kobold [[Slitherscale Brigade]], and moved on to [[Merkal]] where she fought the sinister forces trying to break [[Drakainia]] loose from her prison, culminating in the [[Battle of Clegonai]] and the killing of Drakainia in her demiplane prison in [[Mherg Tundra]].
   - Smolynx and Rowena answered the call of the Oventhari druidic circles and fought against [[Drakainia]]'s abberration hordes in the forests
   - Gwynne caught wind of a lead while in [[Ekteron]] that led her to ask officers of the passing [[Wolf Legion]] to smuggle her into [[Olgizmar]]; there she was arrested by the magister circles and incarcerated in the cold iron mines until the cataclysmic post-[[Vethfall]] events sundered the wards and led to her joining the defence of [[Bránstraž]].
-  - Ulfwyr and Bjonnyr were caught in a seastorm while on their South Sea escapades and were marooned in [[Drozzin]], where they slew the sea dragon [[Ozrallon]] and traversed the Screaming Maze to obtain a Crown of the Cyclopes
+  - Ulfwyr and Bjonnyr were caught in a seastorm while on their South Sea escapades and were marooned in [[Drozzin]], where they slew the sea dragon [[Ozrallon]] and traversed the Screaming Maze to obtain a Crown of the Cyclopes.
 - 4818, Winter
   - Aileen went missing for nine months after [[Vethfall]], trapped in a temporal bubble inside Drakainia's demiplane prison
-  - Smolynx investigated Aileen's disappearance with the aid of [[Ingasto]] and the [[Twilight Veil]]
+  - Smolynx investigated Aileen's disappearance with the aid of [[Ingasto]] and the [[Twilight Veil]].
   - Rowena could not stomach her father's safe approach and set out blindly on her own to find anything that might lead to Aileen, ended up arrested and sent to [[Kemilia]] where she got tangled up in a conspiracy implicating [[Ashiro]]'s Wells of Power and the [[Crimson Steel]] assassins.  
 
 ## Secrecy
@@ -178,7 +178,7 @@ While morghonljucht has no apparent use in Naerk, Smolynx has dictated they be d
 - [[Aldastrio]] and [[Droghor]] Firan, the Swordmaiden Serene's comrades of yore and powerful paragons in their field.
 - Hrimgar, Aarda, and Brotje Emberbeard, elders of Clan Emberbeard who were at first reluctant to condone or aid in the matter.
 - Ghorrek Emberbeard, cleric of Klont, was authorised by the clan elders to accompany the Everbryght in their travels; he chose the [[Rowena|crazy one]].
-- [[Mordrydd]] Emberbeard, expatriate alchemist, [[Segue|has thus far declined to help]].
+- [[Mordrydd]] Emberbeard, expatriate alchemist, [[segue|has thus far declined to help]].
 - [[Lindiwe]] ap Lwgh, once a [[Lleyn#Maidens of the Lake|Maiden of the Lake]] and now an explorer of the [[Syvhorms Cartographic Society]].
 - [[Heather]], a globetrotting witch prodigy and a manic changeling perpetually high on tea.
 

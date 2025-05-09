@@ -29,7 +29,7 @@ wiki:
 > > | appearance | <li>long black hair</li><li>mismatched eyes</li><li>pallid purple skin</li> |
 > > | stats | [[Heather 20 H52.pdf\|Pathfinder 1e]] |
 
-Heather is two-centuries old manic changeling witch that travels Naerk in search of horticultural materials, rarely staying in one place for more than one season.
+Heather is a two-centuries old manic changeling witch that travels Naerk in search of horticultural materials, rarely staying in one place for more than one season.
 She is the oldest member of the [[Circle of the Stag]] in Mitheryn forest, despite not being a druid; given her attained power and the weight of her years, she might even have been the circle's leader if only she did not come off as a hyperactive adolescent perpetually high on tea.
 She bruises with supernatural ease.
 

@@ -32,14 +32,13 @@ Those were:
 - Inthiir Allaer
 
 Heavy was their duty: the goddess of magic commanded that they reclaim the dangerous secrets; until they did, none of them could return to Garth Brethil.
-After a century of struggle, sacrifices, hopeless wandering, and hard choices, Inthiir was slain, Aerlinniel went mad after revisiting Garth Brethil to seek answers, and Annwn had left the group. By the end, only one wizard of the cabal remained.
+After a century of struggle, sacrifices, hopeless wandering, and hard choices, Inthiir had been slain, Aerlinniel had gone mad after revisiting Garth Brethil to seek answers, Annwn had left the group, and Faenyss was left alone to see this through. Aerlinniel was eventually put down by Faenyss after she nearly killed their son Ruthar in her madness.
 
-Aerlinniel was killed by Faenyss after she nearly their son Ruthar in her madness.
-Faenyss forced the last cabal wizard to pass on the forbidden knowledge to Ruthar; when this was done after Ruthar came of age many decades later, he had the wizard killed.
+Faenyss hunted the cabal wizards down one by one, but spared the last one, forcing him to pass on the forbidden knowledge to Ruthar; when this was done, many decades later when Ruthar had come of age, he had the wizard killed.
 
 Ruthar was by curious strands of fate joined in his early fights against tyranny by companions whose fathers or mentors were, like Faenyss, previously involved with the Dawnblade.
 
-When Annwn realised that Faenyss was after the archangel swords, she anointed Ruthar along with his companions as the 7th generation of Silver Flame Sentinels in the ruins of Garth Brethil.
+When Annwn realised that Faenyss was after the archangel swords Duskblade and Dawnblade, and knowing that the Dawnblade would only allow Ruthar and his companions to carry it, she anointed them as the 7th generation of Silver Flame Sentinels in the ruins of Garth Brethil.
 
 They spent the next 5 years there constructing an astral portal to transport them to Naerk, where the [[Dawnblade]] lay.
 
