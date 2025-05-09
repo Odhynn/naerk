@@ -66,12 +66,12 @@ Using her magic harp, she single-handedly constructed Pegasus Keep in [[Elestair
 In autumn, joined by [[Ulsath]] and [[Wo Cho]], she travelled to Oventhart to track down missing Berenfaer agents.
 In the town of Greenmills, she was appointed a special Dragonpact envoy and commander of the kobold [[Slitherscale Brigade]] by the red dragon [[Sartharia]] whose stolen egg she returned, and prepared the ground for the Berenfaer to come in and organise the resistance against elven supremacist oppression.
 
-The band then moved on to [[Merkal]] where they investigated and fought against the sinister cult trying to break the ancient eldritch monstrosity [[Drakainia]] loose from her prison.
-This culminated in the outpouring of Drakainia's abhorrent spawn over the steppes. Aileen, Ternath, and Ulsath organised the disparate factions of Oventhart in a desperate alliance that held off the aberration hordes in the [[Battle of Clegona'i]].
+The band then moved on to [[Merkal]] where they investigated and fought against the sinister cult trying to break the ancient eldritch demigod [[Drakainia]] loose from her prison.
+This culminated in the outpouring of Drakainia's abhorrent spawn over the steppes. Aileen, Ternath, and Ulsath organised the disparate factions of Oventhart in a desperate alliance that held off the aberration hordes in the [[Battle of Clegonai]].
 
 Aileen, Ternath, Ulsath, Wo Cho, and Wo Cho's monk master then descended into Drakainia's demiplane prison in the [[Mherg Tundra]] where they slew her in a terrible confrontation  aided by Dr.[[Vivec]] and the Horsemen of the Apocalypse.
 The resultant cataclysmic event of [[Vethfall]] unfolded as they were trapped in a temporal loop that lasted nine months of Naerk's timeflow but not a moment of theirs.
 
 The band, now infused with mythic power and rid of the harrowing curse, went their separate ways.
 With teleportation magic broken, Aileen traversed the frozen North and boarded a ship from [[Kranårvikk]] to [[Elestair]], where she found a statue of herself, erected by the Berenfaer to honour her assumed sacrifice.
-She promptly resumed her spymaster duties, spreading Berenfaer influence far and wide; on starry nights, the artifact *Harp of Night's Hope* (a gift from Sartharia's hoard) during her adventures can be heard throughout Elestair, lifting up the hearts of the people.
+She promptly resumed her spymaster duties, spreading Berenfaer influence far and wide; on starry nights, the artifact *Harp of Night's Hope* (a gift from Sartharia's hoard during her adventures) can be heard throughout Elestair, lifting up the hearts of the people.
