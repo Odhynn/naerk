@@ -30,6 +30,7 @@ wiki:
 > > | height | 5'10" |
 > > | weight | 145 lb. |
 > > | appearance[^0] | <li>raven black hair</li><li>hazel eyes</li> |
+> > | stats | [[Shizu 21 C55.pdf\|D&D 3.5e]] |
 >
 > > [!quote]
 > > 
