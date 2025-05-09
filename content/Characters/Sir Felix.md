@@ -24,4 +24,4 @@ In life, Felix Mason dreamed of being knighted, before eventually getting disill
 
 Two centuries later in 4816, at the behest of [[Smolynx]] Raerundlin (a druid of the [[Circle of the Stag]] of which Heather was also a member) he was dispatched to aid the younger [[Everbryght]] when the 2nd Sennarii Expedition to the Harrowlands went awry. He walked one of them, young witch [[Aileen]] Rosewood through a critical mission that enabled the expedition's rescue at the cost of her contracting the Harrowing curse.
 He remained close to Aileen thenceforth as her familiar, his power growing with hers, to the point that when the events with [[Drakainia]]'s aberration hordes came to a boil, he participated directly in the high council of the Evergrowing Forest paragons who assembled to deal with the crisis.
-Hovering by Aileen's side when her [[Halcyon]] band brought on the demise of Drakainia, he was trapped in the same temporal loop with her for a year as a result of the [[Vethfall]].
+Hovering by Aileen's side when her [[Halcyon]] band brought on the demise of Drakainia, he was trapped in the same temporal loop with her for nine months as a result of the [[Vethfall]].

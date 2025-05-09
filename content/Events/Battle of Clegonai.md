@@ -19,7 +19,7 @@ tags:
 
 On 10 Graymist 4817, a multitude of forces from Oventhart and beyond came together to hold off the incoming hordes of [[Drakainia]]'s spawn in a battle that determined the fate of the land and served as a prelude to the cataclysmic event of the [[Vethfall]] two days later.
 
-# Events leading up to the battle
+### Events leading up to the battle
 
 In the prior days, after the Sect of the Great Mother began ringing the ancient bell of Graz'Moraz atop the church of St. Traft in Merkal, Drakainia's spawn burst forth from the [[Mherg Tundra]] and advanced into Oventhart. Unable to penetrate the maddening halls of the church, the Halcyon band ([[Aileen]] Rosewood, [[Ulsath]] Feltharyn, and [[Wo Cho]]) scrambled to organise the defence against the first wave.
 
@@ -28,7 +28,7 @@ To this end they brought together their former bandmate [[Ternath]] Inkblood and
 The band surveyed the land and picked a slight ridge to hold on the fields between Merkal and the aberrant hordes, that had ley lines running underneath it.
 On the eve of the battle, Aileen built fortifications along the ridge and played on the *Harp of Night's Hope* during the night to bolster the morale of the assembling forces, while Wo Cho and the changeling witch [[Heather]] scouted ahead.
 
-# The battle along the wall
+### The battle along the wall
 
 Come the morrow, Heather returned mentally worn to report on the incoming horrors.
 The mortals braced as the hordes rolled in, with the Dark Young screening their dread force.
@@ -50,7 +50,7 @@ Faced with fearful odds and no way to claim the rest of its prize, Harr-hundun r
 
 During the 3rd phase of the battle, the aberration hordes threw themselves against the walls to no avail. As Ulsath pummeled the hordes with her wintry wrath and Aileen, shapechanged into a dragon, breathed fire upon them from behind the automaton lines, their numbers dwindled until they were finally obliterated.
 
-## Aftermath
+### Aftermath
 
 The day was won, however this was but one of many waves to come. Realising they could not hold them off indefinitely, the Halcyon band moved out to confront the source of the problem: Drakainia the Mother of Monsters herself. They slew her in her demiplane prison two days later, on 12 Graymist 4817, causing an outpouring of energy that brought on the [[Vethfall]].
 
