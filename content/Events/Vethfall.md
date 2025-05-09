@@ -13,9 +13,9 @@ tags:
 > > | | |
 > > | --- | --- |
 > > | Place | [[Mherg Taiga]], [[Oventhart]] |
-> > | Time | late 12/4817 |
+> > | Time | 12 Graymist 4817 |
 
-In the winter of the year 4817, at the end of Graymist, a shocking event came to change [[Naerk]] radically: the Vethfall. Some will say that it is solely due to the actions of a small group of fanatical priests and loyal extraplanar entities, but the reality goes back many millennia: At the time in [[Merkal]] there was the city of Mi-Solla, the city of music. The city had a guardian angel, also known as [[Chun'm]], and it became famous everywhere for its music, but this was also the reason for the city's downfall. At the same time, in the northwest, [[Drakainia]], an otherworldly and powerful entity, appeared. A being of immense power summoned by dr. [[Vivec]], a powerful alchemist who began experimenting on her and charging her with positive energy in a specially constructed demiplane. However this drove her completely crazy and Vivec lost control.
+On 12 Graymist 4817, a shocking event came to change [[Naerk]] radically: the Vethfall. Some will say that it is solely due to the actions of a small group of fanatical priests and loyal extraplanar entities, but the reality goes back many millennia: At the time in [[Merkal]] there was the city of Mi-Solla, the city of music. The city had a guardian angel, also known as [[Chun'm]], and it became famous everywhere for its music, but this was also the reason for the city's downfall. At the same time, in the northwest, [[Drakainia]], an otherworldly and powerful entity, appeared. A being of immense power summoned by dr. [[Vivec]], a powerful alchemist who began experimenting on her and charging her with positive energy in a specially constructed demiplane. However this drove her completely crazy and Vivec lost control.
 
 Drakainia broke her prison and soon proved to be a threat to the entire [[Material Plane]]. She began to gather an army of followers, the Sect of the Great Mother, to her cause who served her blindly. She began to wreak havoc and was a threat to Mi-Solla as well. [[Chun'm]] went to fight her and managed to put her back in her prison. However, he was too weak from the effort and fell into a lethargy.
 

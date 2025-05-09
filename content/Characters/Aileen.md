@@ -27,6 +27,8 @@ wiki:
 > > | weight | 136 lb. |
 > > | appearance | <li>copper red hair</li><li>green eyes</li><li>freckled skin</li> |
 > > | stats | [[Aileen 18 H55.pdf\|Pathfinder 1e]], [[Aileen 19 PF2e.pdf\|Pathfinder 2e]] |
+>
+> > [!quote]
 > > 
 > > ###### Affiliations
 > > | | |
@@ -53,7 +55,7 @@ Aileen was part of the 2nd Sennarii Expedition to Selanaar when she was affected
 After they won their freedom in the arena, she had little choice but to remain in the corrupt and cutthroat city with the band and tag along through the wicked machinations of slavers, royals, hellspriests and vampires.
 While her more ruthless companions [[Ternath]], [[Olsarthis]], and [[Orok]] fit right in, the first two being former residents of the city, she crafted magic items day and night to alleviate her stress, and was eventually offered a magecrafter's position in the [[Cornuzel]] chapter.
 
-They managed to draw Palaurim's attention to the slave trade in Arbader during the diplomatic councils. After slaying slaver archpriest [[Alkar the Black]] the crown put them on trial for conspiracy. Overruling their conviction, the Palaurim officials appointed them to a committee overseeing the matter of illegal slave trade in Arbader.
+They managed to draw the Palaurim Council's attention to the slave trade in Arbader during the diplomatic councils. After they slew slaver archpriest [[Alkar the Black]], the crown put them on trial for conspiracy. Overruling their conviction, the Palaurim council officials appointed them to a committee investigating the slaver rings.
 
 In the process she met [[Steelshade]] and later managed to free him from the vampires lurking below the Church of Xaurim; he inducted her into the [[Berenfaer]], a role that she fervently took up, with [[Ulfwyr]] and [[Black Mist]] eventually coming to Hashnev to provide backup during the climactic battle in the palace.
 
@@ -65,10 +67,11 @@ In autumn, joined by [[Ulsath]] and [[Wo Cho]], she travelled to Oventhart to tr
 In the town of Greenmills, she was appointed a special Dragonpact envoy and commander of the kobold [[Slitherscale Brigade]] by the red dragon [[Sartharia]] whose stolen egg she returned, and prepared the ground for the Berenfaer to come in and organise the resistance against elven supremacist oppression.
 
 The band then moved on to [[Merkal]] where they investigated and fought against the sinister cult trying to break the ancient eldritch monstrosity [[Drakainia]] loose from her prison.
-This culminated in the outpouring of Drakainia's abhorrent spawn over the steppes. Aileen, Ternath, and Ulsath organised the disparate factions of Oventhart in a desperate alliance that held off the aberration hordes in the [[Battle of Klegona'i]].
+This culminated in the outpouring of Drakainia's abhorrent spawn over the steppes. Aileen, Ternath, and Ulsath organised the disparate factions of Oventhart in a desperate alliance that held off the aberration hordes in the [[Battle of Clegona'i]].
 
-Aided by Dr.[[Vivec]], Aileen, Ulsath and Wo Cho then descended into Drakainia's demiplane prison in the [[Mherg Tundra]] and slew her in a climactic confrontation.
-The resultant cataclysmic event of [[Vethfall]] trapped them in a temporal bubble for nine months of Naerk's timeflow.
+Aileen, Ternath, Ulsath, Wo Cho, and Wo Cho's monk master then descended into Drakainia's demiplane prison in the [[Mherg Tundra]] where they slew her in a terrible confrontation  aided by Dr.[[Vivec]] and the Horsemen of the Apocalypse.
+The resultant cataclysmic event of [[Vethfall]] unfolded as they were trapped in a temporal loop that lasted nine months of Naerk's timeflow but not a moment of theirs.
 
-The band, now infused with mythic power and rid of the harrowing curse, went their separate ways. With teleportation magic broken, Aileen traversed the frozen North and boarded a ship from [[Kranårvikk]] to [[Elestair]], where she found a statue of herself, erected by the Berenfaer to honour her assumed sacrifice.
-She promptly resumed her spymaster duties, spreading Berenfaer influence far and wide; on starry nights, the artifact *Harp of Night's Hope* she acquired during her adventures can be heard throughout Elestair, lifting up the hearts of the people.
+The band, now infused with mythic power and rid of the harrowing curse, went their separate ways.
+With teleportation magic broken, Aileen traversed the frozen North and boarded a ship from [[Kranårvikk]] to [[Elestair]], where she found a statue of herself, erected by the Berenfaer to honour her assumed sacrifice.
+She promptly resumed her spymaster duties, spreading Berenfaer influence far and wide; on starry nights, the artifact *Harp of Night's Hope* (a gift from Sartharia's hoard) during her adventures can be heard throughout Elestair, lifting up the hearts of the people.

@@ -1,13 +1,10 @@
 ---
-title: Ingasto
-subtitle: female archdruid
+title: Innorf
+subtitle: salamander leader
 date: 2024-05-04
 author: sfakias
 tags:
   - characters/leaders
-  - countries/Oventhart
-  - factions/Tearthis
-
 ---
 > [!attributes]
 > 
