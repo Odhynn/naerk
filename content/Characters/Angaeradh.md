@@ -20,6 +20,7 @@ tags:
 > > | born | 3187 |
 > > | nationality | Athalaari |
 > > | appearance | light blue radiant eyes, hooded cloak, staff |
+> > | stats | [[Angaeradh 20 W08.pdf\|Pathfinder 1e]] (at the end of the Winter War, 3250) |
 
 Angaeradh was born around 3187 the daughter of the human [[Zhansur]], a prominent crime lord of Xianshi, and the elven sorceress Erhylassë, a direct descendant of the high elves of [[Eltirion]]. She was raised by her father to attain the cunning and charisma needed to become a mob boss, and by her mother to be a watcher of the skies like her elven ancestors, to lament their fall from rule and subsequent decimation, and to loathe the ruling dwarven castes for bringing all this to pass.
 

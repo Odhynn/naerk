@@ -101,5 +101,5 @@ And carried with these words, unseen, unheard, there was something else. Light c
 
 ---
 
-> [[Felix]]'s theme: [A Good Man, by James Paget](https://www.youtube.com/watch?v=ud2OPrCLNuc)
+> [[Sir Felix]|Felix]'s theme: [A Good Man, by James Paget](https://www.youtube.com/watch?v=ud2OPrCLNuc)
 

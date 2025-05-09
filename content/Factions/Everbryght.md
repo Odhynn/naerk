@@ -167,7 +167,7 @@ The Everbryght all arrived in Naerk with nothing but a projection of their bodie
   - Gwynne caught wind of a lead while in [[Ekteron]] that led her to ask officers of the passing [[Wolf Legion]] to smuggle her into [[Olgizmar]]; there she was arrested by the magister circles and incarcerated in the cold iron mines until the cataclysmic post-[[Vethfall]] events sundered the wards and led to her joining the defence of [[Bránstraž]].
   - Ulfwyr and Bjonnyr were caught in a seastorm while on their South Sea escapades and were marooned in [[Drozzin]], where they slew the sea dragon [[Ozrallon]] and traversed the Screaming Maze to obtain a Crown of the Cyclopes
 - 4818, Winter
-  - Aileen went missing for a year after [[Vethfall]], trapped in a temporal bubble inside Drakainia's demiplane prison
+  - Aileen went missing for nine months after [[Vethfall]], trapped in a temporal bubble inside Drakainia's demiplane prison
   - Smolynx investigated Aileen's disappearance with the aid of [[Ingasto]] and the [[Twilight Veil]]
   - Rowena could not stomach her father's safe approach and set out blindly on her own to find anything that might lead to Aileen, ended up arrested and sent to [[Kemilia]] where she got tangled up in a conspiracy implicating [[Ashiro]]'s Wells of Power and the [[Crimson Steel]] assassins.  
 

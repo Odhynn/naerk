@@ -26,6 +26,12 @@ wiki:
 > > | appearance | <li>blond hair in a braid</li><li>eerie blue eyes</li><li>unnerving grin</li><li>athletic physique</li> |
 
 > α σω σπασω τα κακκαλα
-> _-- maniacal Qrattan threat she gleefully picked up from [[Bjonnyr]]_
+> _-- maniacal Qrattan threat gleefully picked up from [[Bjonnyr]]_
 
-Rowena Annwyn Raerundlin is the daughter of high druid [[Smolynx]] Raerundlin, an unofficial knight-errant of the Circle of the Stag, an ironclad battlemage that obliterates enemies with slow but devastating magically charged strikes, a twisted genius who would go far if she cared to, and one of the [[Everbryght]].
+Rowena Annwyn Raerundlin is the daughter of high druid [[Smolynx]] Raerundlin, an aspiring green knight of the Circle of the Stag, an ironclad battlemage and twisted genius who would go far if only she had impulse control, and one of the [[Everbryght]].
+
+- will do nasty things for fun and soup
+- mostly dislikes those who better reflect her own dark self
+- violence isn't the answer. violence is the question. the answer is yes.
+- her signature combat style entails blasting spells out of her magic staff upon its impact with the target's bones
+- smells of hot iron
