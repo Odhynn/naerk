@@ -38,7 +38,7 @@ This led to their duality as a political force to be reckoned with in the diplom
 > - Another account maintains that the Berenfaer were originally formed to fight for freedom in western [[Oventhart]] against the tyrranical armies of [[Kenorex]] from [[Kambah]], rallying many insurgents near the border to wage guerilla warfare, only to be eventually stopped and hunted down by the disciplined army of [[Karahath]].
 > 
 > If one asks the storytellers, one shall hear tales of bravery and sacrifice.
-> - Stories speak of a charismatic elf that went by the name of Berenfaer (allegedly meaning "a soul most bold" in ancient elven, pronounced be-ren-FA-er) who roamed the land, who fought and plotted in shadow and light to undermine villainous nobles and bloodthirsty tyrants, who cared for the common man and asked for nothing in return but a place by the fire. There are many variations of the tale, but all culminate in the heroic death of Berenfaer against the backdrop of the Karokhi or Oventhartan Wars. The epilogue recounts his closest comrades being asked, by passers-by on the road or by family by the hearth or by interrogators at the torture chamber, "Where is Berenfaer?"; only to reply "_We are_ Berenfaer".
+> - Stories speak of a charismatic elf that went by the name of Berenfaer (allegedly meaning "a soul most bold" in ancient elven, pronounced be-ren-FA-er) who roamed the land, who fought and plotted in shadow and light to undermine villainous nobles and bloodthirsty tyrants, who cared for the common man and asked for nothing in return but a place by the fire. There are many variations of the tale, but all culminate in the heroic death of Berenfaer against the backdrop of the Karokhi or Oventhartan Wars. The epilogue recounts his closest comrades being asked, by passers-by on the road or by family by the hearth or by interrogators in the torture chamber, "Where is Berenfaer?"; only to reply "_We are_ Berenfaer".
 > 
 > That's pretty much the short of it. The truth might lie somewhere in the middle.
 > "We are Berenfaer" is a smashing one-liner though. Keep it in mind for recruitment. And keep safe out there.
@@ -61,8 +61,9 @@ The most influential spymasters include:
 - [[Aileen|Banshee]], head analyst and cultural face of the Berenfaer, a powerful arcanist and muse of Elestair; coming into the fold after rescuing Steelshade in Hashnev, she is credited with introducing the security protocol reforms
 - **Absinthe**, diviner wizard and head of signals
 - **Friar**, chaplain of [[Lainek]] and head loremaster
-- **Tulip**, inquisitor of [[Lainek]] and guerilla marshal
 - **Scorpio**, captain of the guard, former pirate and daredevil
+- [[Algirith|Tulip]], inquisitor of [[Lainek]] and guerilla marshal
+- [[Sevena|Gingerbread]], elderly witch and soothsayer
 - [[Ulfwyr|Teucer]], captain of the scouts and paramedic marksman
 - [[Bjonnyr|Ajax]], captain of the raiders and ferocious axeman
 - **Sunstroke**, expat elderly kholo shaman
