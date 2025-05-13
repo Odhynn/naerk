@@ -7,13 +7,17 @@ tags:
 ---
 
 > [!attributes]
+> > [!grid]
+> >
+> > ![[../img/Berenfaer.png]]
 > 
 > > [!quote]
 > >
 > > | | |
 > > | --- | --- |
-> > | Symbol | Pegasus |
-> > | Region | [[Zolkar]], [[Karrokh]] |
+> > | Members | Zolkari citizens, freedom fighters, secret agents, freed slaves |
+> > | Headquarters | Pegasus Keep, [[Elestair]] |
+> > | Regions | [[Zolkar]], [[Karrokh]] |
 > > | Leader | Assembly of Spymasters |
 
 > We Shall Not Abide

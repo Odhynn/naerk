@@ -6,7 +6,10 @@ tags:
   - factions/Circle-of-the-Stag
   - countries/Sennarin
 ---
-> [!attributes]
+> [!attributes] 
+> > [!grid]
+> >
+> > ![[../img/CircleStag.png]]
 > 
 > > [!quote]
 > >
