@@ -15,20 +15,25 @@ tags:
 > >
 > > | | |
 > > | --- | --- |
+> > | Motto | *Non patiemur* (we shall not abide) |
 > > | Members | Zolkari citizens, freedom fighters, secret agents, freed slaves |
 > > | Headquarters | Pegasus Keep, [[Elestair]] |
 > > | Regions | [[Zolkar]], [[Karrokh]] |
 > > | Leader | Assembly of Spymasters |
 
-> We Shall Not Abide
-> -- _motto of the Berenfaer_
+> *The lords believe themselves our betters;*
+> *We shall not abide.*
+> *The masters think that they can own us;*
+> *We shall not serve.*
+> *The tyrants dare to claim our life;*
+> *We shall not comply.*
+> *We are Berenfaer - and hence*
+> *they shall curse our name.*
 
-Berenfaer is an organization of freedom fighters and undercover operatives that combat slavery and tyranny. Their presence was minute and scattered before the [[Zolkar's Dawn Riot]], when they managed to outright abolish slavery in [[Zolkar]] and become the leading faction at its helm.
+The Berenfaer is an organization of freedom fighters and undercover operatives that combat slavery and tyranny. Their presence was minute and scattered until the [[Zolkar's Dawn Riot]], after which they managed to outright abolish slavery in [[Zolkar]] and become the leading faction at the island's helm.
 Invigorated by their success, newfound power, and an influx of talent among their ranks, they quickly branched out beyond the shores of Zolkar, establishing contacts and safe houses in multiple regions where resistance against authoritarian rule and human trafficking is budding.
 
-This led to their duality as a political force to be reckoned with in the diplomatic sphere of Palaurim, and a secret agency that operates from the shadows well beyond its territories.
-
-![[../img/Berenfaer.jpg]]
+This led to their duality as a political force to be reckoned with within the diplomatic sphere of Palaurim, and a secret agency that operates from the shadows well beyond its territories.
 
 ## Origins
 
@@ -49,15 +54,17 @@ This led to their duality as a political force to be reckoned with in the diplom
 > 
 > Heads held high,
 > Banshee
+>
+> ![[../img/Berenfaer.jpg]]
 
 ## Structure
 
-The Berenfaer consist of an array of operatives spread across Naerk. To preserve the security protocols, they refer to each other by their agent nicknames and operate within regional cells that have only as much contact with the rest of the Berenfaer as is deemed safe by the higher layer of handlers and comms agents.
+The Berenfaer consist of an array of operatives spread across Naerk. To preserve the security protocols, they refer to each other by their handles or *noms-de-guerre* and operate within regional cells that have as much contact with the rest of the Berenfaer as is deemed safe by the spymasters, handlers, and comms agents.
 
 ### Personnel
 
-The leadership itself is based in Zolkar, and consists of the **assembly of spymasters**, accomplished operatives who take on the strategic and supportive duties.
-The spymasters have roles that range from political direction to undercover oversight, and are tasked with making sure that the operative network remains decentralised and individual cells have enough support when taking the initiative in their own regions.
+The leadership itself is based in Zolkar, and consists of the **assembly of spymasters**, accomplished operatives who take on directive and supportive duties.
+The spymasters have roles that range from political presence to undercover oversight, and are tasked with making sure that the operative network remains decentralised and individual cells have enough support to take the initiative in their own regions.
 
 The most influential spymasters include:
 - [[Steelshade]], councillor and political face of the Berenfaer and Elestair, holding one of the two seats of Zolkar in the Council of [[Palaurim]]; he is credited with reviving the Berenfaer by spearheading the Zolkar's Dawn riots
@@ -70,11 +77,11 @@ The most influential spymasters include:
 - [[Sevena|Gingerbread]], elderly witch and soothsayer
 - [[Ulfwyr|Teucer]], captain of the scouts and paramedic marksman
 - [[Bjonnyr|Ajax]], captain of the raiders and ferocious axeman
-- **Sunstroke**, expat elderly kholo shaman
+- **Sunstroke**, expat elderly gnoll shaman
 - **Stroopwaffel**, halfling bard and socialising beast
 - **Quake**, dwarven kineticist and intrepid explorer
 
 ### Bases
 
-Beyond a multitude of clandestine safehouses in foreign territories, the Berenfaer maintain a few formal strongholds on Zolkar, the most prominent being the castles of Pegasus Keep (overlooking [[Elestair]]) and Fort Freyr (along the coastline of [[Ilistair]]).
+Beyond a multitude of clandestine safehouses in foreign territories, the Berenfaer maintain a few formal strongholds on Zolkar, the most prominent being the castles of **Pegasus Keep** (overlooking [[Elestair]]) and **Fort Freyr** (along the coastline of [[Ilistair]]).
 Fort Freyr was captured from a major slave trader during the riots in the winter of 4817, while Pegasus Keep was magically constructed during the next summer by Banshee, with inhabitants coming to marvel at the carpentry and masonry flying into place as she sung and played on her harp.
