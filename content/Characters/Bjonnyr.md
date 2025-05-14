@@ -27,6 +27,8 @@ wiki:
 > > | height | 6'5" |
 > > | weight | 230 lb. |
 > > | appearance | <li>bearskin</li><li>dark brown hair</li><li>auburn beard</li><li>sharp canines</li> |
+> > | stats | [[Bjonnyr 10 PF2e.pdf\|Pathfinder 2e]] |
+
 
 > ΑΠΠΑΝΩ ΝΤΩΣ!
 > _-- jubilant Qrattan battlecry_

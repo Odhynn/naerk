@@ -26,7 +26,7 @@ wiki:
 > > | height | 5'11" |
 > > | weight | 155 lb. |
 > > | appearance | <li>dark brown hair</li><li>ice blue eyes</li><li>auburn stubble</li><li>sharp canines</li> |
-> > | stats | [[Ulfwyr 14 H32.pdf\|Pathfinder 1e]] |
+> > | stats | [[Ulfwyr 14 H32.pdf\|Pathfinder 1e]], [[Ulfwyr 10 PF2e.pdf\|Pathfinder 2e]] |
 >
 > > [!quote]
 > > 

@@ -72,9 +72,9 @@ The most influential spymasters include:
 - [[Aileen|Banshee]], head analyst and cultural face of the Berenfaer, a powerful arcanist and muse of Elestair; coming into the fold after rescuing Steelshade in Hashnev, she is credited with introducing the security protocol reforms
 - **Absinthe**, diviner wizard and head of signals
 - **Friar**, chaplain of [[Lainek]] and head loremaster
-- **Scorpio**, captain of the guard, former pirate and daredevil
+- **Scorpio**, captain of the guard, former pirate and daredevil  
 - [[Algirith|Tulip]], inquisitor of [[Lainek]] and guerilla marshal
-- [[Sevena|Gingerbread]], elderly witch and soothsayer
+- [[Sevena|Gingerbread]], old crone witch soothsayer
 - [[Ulfwyr|Teucer]], captain of the scouts and paramedic marksman
 - [[Bjonnyr|Ajax]], captain of the raiders and ferocious axeman
 - **Sunstroke**, expat elderly gnoll shaman
