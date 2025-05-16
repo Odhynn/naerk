@@ -4,7 +4,6 @@ date: 2016-09-19
 author: sfakias
 ---
 
----
 > [!attributes]
 > 
 > > [!quote]
@@ -31,4 +30,4 @@ They did not think they had much chance of success, but things eventually evolve
 The group then made it all the way to Karadosh's temple and put an end to the power of the heretics. At the same time, the forces of Berenfaer gathered almost entirely in the occupied building and defended it against the thugs and the corrupt guards.
 
 The governor did not immediately send the garrison to quell the rebellion lest he indirectly accept the existence of slavery, but he did turn a blind eye to the battle and indirectly reinforced the slavers with weapons and direct statutory provisions for immunity in their actions.
-However, the soldiers quickly found themselves fighting their fellow citizens and slaughtering each other, with chaos reigning in Elestair since the begining. The situation had a huge economic impact on the city and threatened the image of Imtaria all the way out. So, the governor ordered a halt of hostilities and gave full rights as well as limited political power to the Berenfaer and the freed slaves.
+However, in the tumultuous weeks that followed the soldiers quickly found themselves fighting their fellow citizens and slaughtering each other, with chaos reigning in Elestair since the start. The situation imposed a heavy economic strain on the city and cast a shadow over the image of Imtaria and Palaurim itself. Eventually, the governor ordered a halt to the hostilities and gave full rights as well as limited political power to the Berenfaer and the freed slaves.
