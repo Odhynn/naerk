@@ -50,7 +50,7 @@ Ulfwyr Arthwyrsson is a field agent of the [[Berenfaer]] by the handle "Teucer",
 
 ## Berenfaer
 
-He was a major actor in the [[Zolkar's Dawn Riot]] events that led to the resurgence of the Berenfaer, under the guidance of [[Steelshade]] and alongside [[Black Mist]].
+He was a major actor in the [[Zolkarsdawn Riot]] events that led to the resurgence of the Berenfaer, under the guidance of [[Steelshade]] and alongside [[Black Mist]].
 
 ## South Sea
 

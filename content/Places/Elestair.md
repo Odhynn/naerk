@@ -17,4 +17,4 @@ tags:
 > > | Religions | [[Lainek]], [[B'tolen]], [[Hydarax]], [[Steenar]], [[Veiroch]], [[Yushan]], [[Karadosh]] |
 > > | Location | south [[Zolkar]] |
 
- The capital of [[Zolkar]], in turmoil after the [[Zolkar's Dawn Riot]].
+ The capital of [[Zolkar]], in turmoil after the [[Zolkarsdawn Riot]].

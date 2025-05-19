@@ -24,4 +24,4 @@ tags:
 
 Influential member of [[Berenfaer]]
 Vigilante and sharpshooter
-Organizer of [[Zolkar's Dawn Riot]]
+Organizer of [[Zolkarsdawn Riot]]

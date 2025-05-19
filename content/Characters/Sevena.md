@@ -29,4 +29,4 @@ tags:
 > > | residence | [[Elestair]] |
 
 Sevena is an elderly witch and a spymaster of the [[Berenfaer]] by the handle "Gingerbread", often referred to as "Granny Gingerbread".
-She participated in the scouting party that kickstarted the [[Zolkar's Dawn Riot]] in 4817, freeing the slaves and confronting the cult of [[Karadosh]] in the bowels of [[Elestair]].
+She participated in the scouting party that kickstarted the [[Zolkarsdawn Riot]] in 4817, freeing the slaves and confronting the cult of [[Karadosh]] in the bowels of [[Elestair]].

@@ -30,7 +30,7 @@ tags:
 > *We are Berenfaer - and hence*
 > *they shall curse our name.*
 
-The Berenfaer is an organization of freedom fighters and undercover operatives that combat slavery and tyranny. Their presence was minute and scattered until the [[Zolkar's Dawn Riot]], after which they managed to outright abolish slavery in [[Zolkar]] and become the leading faction at the island's helm.
+The Berenfaer is an organization of freedom fighters and undercover operatives that combat slavery and tyranny. Their presence was minute and scattered until the [[Zolkarsdawn Riot]], after which they managed to outright abolish slavery in [[Zolkar]] and become the leading faction at the island's helm.
 Invigorated by their success, newfound power, and an influx of talent among their ranks, they quickly branched out beyond the shores of Zolkar, establishing contacts and safe houses in multiple regions where resistance against authoritarian rule and human trafficking is budding.
 
 This led to their duality as a political force to be reckoned with within the diplomatic sphere of [[Palaurim]], and a secret agency that operates from the shadows well beyond its territories.

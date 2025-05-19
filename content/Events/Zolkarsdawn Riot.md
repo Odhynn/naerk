@@ -1,7 +1,7 @@
 ---
-title: "Zolkar's Dawn Riot"
+title: "Zolkarsdawn Riot"
 date: 2016-09-19
-author: sfakias
+author: sfakias, odysseas
 ---
 
 > [!attributes]
@@ -24,10 +24,11 @@ Under these circumstances, the [[Berenfaer]] resurfaced. This secret group was r
 And if the slave trade was not bad enough, soon a cult of [[Karadosh]] developed in the underground canals of Elestair with the tolerance of some of the worst slave traders. They built in the lower underground temples and began to use slaves for sacrifices and to strengthen their powers by unholy ceremonies which gave them animal characteristics and made them go crazy.
 Very quickly the cultists gained absolute control over the city's sewers, and this made the Berenfaer and their supporters even more committed in their efforts to abolish corruption and slavery.
 
-The situation resembled a boiling cauldron, but was stagnant. However, the winter of the year 4817 ignited the spark that set the plain on fire.
-When a Berenfaer agent disappeared while exploring the underground passages, a scouting party comprised of [[Algirith]] Evergreen, [[Black Mist]], the witch [[Sevena]], and [[Ulfwyr]] Arthwyrsson, was sent to find him by the senior agent [[Steelshade]].
-They did not think they had much chance of success, but things eventually evolved a bit differently. Entering the canals through an entrance to a slave market, the group set off a fight with the thugs in the middle of a slave auction, which ended with the slaves breaking free and occupying the entire building in a bloody rebellion.
-The group then made it all the way to Karadosh's temple and put an end to the power of the heretics. At the same time, the forces of Berenfaer gathered almost entirely in the occupied building and defended it against the thugs and the corrupt guards.
+As the number of slaves in the island swelled and the corruption of the officials became more and more overt, the situation grew increasingly volatile, until it finally came to a head.
+When a Berenfaer agent disappeared while exploring the underground passages, a scouting party comprised of [[Algirith]] Evergreen, [[Black Mist]], the witch [[Sevena]], and [[Ulfwyr]] Arthwyrsson, was sent to find him by the de-facto leader of the organisation, smithsguildmaster [[Steelshade]].
+They did not think much of their chances, but things eventually evolved a bit differently. Entering the canals through an entrance to the slave market at the Zolkarsdawn Agora, the group set off a fight with the thugs in the middle of a slave auction, which ended with the slaves breaking free and occupying the entire building complex in a bloody rebellion.
+The group then made it all the way to Karadosh's temple in the underground and put an end to the power of the heretics. At the same time, the forces of Berenfaer gathered almost in the occupied building and defended it against the thugs and the corrupt guards.
 
-The governor did not immediately send the garrison to quell the rebellion lest he indirectly accept the existence of slavery, but he did turn a blind eye to the battle and indirectly reinforced the slavers with weapons and direct statutory provisions for immunity in their actions.
-However, in the tumultuous weeks that followed the soldiers quickly found themselves fighting their fellow citizens and slaughtering each other, with chaos reigning in Elestair since the start. The situation imposed a heavy economic strain on the city and cast a shadow over the image of Imtaria and Palaurim itself. Eventually, the governor ordered a halt to the hostilities and gave full rights as well as limited political power to the Berenfaer and the freed slaves.
+The governor did not immediately send the garrison to quell the rebellion lest he indirectly accept the existence of slavery, but he did turn a blind eye to the conflict and indirectly reinforced the slavers with weapons and direct statutory provisions for immunity in their actions.
+In the tumultuous weeks that followed the Zolkari soldiers quickly found themselves fighting their own citizens and slaughtering each other, while chaos reigned in Elestair. All this proved catastrophic for business in the city, a major mercantile hub of Palaurim, and by extension cast a shadow over the public image of Imtaria itself. Eventually, the governor negotiated a halt to the hostilities and gave full rights as well as limited political power to the Berenfaer and the freed slaves.
+They went on to push for drastic reform in Zolkari law, social structure, and politics, while still working to dismantle the remnants of the slave trade.

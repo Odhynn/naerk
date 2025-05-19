@@ -149,7 +149,7 @@ The Everbryght all arrived in Naerk with nothing but a projection of their bodie
   - After that, the Everbryght agreed to go their separate ways and spread out across Naerk, so that they may cover more ground and have more chances of finding a lead. Since then, their paths have diverged and crossed again as each follows their own quests. 
 - 4817, Winter
   - Smolynx travelled to [[Sunshine]] isle to speak with [[Droghor]] of the Dragonpact.
-  - Ulfwyr and Bjonnyr (the Arthwyrsson brothers) travelled to Zolkar where they became involved in the events culminating in [[Zolkar's Dawn Riot]] and the resurgence of the [[Berenfaer]]; they were joined by Rowena as soon as she heard of the amount of shite that was going down.
+  - Ulfwyr and Bjonnyr (the Arthwyrsson brothers) travelled to Zolkar where they became involved in the events culminating in [[Zolkarsdawn Riot]] and the resurgence of the [[Berenfaer]]; they were joined by Rowena as soon as she heard of the amount of shite that was going down.
   - Gwynne finished her training and was ordained a knight hospitaller under the Chapter of the West.
   - Aileen joined the [[Halcyon]] band for she shared their harrowed condition and sailed with them to [[Stormfall]], where she was captured and sent to [[Hashnev]] in chains.
 - 4817, Spring

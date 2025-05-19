@@ -42,7 +42,7 @@ Bjonnyr Arthwyrsson is a field agent of the [[Berenfaer]] by the handle "Ajax", 
 
 ## Berenfaer
 
-In 4817 he took part in the [[Zolkar's Dawn Riot]] events that led to the resurgence of the Berenfaer, along with his brother [[Ulfwyr]], and led the charge in the Battle for Fort Freyr near [[Ilistair]].
+In 4817 he took part in the [[Zolkarsdawn Riot]] events that led to the resurgence of the Berenfaer, along with his brother [[Ulfwyr]], and led the charge in the Battle for Fort Freyr near [[Ilistair]].
 They both sailed to the South Sea afterwards to explore.
 
 ## South Sea
