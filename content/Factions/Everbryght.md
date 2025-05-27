@@ -134,12 +134,12 @@ They were named the Everbryght in honour of [[Shizu|the Swordmaiden Serene]] and
 The Everbryght all arrived in Naerk with nothing but a projection of their bodies and a sword, and that's what they will eventually depart with unless either the body or the anchor are destroyed.
 
 - 4804
-  Smolynx was the first to test the endeavour's viability and successfully project to Naerk. To her astonishment [[Lleyn]] saw once more a falling star descend from the skies, and gently nudged it to a lake in Mitheryn forest. The druids there witnessed a blind elf emerge naked from the lake, quivering, clutching a sword, and speaking an outlandish variant of Druidic.
+  Smolynx was the first to test the endeavour's viability and successfully project to Naerk. To her astonishment [[Lleyn]] saw once more a falling star descend from the skies, and gently nudged it to a lake in Mitheryn forest. The druids there witnessed a blind elf emerge naked from the lake, quivering, clutching a sword, and speaking the Realms variant of Druidic.
 - 4805-4815
   For the next decade, Smolynx scoured Sennarin and Bjåglant for morghonljucht traces, became a prominent leader of the [[Circle of the Stag]] and worked with the Swordmaiden Serene's sisters, Lady Hime and Lady Sen of the Clans of Snow, to prepare for the arrival of the 5 children.
 - 4815, Spring
   Upon arrival, they spent a year and a half to acclimate and learn about Naerk.
-  - Gwynne served as an officer cadet in the Griffon Cavalry of the Snow Clans, eventually reaching the rank of Reserve Lance-Lieutenant, and trained with the Knights Hospitaller in their newly established chapter house in Yoakyuuden.
+  - Gwynne served as an officer cadet in the Griffon Cavalry of the Snow Clans, eventually reaching the rank of Reserve Lance Lieutenant, and trained with the Knights Hospitaller in their newly established chapter house in Yoakyuuden.
   - Ulfwyr and Bjonnyr travelled to [[Bjåglant]] and [[North Darrok]] under the tutelage of Smolynx.
   - Aileen and Rowena were tutored by Lady Sen and Lady Hime respectively so that they would adapt their arcane knowledge to vethian magic.
 - 4816, Autumn

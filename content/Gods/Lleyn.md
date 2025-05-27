@@ -55,21 +55,7 @@ On her watch she received a number of offworld travellers who would have a drama
 
 ### Ascension
 
-When the Arrival took place in 4790, [[Angaeradh]] saw the torrent of falling stars in the sky, coming from the depths of space to be caught in Qusm's orbit, and knew the time had at last come: she had had long foreseen, and long awaited, the return of elves in Athalaar, and those elves, though few, were among those falling stars.
-
-As was her duty as the Prophetess of the Mountain, she bade the [[Lleyn|Lady of the Lake]] to prepare to receive the travellers, but also to be advised that they come in the thousands. The Lady knew this spelled ill news for the portal, for it would be near impossible to keep its energies from fluctuating out of control if it should remain open while all those people came through.
-In such unique circumstances, a Lady of the Lake was typically allowed to shut the portal and divert the incoming travellers into the cold void to avoid risking the gate's integrity. The Lady chafed at the prospect of condemning all those people to oblivion, and asked the Prophetess, who was technically her superior and had bitter experience with unstable portal gates, for her orders on what to do. Angaeradh ordered her to hold the portal open at all costs.
-
-When the first Sennarii began washing out of the Lake, bewildered they gazed upon the Lady hovering above the whirling waters, beaming with raw magic gushing through the ley lines on the ground and the watery depths, tinged by moonlight and straining from effort.
-When the last of them had finally passed through, the magical storm abated, and the Lady dropped lifelessly into the lake. Immediately dozens of the Sennarii who were pearl divers in their homeworld jumped back in and retrieved her body from its dark depths.
-
-Holding a mass wake was the first thing the Sennarii did on Naerk. By the thousands they camped around Edhailin, placing flowers by her body and lighting fires to warm themselves and burn the incense they had brought.
-They lamented the destruction of the homeworld they had to flee, and they mourned what they saw as a kind angel who eased their flight into her own world at the cost of her life.
-Yerastu looked on, and decided that this circumstance of dutiful self-sacrifice, mass reverence, and residual energy, called for an ascension of the Lady's soul.
-While initially the bar of his patronage was at the level of Golden Emissary, the Sennarii kept revering the Lady of the Lake in the following months as they settled in contemporary Sennarin, and this pious expression only strengthened the Lady's coalescing divinity to the point where she eventually materialised as Lleyn, the Demigoddess of the Moon.
-
-While at a high council of the divine guardians of Athalaar, Angaeradh, who was formerly the Lady's superior, wondered internally if in light of those events divinity was also not out of the question for her, once her eternity of duty came to an end; all she had to do was die fulfilling her role and she could become a Goddess of Stars or Time.
-Sensing the rise of terrible ambition within her, Yerastu reminded her that in contrast to Lleyn, she was not enlisted to her duty; she was sentenced to it.
+![[Sennarin#the Arrival]]
 
 ## Following
 
