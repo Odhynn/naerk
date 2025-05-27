@@ -37,7 +37,7 @@ Geographical regions like the Kherobis Forest and the coves of Pan-Taram, in tur
 > see: [[Zolkarsdawn Riot]]
 
 Zolkar's most recent turmoil began with the slave uprising in the Zolkarsdawn Agora in Elestair, which shook the very foundations of the island nation. The rioters, led by the [[Berenfaer]], entered the political sphere after a ceasefire and drastically reformed the Zolkari social infrastructure and legislation.
-By the end of 4817 they are still at work dismantling the slave trade. Quite a few slave rings remain active in Zolkar, limited to less than a dozen big slave traders who operate in secret. The situation in Elestair has gradually stabilised, though it is still tumultuous and hostilities occasionally erupt between the pirate crews, the slaver gangs, and the policing Berenfaer.
+By the end of 4817 they are still at work dismantling the slave trade. Quite a few slave rings remain active in Zolkar, limited to less than a dozen major slave traders who operate in secret. While the situation in Elestair has gradually stabilised, it is still tumultuous and hostilities occasionally erupt between the pirate crews, slaver gangs, and the policing Berenfaer.
 
 ## Relations
 

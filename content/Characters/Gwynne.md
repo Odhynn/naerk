@@ -1,5 +1,5 @@
 ---
-title: Gwynne Shizusdottir
+title: Syr Gwynne an Daragh
 subtitle: female nephelim knight
 date: 2025-04-09
 author: odysseas

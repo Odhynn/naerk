@@ -110,9 +110,12 @@ When the battle proper was joined in the streets, Shizu found herself and the yo
 
 ## Legacy
 
-Having become incredibly powerful in her own right, she afterwards returned to the Realms Beyond to reckon with the forces that had expelled her thence. A series of events that also transpired between the two worlds and included the [[Swords of the Archangels| Dawnblade]] led to her angelic ascension.
+Having become incredibly powerful in her own right, she afterwards returned to the Realms Beyond to reckon with the forces that had expelled her thence.
+Still an exile from Yuuyami, she settled on the mainland and associated with the faction to which the two rangers she had met in Selanaar belonged to.
+A few years later, she returned to her homeland when the Yuuyamii Civil War began. At its end, she avenged the Night of the Young and her master's death by toppling the Three Generals.
+After order had been restored, she left Yuuyami to join the [[Everbryght#Rosewood|rangers' task force]] in their struggle against tyranny in the far north. Their quest to keep two powerful artifacts, the Swords of the Archangels, also transpired between the two worlds and concluded with their sacrifice. As she lay broken amidst a sea of devil corpses, the god of protectors stood by her final breath and saw to her angelic ascension.
 
-The Realms Beyond suffered an apocalyptic event soon after that rent the very fabric of magic. The resulting cosmic instability awoke the supervolcano that had birthed the islands of Yuuyami.
+Not two years after, the Realms Beyond suffered an apocalyptic event that rent the very fabric of magic. The resulting cosmic instability awoke the supervolcano that had birthed the islands of Yuuyami.
 
 > [!attributes] 
 > > [!grid]

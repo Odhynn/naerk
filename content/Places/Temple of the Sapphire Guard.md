@@ -12,7 +12,9 @@ tags:
 > >
 > > | | |
 > > | --- | --- |
-> > | Built | ? |
-> > | Location | Southeast [[Sennarin]] |
+> > | Built | 45th century |
+> > | Location | Ferthas Isle, Alagon Archipelago |
+<!-- 20250527: δεν χτιστηκε 4 αιωνες πριν στο Σενναριν επειδη δεν ζουσαν ανθρωποι 4 αιωνες πριν εκει που ειναι τωρα το Σενναριν. ΕΠΙΣΗΜΑΝΣΗ: το Σενναριν υπαρχει απο το 4790 και μετα! -->
 
-An ancient temple built on the foot of a steep mountain in the territory of the clans of Thunder in [[Sennarin]]. Blue in color, it was built four centuries ago and houses priests of [[Sigard]] and [[Yerastu]], as well as creatures from the [[Fortress of the Just]] and [[Utopia]]. Councils are often held here on important secular or moral issues, trials, and pilgrims and priests often visit the place for advice. It houses artifacts of old and is also a court for major offenders that abuse magic or their powers.
+An ancient temple built on the foot of a steep mountain <!-- in the territory of the clans of Thunder in [[Sennarin]] --> on Ferthas, the biggest isle of the [[Alagon]] Archipelago.
+Blue in color, it was built four centuries ago and houses priests of [[Sigard]] and [[Yerastu]], as well as creatures from the [[Fortress of the Just]] and [[Utopia]]. Councils are often held here on important secular or moral issues, trials, and pilgrims and priests often visit the place for advice. It houses artifacts of old and is also a court for major offenders that abuse magic or their powers.

@@ -21,12 +21,15 @@ tags:
 > > | Imports | Livestock, Fruit |
 > > | Exports | Forged Metals, Grain |
 
-- nation of human and elven refugees fleeing from a cataclysmic event in their homeworld of the Realms Beyond
+Sennarin is a nation founded in 4790 by human and elven refugees fleeing from a cataclysmic event in their homeworld of the Realms Beyond.
 
 ## History
 
+The lands around Mitheryn forest where Sennarin now stands were for millenia part the heartland of the Athalaari elves until the Harrowing of [[Athalaar]] in 3260; they have been devoid of civilisation ever since, guarded jealously by a succession of dragons, the last of them being the green wyrm [[Gwarfhyvaax]].
+While the [[Athar]] tribes to the east and the Oni clans to the north always kept a respectful distance from the wild dragonlands, the [[Bjåglant|Bjåglanders]] had slowly but steadily been pushing their frontier from the coasts westward since the 46th century - until the Arrival of the Sennarii.
+
 ### the Arrival
-In 4790, the Sennarii appeared en masse through the ancient elven portal of Edhailin, pouring out of the Lake of the Moon by the thousands and breaking the portal in the process
+In 4790, the Sennarii appeared en masse through the ancient elven portal of Edhailin, pouring out of the Lake of the Moon by the thousands and breaking the portal in the process.
 
 ### [[the Arrival Wars]]
 

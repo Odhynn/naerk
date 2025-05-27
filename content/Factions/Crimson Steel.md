@@ -49,7 +49,7 @@ _Their symbol is a keyhole dripping with blood._
 
 ## History
 
-Their order in the past resembled a strict palace structure, vertical staffing and hierarchy. Their motives remain unknown to most, but they are certainly responsible for countless murders, robberies, thefts and sabotages, most notable examples being the theft of one of the [[Solarium Ring|Rod of Stone and Steel rings]] from the [[Sapphire Temple]] and the assassination of the former king of Arbader, [[King Laorwick II|Laorwick II]].
+Their order in the past resembled a strict palace structure, vertical staffing and hierarchy. Their motives remain unknown to most, but they are certainly responsible for countless murders, robberies, thefts and sabotages, most notable examples being the theft of one of the [[Solarium Ring|Rod of Stone and Steel rings]] from the [[Temple of the Sapphire Guard]] and the assassination of the former king of Arbader, [[King Laorwick II|Laorwick II]].
 
 About a millennium ago the Order of the Cave was created, with many of the powerful Steel as leaders, who saw their position as a mismatch to their power. Among them the [[Lady of Pain]] and [[Zinziglum]]. The battle between the two took place on two main levels, in terms of potential and networks. The struggle lasted some five centuries, and ended when at the zenith of the conflict the Steel seemed to be victorious with enormous losses, while the Order was almost wiped out.
 
