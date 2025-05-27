@@ -113,7 +113,13 @@ When the battle proper was joined in the streets, Shizu found herself and the yo
 Having become incredibly powerful in her own right, she afterwards returned to the Realms Beyond to reckon with the forces that had expelled her thence.
 Still an exile from Yuuyami, she settled on the mainland and associated with the faction to which the two rangers she had met in Selanaar belonged to.
 A few years later, she returned to her homeland when the Yuuyamii Civil War began. At its end, she avenged the Night of the Young and her master's death by toppling the Three Generals.
-After order had been restored, she left Yuuyami to join the [[Everbryght#Rosewood|rangers' task force]] in their struggle against tyranny in the far north. Their quest to keep two powerful artifacts, the Swords of the Archangels, also transpired between the two worlds and concluded with their sacrifice. As she lay broken amidst a sea of devil corpses, the god of protectors stood by her final breath and saw to her angelic ascension.
+
+### Angelic Ascension
+
+After order had been restored, she left Yuuyami to join the [[Everbryght#Rosewood|rangers' task force]] in their struggle against tyranny in the far north.
+Their quest to keep two powerful artifacts, the Swords of the Archangels, also transpired between the two worlds and concluded with their sacrifice. Lying broken amidst a sea of rubble and fiendish corpses, she muttered her infant daughter's name with her final breath. Unseen, the god of protectors knelt by, and moved by her sacrifice, he lifted her up to the celestial realm.
+
+### Arrival of the Sennarii
 
 Not two years after, the Realms Beyond suffered an apocalyptic event that rent the very fabric of magic. The resulting cosmic instability awoke the supervolcano that had birthed the islands of Yuuyami.
 

@@ -13,7 +13,7 @@ tags:
 > > | | |
 > > | --- | --- |
 > > | Climate | Temperate Continental, Temperate Oceanic |
-> > | Capital | [[Yoakyuuden]] |
+> > | Capital | Yoakyuuden |
 > > | Government | Clan Oligarchy |
 > > | Languages | Common, Elven |
 > > | Population | 80000 |
@@ -30,6 +30,9 @@ While the [[Athar]] tribes to the east and the Oni clans to the north always kep
 
 ### the Arrival
 In 4790, the Sennarii appeared en masse through the ancient elven portal of Edhailin, pouring out of the Lake of the Moon by the thousands and breaking the portal in the process.
+They had fled the destruction of their island nation of Yuuyami back in the Realms with the aid of the [[Shizu|Swordmaiden Serene]] who in her ascended angelic form opened the astral portals that they might pass through.
+
+![[Lleyn#Ascension]]
 
 ### [[the Arrival Wars]]
 
