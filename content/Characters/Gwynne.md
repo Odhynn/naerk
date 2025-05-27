@@ -1,5 +1,5 @@
 ---
-title: Gwynne An Daragh
+title: Gwynne Shizusdottir
 subtitle: female nephelim knight
 date: 2025-04-09
 author: odysseas
@@ -31,9 +31,10 @@ wiki:
 > Amen.
 > _-- Yerastine prayer for the dead_
 
-Gwynne is a reserve lance-lieutenant in the Sennarii Snow Clans' Griffon Cavalry, a Knight-Hospitaller, and one of the [[Everbryght]].
+Syr Gwynne is a reserve lance-lieutenant in the Sennarii Snow Clans' Griffon Cavalry, a Knight-Hospitaller, and one of the [[Everbryght]].
 
-After surviving the 2nd Sennarii Expedition to Selanaar and receiving her commission in the Griffon Cavalry of the Sennarii Clans of Snow in early 4817, she was granted indefinite leave for "confidential state affairs".
-Upon finishing her training under the Hospitaller Chapter of the West, she was knighted a hospitaller, taking her oaths in the name of [[Yerastu]], [[Factar]], and [[Lleyn]]. She then immediately began her pilgrimage to a string of sites sacred to the chapter and the Church of Yerastu, including the [[Temple of the Sapphire Guard]] and the [[Four Winds Monastery]].
+After arriving in [[Sennarin]] from the Realms Beyond in 4815, Gwynne served as an officer cadet in the Griffon Cavalry of the Snow Clans, eventually reaching the rank of Reserve Lance-Lieutenant, and trained with the Knights Hospitaller in their newly established chapter house in Yoakyuuden.
+After surviving the 2nd Sennarii Expedition to Selanaar and receiving her commission in the Griffon Cavalry in early 4817, she was granted indefinite leave for "confidential state affairs".
+Upon finishing her training under the Hospitaller Chapter of the West, she took her knights' vows in the name of [[Yerastu]], [[Factar]], and [[Lleyn]]. She then immediately began her pilgrimage to a string of sites sacred to the chapter and the Church of Yerastu, including the [[Temple of the Sapphire Guard]] and the [[Four Winds Monastery]].
 
-In autumn of 4817 she caught wind of a lead while in [[Ekteron]] that led her to ask officers of the passing [[Wolf Legion]] to smuggle her into [[Olgizmar]]; there she was arrested by the magister circles and incarcerated in the cold iron mines until the cataclysmic post-[[Vethfall]] events sundered the wards and led to her joining the defence of [[Bránstraž]] alongside acolyte [[Soraelis]], [[Dante Atonmeer]], and [[Laslath]].
+In autumn of 4817 she caught wind of a lead while in [[Ekteron]] that led her to ask [[Ishigaki|Lord Hida]] of the passing [[Wolf Legion]] to smuggle her into [[Olgizmar]]. He honoured her request and arranged for her passage to the shores of Dorvolosh. There she was arrested by the Vaelkith magister circle and incarcerated in the cold iron mines until the day of [[Vethfall]], when the arcane barrier wards burst and let the demons loose on the island. She and her former cellmates [[Soraelis]], [[Dante Atonmeer]], and [[Laslath]], infused with mythic energy by the undoing of a curious crystal artifact, washed out of its crypt onto the shore and joined the defence of [[Bránstraž]].

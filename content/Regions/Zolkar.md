@@ -16,19 +16,22 @@ tags:
 > > | Climate | Inner Sea |
 > > | Capital | [[Elestair]] |
 > > | Government | Council |
-> > | Languages | Common, Goblin, Elven, Gnoll |
+> > | Languages | Common (southern darroki, oerdang, karrokhi, imtarian), Goblin (zolkari), Halfling, Elven (edhel), Gnoll (karrokhi) |
 > > | Population | 472000 |
 > > | Religions | [[Lainek]], [[Yerastu]], [[Karadosh]], [[Maeronian]], [[Xeurim]], [[Steenar]] |
 > > | Imports | Grain, Corn, Mercenaries, Sailors, Exotic Goods |
 > > | Exports | Wine, Olive Oil, Milk, Cheese, Livestock, Fruits, Silver, Fish |
-> > | Important Events | Zolkarsdawn Riot |
 
-## Origins
+## Demographic
 
-The island of [[Zolkar]] is one of the most cosmopolitan places Inner sea.
+The island of [[Zolkar]] is one of the most cosmopolitan places of the Inner sea.
 Much of the population comes from [[South Darrok]], having emigrated for economic reasons or seeking safety from giant attacks of the North.
-Many more originate from [[Imtaria]]: merchants and sailors that took advantage of its strategic geographical position. The sailors knew they could always a ship seeking deckhands, while the merchants could, by virtue of the [[Palaurim|treaty of Palaurim]], trade undisturbed through the Zolkarsdawn Gulf. Finfolk are also very common, hailing from the nearby isle of Corralion or Urdankh.
+Many more originate from [[Imtaria]]: merchants and sailors that took advantage of its strategic geographical position. The sailors knew they could always a ship seeking deckhands, while the merchants could, by virtue of the [[Palaurim|treaty of Palaurim]], trade undisturbed through the Zolkarsdawn Gulf. Finfolk are also very common, hailing from Urdankh or the nearby isle of Corralion .
 Finally, rich farmers from [[Oromil]] come from the south for bargains and slaves.
+
+Its breadth of ethnicities and languages is nothing new; Zolkari toponyms stand testament to its mixed heritage.
+Names of cities like Elestair, Ilistair, Estair have northern darroki origins, while Elerion, Kalyrion, and Orlyn have southern darroki origins.
+Geographical regions like the Kherobis Forest and the coves of Pan-Taram, in turn, have karrokhi names. 
 
 ## Rise of the Berenfaer
 > see: [[Zolkarsdawn Riot]]

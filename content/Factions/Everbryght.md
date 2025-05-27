@@ -24,7 +24,7 @@ Though this ore is not something they expect someone to fight them for, they pre
 
 - [[Smolynx]] Raerundlin, male elf Druid of the Circle of the Stag
 - [[Rowena]] Raerundlin, female half-elf Battlemage (of the jock variety)[^7]
-- [[Gwynne]] An Daragh, female nephelim Knight Hospitaller
+- [[Gwynne]] Shizusdottir, female nephelim Knight Hospitaller
 - [[Ulfwyr]] Arthwyrsson, male human Ranger longbowman
 - [[Bjonnyr]] Arthwyrsson, male human Barbarian axeman
 - [[Aileen]] Rosewood, female human Battlemage (of the nerd variety)[^7]
@@ -99,11 +99,11 @@ In an unfortunate turn of events borne of their parents' past always catching up
 Dinoksetijd's "treasure" survived, though they were subtly scarred by the event; it was this spell-scar that would eventually bind them to a singular purpose.
 They were:
 - Smolynx, son of Annwn, 163 years old[^3]
-- Rowena, daughter of Smolynx, 17 years old
-- Gwynne, daughter of Ullisson, 13 years old
-- Ulfwyr, son of Fjona, 7 years old
-- Aileen, daughter of Sigrid, 4 years old
-- Bjonnyr, son of Fjona, 2 years old
+- Rowena, daughter of Rhonwen and Smolynx, 17 years old
+- Gwynne, daughter of Shizu and Ullisson, 13 years old
+- Ulfwyr, son of Fjona and Arthwyr, 7 years old
+- Aileen, daughter of Sigrid and Angallyr, 4 years old
+- Bjonnyr, son of Fjona and Arthwyr, 2 years old
 
 ## Formation
 

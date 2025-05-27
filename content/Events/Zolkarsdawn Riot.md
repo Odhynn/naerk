@@ -11,7 +11,7 @@ author: sfakias, odysseas
 > > | | |
 > > | --- | --- |
 > > | Place | [[Elestair]], [[Zolkar]] |
-> > | Time | Coldreign 4817 |
+> > | Time | 5-28 Coldreign 4817 |
 
 
 Despite being of the most famous commercial destinations, the island country of Zolkar could never come completely under the authority of its neighbor, [[Imtaria]]. This is for a number of reasons.
