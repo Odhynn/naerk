@@ -1,11 +1,11 @@
 ---
 title: Zyrinthia
 subtitle: female gnome
-date: 2024-03-20
+date: 2025-06-02
 author: sfakias
 tags:
-  - characters/leaders
-  - countries/South Darrok
+  - characters/PCs
+  - countries/Tarthyn
   - factions/Dragonpact
 
 ---
