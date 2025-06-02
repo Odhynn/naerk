@@ -19,4 +19,4 @@ tags:
 > > | appearance | black beard, mirrored scars |
 > > | residence | [[Bjåglant]] shores |
 
-The pirate lord of [[Bjåglant]]. His flag is a Bearded Skull with Crossed Axes and runes on Forehead.
+The pirate lord of [[Bjåglant]]. His flag is a Bearded Skull with Crossed Axes and runes on Forehead. Infamous for numerous plundered villages and several other criminal activities.
