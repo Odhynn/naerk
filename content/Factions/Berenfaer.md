@@ -76,19 +76,20 @@ The leadership itself is based in Zolkar, and consists of the **assembly of spym
 The spymasters have roles that range from political presence to undercover oversight, and are tasked with making sure that the operative network remains decentralised and individual cells have enough support to take the initiative in their own regions.
 
 The most influential spymasters include:
-- [[Steelshade]], councillor of Palaurim, political face of the Berenfaer and Elestair, and guildmaster of the Smith's Guild
-- [[Black Mist]], head of intelligence and master spy, vigilante with multiple identities and sharpshooter
+- [[Steelshade]], councillor of Palaurim, political face of the Berenfaer and Elestair, and guildmaster of the Smiths' Guild
+- [[Blackmist]] head of intelligence and master spy, vigilante with multiple identities and sharpshooter
 - [[Aileen|Banshee]], head analyst and cultural face of the Berenfaer, powerful arcanist and muse of Elestair; coming into the fold after rescuing Steelshade in Hashnev, she is credited with introducing the security protocol reforms
 - **Absinthe**, diviner wizard and head of signals
 - **Friar**, chaplain of [[Lainek]] and head loremaster
-- **Scorpio**, captain of the guard, former pirate and daredevil  
-- [[Algirith|Tulip]], inquisitor of Lainek and guerilla marshal
-- [[Sevena|Gingerbread]], old crone witch soothsayer
-- [[Ulfwyr|Teucer]], captain of the scouts and paramedic marksman
+- **Scorpio**, captain of the guard, former pirate and daredevil
 - [[Bjonnyr|Ajax]], captain of the raiders and ferocious axeman
+- [[Ulfwyr|Teucer]], captain of the scouts and paramedic marksman
+- [[Sevena|Gingerbread]], crone witch soothsayer
+- [[Algirith|Tulip]], inquisitor of Lainek and guerilla marshal
+- **Kommissar**, kobold investigator and propagandist
 - **Sunstroke**, expat elderly gnoll shaman
 - **Stroopwaffel**, halfling bard and socialising beast
-- **Quake**, dwarven kineticist and intrepid explorer
+- **Quake**, dwarven kineticist and intrepid archaeologist
 
 ### Bases
 

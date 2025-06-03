@@ -154,7 +154,7 @@ The Everbryght all arrived in Naerk with nothing but a projection of their bodie
   - Aileen joined the [[Halcyon]] band for she shared their harrowed condition and sailed with them to [[Stormfall]], where she was captured and sent to [[Hashnev]] in chains.
 - 4817, Spring
   - Smolynx travelled through the Allwick desert alongside his tiger companion Mr. Timms, where he briefly joined a band of spellcasters to traverse through an extra-planar crypt of riddles.
-  - Aileen won her gladiatorial freedom in the arena and bore through the wicked machinations of slavers, royals, hellspriests and vampires in corrupt and evil-infested [[Hashnev]], managing to draw Palaurim's attention during the diplomatic councils, get appointed as a special committee member, and save a captured [[Steelshade]] who inducted her into the [[Berenfaer]]; Ulfwyr and [[Black Mist]] aided her efforts during the climactic battle in the palace.
+  - Aileen won her gladiatorial freedom in the arena and bore through the wicked machinations of slavers, royals, hellspriests and vampires in corrupt and evil-infested [[Hashnev]], managing to draw Palaurim's attention during the diplomatic councils, get appointed as a special committee member, and save a captured [[Steelshade]] who inducted her into the [[Berenfaer]]; Ulfwyr and [[Blackmist]] aided her efforts during the climactic battle in the palace.
   - Gwynne undertook a pilgrimage that began in the [[Temple of the Sapphire Guard]] in the [[Alagon]] archipelago.
 - 4817, Summer
   - Smolynx and Rowena journeyed through the [[Edhelwood]].

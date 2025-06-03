@@ -57,7 +57,7 @@ While her more ruthless companions [[Ternath]], [[Olsarthis]], and [[Orok]] fit 
 
 They managed to draw the Palaurim Council's attention to the slave trade in Arbader during the diplomatic councils. After they slew slaver archpriest [[Alkar the Black]], the crown put them on trial for conspiracy. Overruling their conviction, the Palaurim council officials appointed them to a committee investigating the slaver rings.
 
-In the process she met [[Steelshade]] and later managed to free him from the vampires lurking below the Church of Xaurim; he inducted her into the [[Berenfaer]], a role that she fervently took up, with [[Ulfwyr]] and [[Black Mist]] eventually coming to Hashnev to provide backup during the climactic battle in the palace.
+In the process she met [[Steelshade]] and later managed to free him from the vampires lurking below the Church of Xaurim; he inducted her into the [[Berenfaer]], a role that she fervently took up, with [[Ulfwyr]] and [[Blackmist]] eventually coming to Hashnev to provide backup during the climactic battle in the palace.
 
 After the [[Hashnev, Revolt and Betrayal|whole affair]] had died down and Ternath had secured himself a position at the top of the church of [[Sergonial]] and the royal house by scheming behind his bandmates' back, Aileen happily abandoned Hashnev and her post at the committee to become a full-time agent of the Berenfaer in [[Zolkar]].
 By her skill in magic, craftsmanship, and intelligence, she quickly rose to the ranks of the spymasters, introducing many reforms in security measures, tactics, and operational protocol.[^1]

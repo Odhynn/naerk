@@ -25,7 +25,7 @@ And if the slave trade was not bad enough, soon a cult of [[Karadosh]] developed
 Very quickly the cultists gained absolute control over the city's sewers, and this made the Berenfaer and their supporters even more committed in their efforts to abolish corruption and slavery.
 
 As the number of slaves in the island swelled and the corruption of the officials became more and more overt, the situation grew increasingly volatile, until it finally came to a head.
-When a Berenfaer agent disappeared while exploring the underground passages, a scouting party comprised of [[Algirith]] Evergreen, [[Black Mist]], the witch [[Sevena]], and [[Ulfwyr]] Arthwyrsson, was sent to find him by the de-facto leader of the organisation, smithsguildmaster [[Steelshade]].
+When a Berenfaer agent disappeared while exploring the underground passages, a scouting party comprised of [[Algirith]] Evergreen, [[Blackmist]], the witch [[Sevena]], and [[Ulfwyr]] Arthwyrsson, was sent to find him by the de-facto leader of the organisation, smithsguildmaster [[Steelshade]].
 They did not think much of their chances, but things eventually evolved a bit differently. Entering the canals through an entrance to the slave market at the [[Elestair#Zolkarsdawn Agora]], the group set off a fight with the thugs in the middle of a slave auction, which ended with the slaves breaking free and occupying the entire building complex in a bloody rebellion.
 The group then made it all the way to Karadosh's temple in the underground and put an end to the power of the heretics. At the same time, the forces of Berenfaer gathered almost in the occupied building and defended it against the thugs and the corrupt guards.
 
