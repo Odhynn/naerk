@@ -59,10 +59,10 @@ This led to their duality as a political force to be reckoned with within the di
 
 ### Reformation
 
-During the 48th century, the Berenfaer were no more than a fringe political faction across the guilds of Zolkar and Karrokh, their stance defined by advocating against slave labour in a region deeply involved in a lucrative slave trade. While the Karrokhi branch adhered to this mostly out of economic considerations (cheap slave labour edging out the freemen guilds), the Zolkari branch came to adopt a more ethical reasoning, arguing against the accepted notion of indentured servitude.
+During the 48th century, the Berenfaer were no more than a fringe political faction across the guilds of Zolkar and Karrokh, their stance defined by advocating against slavery in a region deeply involved in it. While the Karrokhi branch adhered to this mostly out of economic considerations (cheap slave labour outcompeting the guilds), the Zolkari branch came to adopt a more ethical reasoning, arguing against the accepted notion of indentured servitude on principle.
 
 As officials became overtly corrupt at the start of the 49th century, the argument took on broader hues of combating oppression and nepotism, drawing more public support and carrying more influence within the guilds (especially the smiths, tanners, spinners, and carpenters).
-In 4813, two guildsmen of Berenfaer affiliation, Pieter Jan [[Steelshade]] and Lyselott Dewerf, became the guildmasters of the Elestari Smith's Guild and Carpenter's Guild respectively. The slaver rings took notice and moved quickly: Lyselott's assassination in broad daylight drew public outcry that was nonetheless swiftly suppressed by the guard, and prompted Steelshade to reorganise the Berenfaer into a more covert force.
+In 4813, two guildsmen of Berenfaer affiliation, Pieter-Jan [[Steelshade]] and Lyselott Vandewerf, became the guildmasters of the Elestari Smiths' Guild and Carpenters' Guild respectively. The slaver rings took notice and moved quickly: Lyselott's assassination in broad daylight drew public outcry that was nonetheless swiftly suppressed by the guard, and prompted Steelshade to lie low and reorganise the Berenfaer into a more covert force.
 
 ## Structure
 
@@ -86,9 +86,9 @@ The most influential spymasters include:
 - [[Ulfwyr|Teucer]], captain of the scouts and paramedic marksman
 - [[Sevena|Gingerbread]], crone witch soothsayer
 - [[Algirith|Tulip]], inquisitor of Lainek and guerilla marshal
-- **Kommissar**, kobold investigator and propagandist
+- [[Kommissar]], kobold investigator and propagandist
 - **Sunstroke**, expat elderly gnoll shaman
-- **Stroopwaffel**, halfling bard and socialising beast
+- **Stroopwaffel**, halfling bard and hypersocial beast
 - **Quake**, dwarven kineticist and intrepid archaeologist
 
 ### Bases

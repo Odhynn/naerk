@@ -29,9 +29,11 @@ Much of the population comes from [[South Darrok]], having emigrated for economi
 Many more originate from [[Imtaria]]: merchants and sailors that took advantage of its strategic geographical position. The sailors knew they could always a ship seeking deckhands, while the merchants could, by virtue of the [[Palaurim|treaty of Palaurim]], trade undisturbed through the Zolkarsdawn Gulf. Finfolk are also very common, hailing from Urdankh or the nearby isle of Corralion .
 Finally, rich farmers from [[Oromil]] come from the south for bargains and slaves.
 
-Its breadth of ethnicities and languages is nothing new; Zolkari toponyms stand testament to its mixed heritage.
-Names of cities like Elestair, Ilistair, Estair have northern darroki origins, while Elerion, Kalyrion, and Orlyn have southern darroki origins.
-Geographical regions like the Kherobis Forest and the coves of Pan-Taram, in turn, have karrokhi names. 
+Its breadth of ethnicities and languages is nothing new. The toponyms of the land stand testament to its mixed heritage, drawing origins from:
+- North Darroki: "Elestair", "Ilistair", "Estair"
+- South Darroki: "Elerion", "Kalyrion", "Orlyn"
+- Karrokhi: "Zolkar", "Pan-Taram"
+- ancient Zolkari: "Kherobis"
 
 ## Rise of the Berenfaer
 > see: [[Zolkarsdawn Riot]]
