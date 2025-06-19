@@ -64,11 +64,15 @@ During the 48th century, the Berenfaer were no more than a fringe political fact
 As officials became overtly corrupt at the start of the 49th century, the argument took on broader hues of combating oppression and nepotism, drawing more public support and carrying more influence within the guilds (especially the smiths, tanners, spinners, and carpenters).
 In 4813, two guildsmen of Berenfaer affiliation, Pieter-Jan [[Steelshade]] and Lyselott Vandewerf, became the guildmasters of the Elestari Smiths' Guild and Carpenters' Guild respectively. The slaver rings took notice and moved quickly: Lyselott's assassination in broad daylight drew public outcry that was nonetheless swiftly suppressed by the guard, and prompted Steelshade to lie low and reorganise the Berenfaer into a more covert force.
 
+![[Zolkarsdawn Riot]]
+
+![[../img/Berenfaer.jpg]]
+
 ## Structure
 
 The Berenfaer consist of an array of operatives spread across Naerk. To preserve the security protocols, they refer to each other by their handles or *noms-de-guerre* and operate within regional cells that have as much contact with the rest of the Berenfaer as is deemed safe by the spymasters, handlers, and comms agents.
 
-![[../img/Berenfaer.jpg]]
+Within the state of Zolkar, they have loosely organised their armed forces into four branches: the Privateers (naval), Raiders (irregulars), Scouts (reconnaissance and support), and Guard (regulars).
 
 ### Personnel
 
@@ -81,11 +85,11 @@ The most influential spymasters include:
 - [[Aileen|Banshee]], head analyst and cultural face of the Berenfaer, powerful arcanist and muse of Elestair
 - **Absinthe**, diviner wizard and head of signals
 - **Friar**, chaplain of [[Lainek]] and head loremaster
-- **Scorpio**, captain of the guard, former pirate and daredevil
+- **Scorpio**, captain of the privateers, former pirate and daredevil
 - [[Bjonnyr|Ajax]], captain of the raiders and ferocious axeman
 - [[Ulfwyr|Teucer]], captain of the scouts and paramedic marksman
 - [[Sevena|Gingerbread]], crone cauldron witch
-- [[Algirith|Tulip]], inquisitor of Lainek and guerilla marshal
+- [[Algirith|Tulip]], shieldmaiden and captain of the guard
 - [[Kommissar]], kobold investigator and propagandist
 - **Sunstroke**, expat elderly gnoll shaman
 - **Stroopwaffel**, halfling bard and hypersocial beast

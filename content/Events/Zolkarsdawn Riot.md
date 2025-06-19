@@ -13,6 +13,7 @@ author: sfakias, odysseas
 > > | Place | [[Elestair]], [[Zolkar]] |
 > > | Time | 5-28 Coldreign 4817 |
 
+## Background
 
 Despite being of the most famous commercial destinations, the island country of Zolkar could never come completely under the authority of its neighbor, [[Imtaria]]. This is for a number of reasons.
 
@@ -24,10 +25,12 @@ Under these circumstances, the [[Berenfaer]] resurfaced. This secret group was r
 And if the slave trade was not bad enough, soon a cult of [[Karadosh]] developed in the underground canals of Elestair with the tolerance of some of the worst slave traders. They built in the lower underground temples and began to use slaves for sacrifices and to strengthen their powers by unholy ceremonies which gave them animal characteristics and made them go crazy.
 Very quickly the cultists gained absolute control over the city's sewers, and this made the Berenfaer and their supporters even more committed in their efforts to abolish corruption and slavery.
 
+## The Zolkarsdawn Riots
+
 As the number of slaves in the island swelled and the corruption of the officials became more and more overt, the situation grew increasingly volatile, until it finally came to a head.
-When a Berenfaer agent disappeared while exploring the underground passages, a scouting party comprised of operatives [[Algirith|Tulip]], [[Blackmist]], [[Sevena|Gingerbread]], and [[Ulfwyr|Teucer]], was sent to find him by the de-facto leader of the organisation, smithsguildmaster [[Steelshade]].
-They did not think much of their chances, but things eventually evolved a bit differently. Entering the canals through an entrance to the slave market at the [[Elestair#Zolkarsdawn Agora]], the group set off a fight with the thugs in the middle of a slave auction, which ended with the slaves breaking free and occupying the entire building complex in a bloody rebellion.
-The group then made it all the way to Karadosh's temple in the underground and put an end to the power of the heretics. At the same time, the forces of Berenfaer gathered almost in the occupied building and defended it against the thugs and the corrupt guards.
+When a Berenfaer agent disappeared while exploring the underground passages, a scouting party comprised of operatives [[Algirith|Tulip]], [[Blackmist]], [[Sevena|Gingerbread]], and [[Ulfwyr|Teucer]], was sent to find him by guildmaster [[Steelshade]], by then the de-facto leader of the organisation. They did not think much of their chances, but things eventually evolved a bit differently.
+Entering the canals through an entrance to the slave market at the [[Elestair#Zolkarsdawn Agora]] in **5 Coldreign 4817**, the group set off a fight with the market guards and trafficker thugs in the middle of a slave auction, which ended with the slaves breaking free and occupying the entire building complex in a bloody rebellion.
+The group then made it all the way to the temple of the Karadoshite cult in the underground and put an end to the power of the heretics. At the same time, most of the Elestari Berenfaer forces rushed into the occupied building and defended it against the counterattack by thugs and corrupt guards.
 
 The governor did not immediately send the garrison to quell the rebellion lest he indirectly accept the existence of slavery, but he did turn a blind eye to the conflict and indirectly reinforced the slavers with weapons and direct statutory provisions for immunity in their actions.
 In the tumultuous weeks that followed the Zolkari soldiers quickly found themselves fighting their own citizens and slaughtering each other, while chaos reigned in Elestair. All this proved catastrophic for business in the city, a major mercantile hub of Palaurim, and by extension cast a shadow over the public image of Imtaria itself. Eventually, the governor negotiated a halt to the hostilities and gave full rights as well as limited political power to the Berenfaer and the freed slaves.
