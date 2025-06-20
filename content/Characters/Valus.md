@@ -1,5 +1,5 @@
 ---
-title: Pirate Captain Valus
+title: Pirate Lord Valus
 subtitle: male firefolk pirate
 date: 2024-10-20
 author: sfakias
