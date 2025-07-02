@@ -80,16 +80,16 @@ The leadership itself is based in Zolkar, and consists of the **assembly of spym
 The spymasters have roles that range from political presence to undercover oversight, and are tasked with making sure that the operative network remains decentralised and individual cells have enough support to take the initiative in their own regions.
 
 The most influential spymasters include:
-- [[Steelshade]], councillor of Palaurim, political face of the Berenfaer and Elestair, and guildmaster of the Smiths' Guild
-- [[Blackmist]] head of intelligence and master spy, vigilante with multiple identities and sharpshooter
-- [[Aileen|Banshee]], head analyst and cultural face of the Berenfaer, powerful arcanist and muse of Elestair
-- **Absinthe**, diviner wizard and head of signals
+- [[Steelshade]], councillor of Palaurim, political face of the Berenfaer, and guildmaster of the Smiths' Guild
+- [[Blackmist]] head of intelligence, vigilante with multiple identities, sharpshooter
+- [[Aileen|Banshee]], head analyst, cultural face of the Berenfaer, muse of Elestair, powerful arcanist engineer
+- **Absinthe**, head of signals, diviner wizard
 - **Friar**, chaplain of [[Lainek]] and head loremaster
-- **Scorpio**, captain of the privateers, former pirate and daredevil
-- [[Bjonnyr|Ajax]], captain of the raiders and ferocious axeman
-- [[Ulfwyr|Teucer]], captain of the scouts and paramedic marksman
 - [[Sevena|Gingerbread]], crone cauldron witch
-- [[Algirith|Tulip]], shieldmaiden and captain of the guard
+- **Scorpio**, captain of the privateers, former pirate and daredevil
+- [[Bjonnyr|Ajax]], captain of the raiders, ferocious axeman
+- [[Ulfwyr|Teucer]], captain of the scouts, paramedic marksman
+- [[Algirith|Tulip]], captain of the guard, shieldmaiden
 - [[Kommissar]], kobold investigator and propagandist
 - **Sunstroke**, expat elderly gnoll shaman
 - **Stroopwaffel**, halfling bard and hypersocial beast

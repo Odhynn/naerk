@@ -13,11 +13,11 @@ tags:
 > > | | |
 > > | --- | --- |
 > > | Place | north [[Oventhart]] steppes |
-> > | Time | 4817-12-10 |
+> > | Time | 4817-12-11 |
 > > | Combatants | Material plane forces vs. Drakainia's aberration hordes |
 > > | Outcome | material plane victory |
 
-On 10 Graymist 4817, a multitude of forces from Oventhart and beyond came together to hold off the incoming hordes of [[Drakainia]]'s spawn in a battle that determined the fate of the land and served as a prelude to the cataclysmic event of the [[Vethfall]] two days later.
+On 11 Graymist 4817, a multitude of forces from Oventhart and beyond came together to hold off the incoming hordes of [[Drakainia]]'s spawn in a battle that determined the fate of the land and served as a prelude to the cataclysmic event of the [[Vethfall]] two days later.
 
 ### Events leading up to the battle
 
