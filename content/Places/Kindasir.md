@@ -17,4 +17,4 @@ tags:
 > > | Religions | [[Maeronian]], [[Sennek]], [[Factar]], [[Yushan]], [[B'tolen]] |
 > > | Location | northwest [[Karrokh]] |
 
-The cultural and religious capital of [[Karrokh]], as well as its oldest city.
+The cultural and religious capital of [[Karrokh]]. Since the [[Warclaw]] invasion in [[Karrokh]], the city outgrew [[Raenkos]] in power, as it suffered less from pillage and famine. For the last four centuries it is a major trade center in the region.
