@@ -14,7 +14,7 @@ tags:
 > > | | |
 > > | --- | --- |
 > > | born | 4785, ? |
-> > | nationality | [[Whistor]] |
+> > | nationality | ? |
 > > | appearance | blond hair, 6'3" |
 
-A pirate subordinate of Lord Captain [[Valus]]. He is notorious for bringing a smile to his enemies' corpses and it is believed he is a turncoat officer of [[Whistor]]'s navy. He keeps his distance from [[Blackbones]].
+A pirate subordinate of Lord Captain [[Valus]]. He is notorious for bringing a smile to his enemies' corpses and it is believed he is a turncoat navy officer. He keeps his distance from [[Blackbones]].
