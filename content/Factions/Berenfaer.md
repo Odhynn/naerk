@@ -81,15 +81,15 @@ The spymasters have roles that range from political presence to undercover overs
 
 The most influential spymasters include:
 - [[Steelshade]], councillor of Palaurim, political face of the Berenfaer, and guildmaster of the Smiths' Guild
-- [[Blackmist]] head of intelligence, vigilante with multiple identities, sharpshooter
+- [[Blackmist]] head infiltrator, vigilante with multiple identities, sharpshooter
 - [[Aileen|Banshee]], head analyst, cultural face of the Berenfaer, muse of Elestair, powerful arcanist engineer
 - **Absinthe**, head of signals, diviner wizard
-- **Friar**, chaplain of [[Lainek]] and head loremaster
+- **Friar**, chaplain of [[Lainek]], head loremaster and brewer
 - [[Sevena|Gingerbread]], crone cauldron witch
 - **Scorpio**, captain of the privateers, former pirate and daredevil
-- [[Bjonnyr|Ajax]], captain of the raiders, ferocious axeman
+- [[Bjonnyr|Ajax]], captain of the raiders, lumbering berserker
 - [[Ulfwyr|Teucer]], captain of the scouts, paramedic marksman
-- [[Algirith|Tulip]], captain of the guard, shieldmaiden
+- [[Algirith|Tulip]], captain of the guard, pragmatic shieldmaiden
 - [[Kommissar]], kobold investigator and propagandist
 - **Sunstroke**, expat elderly gnoll shaman
 - **Stroopwaffel**, halfling bard and hypersocial beast
