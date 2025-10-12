@@ -77,5 +77,5 @@ The band, now infused with mythic power and rid of the harrowing curse, went the
 With teleportation magic broken, Aileen traversed the frozen North and boarded a ship from [[Kranårvikk]] to [[Elestair]], where she found a statue of herself, erected by the Berenfaer to honour her assumed sacrifice.
 She promptly resumed her spymaster duties, spreading Berenfaer influence far and wide, albeit more often in disguise as by then "Banshee" had become widely known as the cultural face of the Berenfaer and the muse of Elestair.[^2]
 
-[^1] Terrified out her wits by the ease of his capture, Aileen under the Berenfaer handle "Banshee" pushed for major reforms in their operational methods. 
+[^1]: Terrified out her wits by the ease of his capture, Aileen under the Berenfaer handle "Banshee" pushed for major reforms in their operational methods, bringing her parents' teachings on espionage to bear.
 [^2]: On starry nights, the artifact *Harp of Night's Hope* (a gift from Sartharia's hoard) can be heard throughout Elestair, lifting up the hearts of the people.

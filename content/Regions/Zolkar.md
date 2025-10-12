@@ -22,18 +22,25 @@ tags:
 > > | Imports | Grain, Corn, Mercenaries, Sailors, Exotic Goods |
 > > | Exports | Wine, Olive Oil, Milk, Cheese, Livestock, Fruits, Silver, Fish |
 
+Zolkar is a large island state lying the midst of the gulf between Arbader and Oromil.
+Its strategic location and temperate climate made it a hotspot of civilisation and commerce since time immemorial, with many cultures arriving, rising, and falling in it throughout history.
+
+One such distinct civilisation was the collection of a dozen culturally-adjacent warring city-states known by scholars today as the [[Solari]]. They collectively referred to themselves as _Solarioi Kares_ ("Children of the Sun"); linguists posit that a Kultarian transliteration of a Karrokhi rendition of that name led to the modern toponym "Zolkar".
+
 ## Demographic
 
-The island of [[Zolkar]] is one of the most cosmopolitan places of the Inner sea.
-Much of the population comes from [[South Darrok]], having emigrated for economic reasons or seeking safety from giant attacks of the North.
-Many more originate from [[Imtaria]]: merchants and sailors that took advantage of its strategic geographical position. The sailors knew they could always a ship seeking deckhands, while the merchants could, by virtue of the [[Palaurim|treaty of Palaurim]], trade undisturbed through the Zolkarsdawn Gulf. Finfolk are also very common, hailing from Urdankh or the nearby isle of Corralion .
-Finally, rich farmers from [[Oromil]] come from the south for bargains and slaves.
+Zolkar's breadth of ethnicities and languages is nothing new: it is among the most cosmopolitan places of the Inner sea, and has been for quite a while.
+Though traces of Solari heritage remain in architectural ruins and linguistic vestiges, most of the current population is a multicultural mix hailing from neighbouring lands.
+Many come from [[South Darrok]], having emigrated in the past two generations for economic reasons or seeking safety from giant attacks of the North.
+More yet originate from [[Imtaria]], merchants and sailors that took advantage of its strategic geographical position: sailors knew they could always find a ship seeking deckhands, while the merchants could, by virtue of the [[Palaurim|treaty of Palaurim]], trade undisturbed through the Zolkarsdawn Gulf.
+Finfolk are also very common, descending from Urdankh or the nearby isle of Corralion, while rich farmers from [[Oromil]] have often journeyed to Zolkar for bargains (or slaves, before 4817) and settled in.
 
-Its breadth of ethnicities and languages is nothing new. The toponyms of the land stand testament to its mixed heritage, drawing origins from:
-- North Darroki: "Elestair", "Ilistair", "Estair"
-- South Darroki: "Elerion", "Kalyrion", "Orlyn"
-- Karrokhi: "Zolkar", "Pan-Taram"
-- ancient Zolkari: "Kherobis"
+## Language
+
+The toponyms of the land stand testament to its mixed heritage, drawing origins from:
+- South Darroki: "Elestair", "Ilistair", "Estair", "Orlyn"
+- Karrokhi:  "Pan-Taram"
+- Solari: "Elerion", "Kalyrion", "Kherobis"
 
 ## Rise of the Berenfaer
 > see: [[Zolkarsdawn Riot]]
