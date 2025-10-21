@@ -20,4 +20,4 @@ tags:
 > > | Ethnicity | [[Whistor]] |
 > > | appearance | blonde hair, black and white clothes |
 
-The wife of Baron [[Stephan]] that led the city of [[Marjalat]], as her husband was becoming increasingly antisocial.
+The wife of Baron [[Stephan]] that led the city of [[Marjalat]], as her husband was becoming increasingly antisocial. She is currently in control of the city but her actions are closely monitored by her father, Duke [[Naldar]].
