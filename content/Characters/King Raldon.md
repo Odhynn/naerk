@@ -23,6 +23,7 @@ tags:
 
 > _"It's all his fault"_
 
+Son of [[King Nashar]]
 Ex-King of [[Whistor]]
 Trifling Conqueror
 Paranoid

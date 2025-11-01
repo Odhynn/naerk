@@ -21,3 +21,5 @@ tags:
 *Fury of the Storm*
 Founding dragon of [[Dragonpact]]
 Orc Patron
+
+An elder wyrm, nested in the shores of [[Paltenach]].
