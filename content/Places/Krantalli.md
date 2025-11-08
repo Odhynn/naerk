@@ -1,5 +1,5 @@
 ---
-title: Krantali
+title: Krantalli
 date: 2024-08-25
 author: sfakias
 tags:
