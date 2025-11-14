@@ -21,7 +21,7 @@ tags:
 
 The year 4632 was marked as a year of constant warfare in the Green Hills. The reason was the continuous attacks of goblins, hobgoblins, bugbears and trolls from [[Paraselt]]. The cities of [[Ostrauit]] and [[Dargonast]] faced sieges, and the region's vast expanses allowed the goblins to utilise most of their endless warriors. Ostrabit was blocked, and Dargonast was about to fall.
 
-[[King Timmon III]] of Ostrabit's general at that time was [[Baelard]], who had a reputation as a unique swordsman. Baelard was particularly hard pressed as he was outnumbered in combat and not very good at strategy and maneuvering in battle. He was beginning to believe that in a few weeks both cities would fall. He therefore decided to change his strategy.
+[[King Timmon III]] general at that time was [[Baelard]] in Ostrabit, who had a reputation as a unique swordsman. Baelard was particularly hard pressed as he was outnumbered in combat and not very good at strategy and maneuvering in battle. He was beginning to believe that in a few weeks both cities would fall. He therefore decided to change his strategy.
 
 He conversed with an elven priest from [[Edhelwood]], who was trapped there. The elf, also known as [[Erothel]], had a reputation as one of the best trapmakers and necromancers in all the land. The elf agreed to help him, if in exchange he would take the souls of all those who died in battle. Baelard was pressed and decided to accept, although he had no idea what Erothel would do with the souls of the dead and he did not like the idea at all. So he asked him to carve magical runes into a dozen weapons that would make them more lethal and as many armors to make them invulnerable to attacks. At the same time, he sculpted protective glyphs on many parts of the inner wall. Erothel worked nonstop for three weeks, until the day the goblins prepared for their final invasion.
 
@@ -38,6 +38,10 @@ Erothel walked alone among the dead, as no warrior dared to step outside the tow
 The power in Erothel's hands was immense. He could do many powerful magical effects with it. To create an army of undead, to build a palace, to become king, to become immortal: the possibilities swirled in his head, and the diamond glowed with promise. He decided that he owed a debt to those who looked up to him, and he had admired the self-sacrifice of warriors. He knew he would be sacrificing a bright future.
 
 He climbed down the walls and summoned an invisible force that removed the corpses that had plastered the nearest warrior. His body was deformed and mutilated by countless blows and wounds. Slowly, he touched the diamond on his forehead and said a prayer. Gradually the wounds began to close and the warrior came back to life. The residents stared wide-eyed, unable to believe the sight unfolding before them. Erothel repeated the process with the others, and gradually the diamond grew brighter, while he himself began to sweat, limp, and stumble with fatigue. In the end, when he managed to resurrect Baelard he fell down, his skin starting to rot from the amount of life and death magic he had used.
+
+**Illegal**
+
+In the year 4676, the third year of [[Queen Talla IV]]'s reign, under her decree, the organisation was made illegal. Four of their officials were imprisoned on charges of practicing hemomancy. The warriors retreated in the shadows of [[Runolf]] and stayed hidden in plain sight, recruiting and training for several decades, until [[King Tinker ΙΙ]] Arrowsong who succeeded her restored their prior position and titles.
 
 ## Formation
 
