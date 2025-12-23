@@ -17,4 +17,4 @@ tags:
 > > | Religions | [[Sergonial]], [[Veiroch]], [[Drokasner]], [[Sennek]], [[Gibba]] |
 > > | Location | south [[Kambah]] |
 
-The Fortress of Aar was built by orcs to defend against their violent tribal kin. Its inhabitants later joined [[Kenorex]] at year 40703 under warlord [[Fasroh]]'s reign. Afterwards, it became the seat of power for all subsequent tyrrants of [[Kenorex]] and defacto leaders of [[Kambah]]. [[Karahath]], the supreme tyrrant, carved his majestic stone seat here at the main city keep.
+The Fortress of Aar was built by orcs to defend against their violent tribal kin. It was chosen as a superior strategic position with access to both sea and land and grew over time in size to a full scale city with layered defences carved in stone. Its inhabitants later joined [[Kenorex]] at year 40703 under warlord [[Fasroh]]'s reign. Afterwards, it became the seat of power for all subsequent tyrrants of [[Kenorex]] and defacto leaders of [[Kambah]]. [[Karahath]], the supreme tyrrant, carved his majestic stone seat here at the main city keep.
