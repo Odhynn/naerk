@@ -18,4 +18,4 @@ An active volcano in [[Demorado]] that pours lava into [[South Sea]]. It is a sa
 
 ## History
 
-The legend in the stories says that the north from the south island was cut off by a blow of a huge titan and [[Yerastu]] punished him by locking him in the volcano.
+The legend in the stories says that the north from the south island was cut off by a blow of a huge titan and [[Yerastu]] punished him by locking him in the volcano. The volcano erupted in the year 3937, destroying numerous villages in [[Nariza]] and fishing huts, including most of nowadays [[Geritta]].

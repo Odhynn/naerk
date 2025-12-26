@@ -14,4 +14,4 @@ tags:
 > > | --- | --- |
 > > | Location | east [[Whistor]] |
 
-A group of 4 big and several smaller islands in eastern [[whistor]]. They were originally inhabited by the Walgri tribes.
+A group of 4 big and several smaller islands in eastern [[whistor]]. They were originally inhabited by the Walgri tribes, the [[N'Wagu]].

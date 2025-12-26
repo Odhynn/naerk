@@ -116,6 +116,8 @@ author: sfakias
 
 3887: Omniverse Tower Incident
 
+3937: Έκρηξη του Haza Vulca.
+
 3950: Σύναψη με πρωτοβουλία της Imtaria της Palaurim, της συμμαχίας των Οκτώ
 Χωρών.  
 3952: Εμφύλια σύρραξη του Karokh.
