@@ -17,4 +17,9 @@ tags:
 > > | Religions | [[Yerastu]], [[Sumril]], [[Laerion]] |
 > > | Location | North [[Zolkar]] |
 
-Ilistair is a city featuring beautiful stonework made from [[Darrok]] stonemasons. The main holy site, the Temple of the Vigilant Guard, is dedicated to [[Yerastu]] and has several high-ranking priests. It was attacked by [[Solusmeir]] and [[Bloodscale]] acolytes in the year 4777 and was saved at last moment by an avatar of [[Hikari]] that took over [[Shizu]]'s body and killed the dragon in a fierce battle. The temple and the city outskirts suffered heavy damage and hundreds of townsfolk and priests were killed.
+Ilistair (Suddarroki; Eerdang: Ylster; Oerdang: Ielstren) is the second most populous Zolkari city and unofficial capital of northern Zolkar in contrast with the official capital in the south, [[Elestair]].
+Its distinct architecture features beautiful stonework by Darroki stonemasons.
+
+## Religion
+The main holy site, the Temple of the Vigilant Guard, is dedicated to [[Yerastu]] and is maintained by the knightly order of the same name, ministered by several high-ranking priests.
+It was attacked by the dragon [[Solusmeir]] and his [[Bloodscale]] acolytes in the year 4777 and was saved at last moment by an avatar of [[Hikari]] inhabiting the body of [[Shizu|the Swordmaiden Serene]] and killed the dragon in a fierce battle. The temple and the city outskirts suffered heavy damage and hundreds of townsfolk and priests were killed.

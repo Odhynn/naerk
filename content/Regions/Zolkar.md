@@ -16,7 +16,7 @@ tags:
 > > | Climate | Inner Sea |
 > > | Capital | [[Elestair]] |
 > > | Government | Council |
-> > | Languages | Common (southern darroki, oerdang, karrokhi, imtarian), Goblin (zolkari), Halfling, Elven (edhel), Gnoll (karrokhi) |
+> > | Languages | Common (imtarian, oerdang, eerdang, suddarroki, karrokhi), Goblin (zolkari), Halfling, Elven (edhel), Gnoll (karrokhi) |
 > > | Population | 472000 |
 > > | Religions | [[Lainek]], [[Yerastu]], [[Karadosh]], [[Maeronian]], [[Xeurim]], [[Steenar]] |
 > > | Imports | Grain, Corn, Mercenaries, Sailors, Exotic Goods |
@@ -31,16 +31,23 @@ One such distinct civilisation was the collection of a dozen culturally-adjacent
 
 Zolkar's breadth of ethnicities and languages is nothing new: it is among the most cosmopolitan places of the Inner sea, and has been for quite a while.
 Though traces of Solari heritage remain in architectural ruins and linguistic vestiges, most of the current population is a multicultural mix hailing from neighbouring lands.
-Many come from [[South Darrok]], having emigrated in the past two generations for economic reasons or seeking safety from giant attacks of the North.
-More yet originate from [[Imtaria]], merchants and sailors that took advantage of its strategic geographical position: sailors knew they could always find a ship seeking deckhands, while the merchants could, by virtue of the [[Palaurim|treaty of Palaurim]], trade undisturbed through the Zolkarsdawn Gulf.
-Finfolk are also very common, descending from Urdankh or the nearby isle of Corralion, while rich farmers from [[Oromil]] have often journeyed to Zolkar for bargains (or slaves, before 4817) and settled in.
+
+In northern Zolkar, the influence of [[South Darrok]] is more prevalent. Apart from their historical colonial presence, Suddarrokians have also emigrated in great numbers over the past two generations for economic reasons, or fleeing from the giants' attacks out of the Tarhelm mountains.
+
+In southern Zolkar, elements and people originating in [[Imtaria]] become more common. There were many advantages to its strategic geographical position: sailors knew they could always find a ship seeking deckhands, while the merchants could, by virtue of the [[Palaurim|treaty of Palaurim]], trade undisturbed through the Zolkarsdawn Gulf. Rich farmers from [[Oromil]] have also often journeyed to Zolkar for bargains (or slaves, before 4817) and settled in.
+
+Finfolk are also very common, stemming from a long history of Urdan colonisation.
 
 ## Language
 
 The toponyms of the land stand testament to its mixed heritage, drawing origins from:
-- South Darroki: "Elestair", "Ilistair", "Estair", "Orlyn"
-- Karrokhi:  "Pan-Taram"
-- Solari: "Elerion", "Kalyrion", "Kherobis"
+- **Suddarroki**: "Elestair", "Ilistair", "Estair", "Orlyn"
+- **Karrokhi**:  "Pan-Taram"
+- **Solari**: "Elerion", "Kalyrion", "Kherobis", "Nogi", "Qorralion"
+
+**Eerdang** is a relative of Oerdang spoken in northern Zolkar and Qorralion, a separate language group that some consider the linguistic bridge between Oerdang and early 5th-millenium Imtarian.
+<!-- Oerdang is fantasy Dutch, Eerdang is fantasy Frisian, Imtarian is fantasy English -->
+
 
 ## Rise of the Berenfaer
 > see: [[Zolkarsdawn Riot]]

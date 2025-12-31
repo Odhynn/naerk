@@ -16,12 +16,15 @@ tags:
 > > | Climate | Temperate |
 > > | Capital | [[Helezaar]] |
 > > | Government | Theocratic Monarchy |
-> > | Languages | Aquan, Common |
+> > | Languages | Common (oerdang, imtarian), Thalassic |
 > > | Population | 620000 |
 > > | Religions | [[Hydarax]], [[Jalerk]], [[Malahir]], [[Sennek]] |
 > > | Imports | Meat, Milk, Cheese, Gold, Forged Metal |
 > > | Exports | Sailors, Fish, Clams, Pearls, Fine Ships, Rare Fabrics, Aquatic Materials, Exotic Drinks |
 > > | Important Events | Brothers War, Jewel of the Sea |
+
+**Urdankh** is a maritime nation established among the shallow archipelago and coral atolls off the western shores of Old Naerk.
+It is spelled **Oerdang** in its official finfolk tongue; the language itself has retained this spelling, but in conventional cartography and official documents of Palaurim (of which it is a founding member state) the name is transcribed phonetically as Urdankh.
 
 ## Jewel of the Sea
 
@@ -33,4 +36,4 @@ Winter found the finfolk hungry and exhausted. But they had reached the northern
 
 From that time, in the year 3339, the finfolk were able to recover rapidly. They built vast castles and palaces above and below the sea, centered on [[Helezaar]]. The next step was to make a temporary truce with the lizardmen, with their relations gradually improving. After three years of coexistence, the last step was to declare Urdankh as an independent country, with the main population portions being finfolk, lizardfolk, and various hill-dwellers. The establishment of [[Imtaria]], a little later, revealed to the developing country a potential ally. Trade between the two countries flourished, with Urdankh importing alchemical wares, weapons, and timber, and exporting ships, skilled sailors, fisheries, as well as its famed coral wood. The Urdankh then became a key part of the navy of the entire Palaurim.
 
-Urdankh currently has 3 councelors in [[Palaurim]] and is ruled by [[Queen Ilaera]] Nalaryan.
+Urdankh currently has 3 counselors in [[Palaurim]] and is ruled by [[Queen Ilaera]] Nalaryan.
