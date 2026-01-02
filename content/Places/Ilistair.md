@@ -17,7 +17,7 @@ tags:
 > > | Religions | [[Yerastu]], [[Sumril]], [[Laerion]] |
 > > | Location | North [[Zolkar]] |
 
-Ilistair (Suddarroki; Eerdang: Ylster; Oerdang: Ielstren) is the second most populous Zolkari city and unofficial capital of northern Zolkar in contrast with the official capital in the south, [[Elestair]].
+Ilistair (Eerdang: *Ylster*; Oerdang: *Ielstren*) is the second most populous Zolkari city and unofficial capital of northern Zolkar in contrast with the official capital in the south, [[Elestair]].
 Its distinct architecture features beautiful stonework by Darroki stonemasons.
 
 ## Religion

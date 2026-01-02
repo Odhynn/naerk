@@ -26,7 +26,7 @@ tags:
 **Religions**	Lainek, B'tolen, Hydarax, Laerion, Karadosh
 **Threats**	roving bandits, pirates, kobolds %%
 
-The city of Estair (Oerdang: Eestren, Eerdang: Ester) is the capital of Ester County, lying in the northern peninsula of [[Zolkar]], close to [[Ilistair]], 
+The city of Estair (Oerdang: *Eestren*, Eerdang: *Ester*) is the capital of Ester County, lying in the northern peninsula of [[Zolkar]], close to [[Ilistair]], 
 
 ## Places
 
