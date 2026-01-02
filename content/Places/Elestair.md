@@ -35,7 +35,7 @@ The metropolitan capital of [[Zolkar]], Elestair (Oerdang: Elstren) lies at the 
 > [!grid]
 > ![[img/Elestair.jpg]]
 > 
-> _View from the harbour canals of Elestair towards the upper city.[^1]
+> _View from the harbour canals of Elestair towards the upper city._[^1]
 
 ## Government
 
@@ -62,11 +62,12 @@ Though some noble houses were rumoured to dabble in dark arts and vampirism and 
 Elestair has been inhabited for at least 2.5 millenia. Among the earliest historical testimony lie Solarian ruins and preserved library archives detailing trade dealings with the Kingdom of Selanaar.
 The city itself is rife with historical layers, spreading out from its center in a stratigraphy easily discernible to the scholarly eye.
 
-### Zolkarsdawn Agora
+## Places
+### Agora
 
-The Zolkarsdawn Agora is a fortified mercantile building complex on a rocky outcropping at the shoreline of Elestair, comprised of open spaces, covered stoae, and a great cloth hall.
-It was previously called the Old Agora, built c. 31st century and fallen into disrepair before eventually being restored c. 46th century to accomodate the bustling trade through the Zolkarsdawn Gulf.
-Before 4817, one might cross into the market through the walled gateway ("Propylaea") and discover a wide variety of goods, from stalls selling Syvhorman fruit to platforms auctioning off Kharokhi slaves.
+The Zolkarsdawn Agora is a fortified mercantile building complex on a rocky outcropping at the shoreline of Elestair, comprised of open spaces, covered stoae, and the **Lakenhalle**, a great cloth hall,.
+It was previously called the **Old Agora**, built c. 31st century and fallen into disrepair before eventually being restored c. 46th century to accomodate the bustling trade through the Zolkarsdawn Gulf.
+Before 4817, one might cross into the market through walled gateway of the **Propylaea** and discover a wide variety of goods, from stalls selling Syvhorman fruit to platforms auctioning off Kharrokhi slaves.
 Under the corridors of the cloth hall are entrances leading to the underground tunnels of Elestair.
 The maritime flow of goods in and out of the market is carried out through one of those tunnels opening up to a set of wooden piers on its south promenade, as construction of a proper dock has proven problematic.
 
