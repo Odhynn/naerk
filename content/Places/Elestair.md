@@ -32,7 +32,10 @@ tags:
 
 The metropolitan capital of [[Zolkar]], Elestair (Oerdang: Elstren) lies at the mercantile crossroads of most nations in northwestern Old Naerk, housing merchant trusts, slaver rings, and a thriving black market. Items that might be difficult to acquire or dispose of in other settlements due to legality can be purchased and sold more easily here. Apart from merchant trusts, trading companies, and a thriving black market, big finance in Elestair was until recently largely marked by the barely concealed activity of slaver cartels. Years of unrest culminated in the [[Zolkarsdawn Riot]], with the rise of the Berenfaer plunging the city into many months of social upheaval.
 
-![[img/Elestair.jpg]][^1]
+> [!grid]
+> ![[img/Elestair.jpg]]
+> 
+> _View from the harbour canals of Elestair towards the upper city.[^1]
 
 ## Government
 
