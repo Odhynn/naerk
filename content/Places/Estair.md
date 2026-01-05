@@ -16,17 +16,17 @@ tags:
 > > | Government | Mayor (appointed by the Count) |
 > > | Population | 20k (82% Humans, 6% Finfolk, 3% Elves, 3% Halflings, 3% Dwarves, 1% Half-Elves, 2% Other) |
 > > | Languages | Common, Eerdang, Suddarroki |
-> > | Religions | [[Lainek]], [[B'tolen]], [[Hydarax]], [[Laerion]], [[Karadosh]] |
+> > | Religions | [[Factar]] [[Hydarax]], [[Karadosh]], [[Laerion]], [[Lainek]]  |
 > > | Threats | roving bandits, pirates, kobolds |
 
 %%**ESTAIR** City 7
 **Government**	Mayor (appointed by the Count)
 **Population**	20k (82% Humans, 6% Finfolk, 3% Elves, 3% Halflings, 3% Dwarves, 1% Half-Elves, 2% Other)
 **Languages**	Common, Eerdang, Suddarroki
-**Religions**	Lainek, B'tolen, Hydarax, Laerion, Karadosh
+**Religions**	Factar, Hydarax, Karadosh, Laerion, Lainek 
 **Threats**	roving bandits, pirates, kobolds %%
 
-The city of Estair (Oerdang: *Eestren*, Eerdang: *Ester*) is the capital of Ester County, lying in the northern peninsula of [[Zolkar]], close to [[Ilistair]], 
+The city of Estair (Oerdang: *Eestijren*, Eerdang: *Ester*) is the capital of Ester County, lying in the northern peninsula of [[Zolkar]], close to [[Ilistair]], 
 
 ## Places
 
@@ -46,7 +46,10 @@ A centuries-old windmill, used for grain and signal flags, lies next to a solita
 Noble merchant house known for its silk trade.
 
 #### Sint-Joergskerk
-Laerian Cathedral, dedicated to St. Joerg Wyrmsbane.
+Laerian cathedral, dedicated to St. Joerg Wyrmsbane.
+
+#### Sint-Dymaaterskirk
+Factarite basilica, dedicated to St. Dymaater Skypsverbraand.
 
 #### Mosaikstraat
 Affluent mercantile and artisan street famed for tilework.
@@ -79,13 +82,13 @@ Estair's market square, where fairs, stalls with local produce and visiting trad
 Tanners' district. The canal waters underneath are especially foul from the byproducts of their craft.
 
 #### Lainekine Chapel
-A humble church to the Rebel Souls, sprung some time in the 48th century.
+A humble congregation space for the new following of the Rebel Souls.
 
 #### Geitspoart
-The southern gate, named so for facing towards the river Geitswet river.
+The southern gate, named after the river Geitswet.
 
 #### Ylsepoart
-The northern gate, named so for leading to Ilistair.
+The northern gate, named after Ilistair.
 
 ### Outskirts
 Fields with rye, corn, and barley line the marshy, fertile ground out of the city proper.
