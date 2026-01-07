@@ -28,70 +28,70 @@ tags:
 
 The city of Estair (Oerdang: *Eestijren*, Eerdang: *Ester*) is the capital of Ester County, lying in the northern peninsula of [[Zolkar]], close to [[Ilistair]], 
 
-## Places
+# Places
 
-### Old Town
+## Old Town
 The older city centre, dating back to the 35th century. In its earlier phases, the walled settlement was built atop a defensible peninsula, joined with the mainland by rocky marshland. When this tether was eventually cut with through a canal, the old city became an artificial island, and its extension was walled off with a second half-ring of fortifications.
 
-#### Raathuis
+## Raathuis
 The city hall of Estair.
 
-#### De Scheepswerf
+## De Scheepswerf
 Shipyard and harbour of the older city centre, home to the Shipwrights' Guild.
 
-#### Aldwindpoort
+## Aldwindpoort
 A centuries-old windmill, used for grain and signal flags, lies next to a solitary fortified gate, the only remainder of the old city walls.
 
-#### Maison de Lys
+## Maison de Lys
 Noble merchant house known for its silk trade.
 
-#### Sint-Joergskerk
+## Sint-Joergskerk
 Laerian cathedral, dedicated to St. Joerg Wyrmsbane.
 
-#### Sint-Dymaaterskirk
+## Sint-Dymaaterskerk
 Factarite basilica, dedicated to St. Dymaater Skypsverbraand.
 
-#### Mosaikstraat
+## Mosaikstraat
 Affluent mercantile and artisan street famed for tilework.
 
-#### Quartier des Ponts
+## Quartier des Ponts
 The newer mercantile district connecting the old centre with the walled town. Merchant houses are built atop the two bridges straddling the canal. Many of the newer structures are built where the inner walls once stood, reusing much of their material.
 
-### Havenwijk
+## Havenwijk
 Estair's dockside neighborhood.
 
-#### De Zeekraal
+## De Zeekraal
 Sailors' dormitory and inn.
 
-#### Crooked Staff Pub
+## Crooked Staff Pub
 Dockside tavern, a mainstay of the dockhands, smelling of roasted meat and pipe smoke. Its Urdan name "Kromme Stafkroech" is carved on the hanging sign.
 
-#### Zoutmakers
+## Zoutmakers
 Saltmaker's Guild Quarters
 
-#### Fjoertoer
+## Fjoertoer
 43rd century lighthouse.
 
-### Quartier des Murs
+## Quartier des Murs
 Estair's newer district, enclosed by walls, accomodating artisan and manufacturing activity as well as land trade.
 
-#### Estermerk
+## Estermerk
 Estair's market square, where fairs, stalls with local produce and visiting tradesman caravans are rotating year-round.
 
-#### Looierstrjit
+## Looierstrjit
 Tanners' district. The canal waters underneath are especially foul from the byproducts of their craft.
 
-#### Lainekine Chapel
+## Lainekine Chapel
 A humble congregation space for the new following of the Rebel Souls.
 
-#### Geitspoart
+## Geitspoart
 The southern gate, named after the river Geitswet.
 
-#### Ylsepoart
+## Ylsepoart
 The northern gate, named after Ilistair.
 
-### Outskirts
+## Outskirts
 Fields with rye, corn, and barley line the marshy, fertile ground out of the city proper.
 
-#### Ald Arkhoondijk
+## Ald Arkhoondijk
 An old manor house lies abandoned in a bad state of repairs, on the hills overlooking the north approach to Estair. Used to be a classic place for juvenile tomfoolery until a few youngsters disappeared here.

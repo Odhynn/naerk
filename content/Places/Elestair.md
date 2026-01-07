@@ -37,18 +37,18 @@ The metropolitan capital of [[Zolkar]], Elestair (Oerdang: *Ulestijren*) lies at
 > 
 > _View from the harbour canals of Elestair towards the upper city._[^1]
 
-## Government
+# Government
 
 Elestair, and effectively the rest of southern Zolkar, is ruled by a council comprised of aristocrats and merchants, and headed by an appointed governor that holds them together and doubles as one of two Zolkari delegates to the Council of Palaurim (the Duke of Ilistair being the other one).
 This arrangement was first implemented in 4701 as a means to ending the country's longstanding political strife.
 
-### The Stadvoogd Accord
+## The Stadvoogd Accord
 
 Zolkar's history of external colonisation has marked Elestair as the seat a handful of noble houses of Urdan, Suddarroki and Imtarian descent. Competition between the aristocrats simmered and flared over the past few centuries, reducing the state's political designation from a kingdom to a duchy to an oligarchic gang war.
 
 Though some noble houses were rumoured to dabble in dark arts and vampirism and others fielded their own private armies, the mercantile class of Zolkar and Imtaria eventually managed to strongarm them into a fragile framework that would safeguard stability for the region. As part of the agreement, an independent foreign diplomat would be appointed to the position of Governor ("Stadvoogd"), to mediate between the noble houses and represent Elestair's interests in the Council of Palaurim.
 
-## Important people
+# Important people
 
 - **Galen Forster** (indecisive male human governor): the Stadvoogd of Elestair (4807-4817), a hapless Imtarian whose political clout and independent stature was gradually eroded by the local factors
 - **Damien DePaars** (strict male human officer): the Guard-Commander of Elestair (4805-4817), son of an affluent Elestari merchant house
@@ -57,13 +57,13 @@ Though some noble houses were rumoured to dabble in dark arts and vampirism and 
 - **Anna-Jacinthe Lynnoire** (ambitious female elf noblewoman): the "Black Widow" of House Lynnoire, rumoured to head a vampire witch coven
 - **Eusebius Volg** (cunning male half-orc wizard): headmaster of the Elestari Mage's Guild
 
-## History
+# History
 
 Elestair has been inhabited for at least 2.5 millenia. Among the earliest historical testimony lie Solarian ruins and preserved library archives detailing trade dealings with the Kingdom of Selanaar.
 The city itself is rife with historical layers, spreading out from its center in a stratigraphy easily discernible to the scholarly eye.
 
-## Places
-### Agora
+# Places
+## Agora
 
 The Zolkarsdawn Agora is a fortified mercantile building complex on a rocky outcropping at the shoreline of Elestair, comprised of open spaces, covered stoae, and the **Lakenhalle**, a great cloth hall,.
 It was previously called the **Old Agora**, built c. 31st century and fallen into disrepair before eventually being restored c. 46th century to accomodate the bustling trade through the Zolkarsdawn Gulf.
