@@ -15,7 +15,7 @@ tags:
 > > | Type | Metropolis 14 |
 > > | Government | Governor (external official mediating for the aristocracy) |
 > > | Population | 200k (67% Humans, 8% Kholo, 6% Elves, 6% Halflings, 3% Finfolk, 1% Half-Orcs, 2% Gnomes, 2% Skinwalkers, 1% Dwarves, 1% Half-Elves, 3% Other) |
-> > | Languages | Common, Kholo, Oerdang |
+> > | Languages | Common (Imtarian), Kholo, Oerdang |
 > > | Religions | [[B'tolen]], [[Hydarax]], [[Karadosh]], [[Lainek]], [[Steenar]], [[Veiroch]], [[Yushan]] |
 > > | Threats | political uprisings, pirate activity, slaver cartels |
 

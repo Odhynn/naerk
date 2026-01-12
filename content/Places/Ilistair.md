@@ -12,12 +12,13 @@ tags:
 > >
 > > | | |
 > > | --- | --- |
-> > | Population | 41129, 70% Humans, 26% Elves, 2% Half-Elves, 1% Windfolk, 1% Other |
 > > | Government | Monarchy (Duke) |
+> > | Population | 40k (70% Humans, 26% Elves, 2% Half-Elves, 1% Windfolk, 1% Other) |
+> > | Languages | Common (Imtarian), Eerdang, Suddarroki |
 > > | Religions | [[Laerion]], [[Sumril]], [[Yerastu]] |
-> > | Location | North [[Zolkar]] |
+> > | Threats | pirates, Bloodscales |
 
-Ilistair (Eerdang: *Ylster*; Oerdang: *Ielstijren*) is the second most populous Zolkari city and unofficial capital of northern Zolkar in contrast with the official capital in the south, [[Elestair]].
+Ilistair (Eerdang: *Ylstern*; Oerdang: *Ielstijren*) is the second most populous Zolkari city and unofficial capital of northern Zolkar in contrast with the official capital in the south, [[Elestair]].
 Its distinct architecture features beautiful stonework by Darroki stonemasons.
 
 # Religion

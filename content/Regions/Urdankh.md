@@ -16,7 +16,7 @@ tags:
 > > | Climate | Temperate |
 > > | Capital | [[Helezaar]] |
 > > | Government | Theocratic Monarchy |
-> > | Languages | Common (oerdang, imtarian), Thalassic |
+> > | Languages | Common (Imtarian), Oerdang, Thalassic |
 > > | Population | 620000 |
 > > | Religions | [[Hydarax]], [[Jalerk]], [[Malahir]], [[Sennek]] |
 > > | Imports | Meat, Milk, Cheese, Gold, Forged Metal |

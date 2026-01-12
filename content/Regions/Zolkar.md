@@ -16,7 +16,7 @@ tags:
 > > | Climate | Inner Sea |
 > > | Capital | [[Elestair]] |
 > > | Government | Confederate Council |
-> > | Languages | Common (imtarian, oerdang, eerdang, suddarroki, karrokhi), Goblin (zolkari), Halfling, Elven (edhel), Gnoll (karrokhi) |
+> > | Languages | Common (Imtarian), Eerdang, Elven, Goblin (zolkari), Halfling, Karrokhi, Kholo, Oerdang, Suddarroki |
 > > | Population | 472000 |
 > > | Religions | [[Factar]], [[Karadosh]], [[Laerion]], [[Lainek]], [[Maeronian]], [[Steenar]], [[Xeurim]], [[Yerastu]] |
 > > | Imports | Grain, Corn, Mercenaries, Sailors, Exotic Goods |

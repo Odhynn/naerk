@@ -15,18 +15,18 @@ tags:
 > > | Type | City 7 |
 > > | Government | Mayor (appointed by the Count) |
 > > | Population | 20k (82% Humans, 6% Finfolk, 3% Elves, 3% Halflings, 3% Dwarves, 1% Half-Elves, 2% Other) |
-> > | Languages | Common, Eerdang, Suddarroki |
+> > | Languages | Common (Imtarian), Eerdang, Suddarroki |
 > > | Religions | [[Factar]] [[Hydarax]], [[Karadosh]], [[Laerion]], [[Lainek]]  |
 > > | Threats | roving bandits, pirates, kobolds |
 
 %%**ESTAIR** City 7
 **Government**	Mayor (appointed by the Count)
 **Population**	20k (82% Humans, 6% Finfolk, 3% Elves, 3% Halflings, 3% Dwarves, 1% Half-Elves, 2% Other)
-**Languages**	Common, Eerdang, Suddarroki
+**Languages**	Common (Imtarian), Eerdang, Suddarroki
 **Religions**	Factar, Hydarax, Karadosh, Laerion, Lainek 
 **Threats**	roving bandits, pirates, kobolds %%
 
-The city of Estair (Oerdang: *Eestijren*, Eerdang: *Ester*) is the capital of Ester County, lying in the northern peninsula of [[Zolkar]], close to [[Ilistair]], 
+The city of Estair (Eerdang: *Estern*, Oerdang: *Eestijren*) is the capital of Ester County, lying in the northern peninsula of [[Zolkar]], close to [[Ilistair]], 
 
 # Places
 
