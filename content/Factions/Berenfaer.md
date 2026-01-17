@@ -70,30 +70,30 @@ In 4813, two guildsmen of Berenfaer affiliation, Pieter-Jan [[Steelshade]] and L
 
 ## Structure
 
-The Berenfaer consist of an array of operatives spread across Naerk. To preserve the security protocols, they refer to each other by their handles or *noms-de-guerre* and operate within regional cells that have as much contact with the rest of the Berenfaer as is deemed safe by the spymasters, handlers, and comms agents.
+The Berenfaer consist of an array of operatives spread across Naerk, acting within regional cells that have as much contact with the rest of the Berenfaer as is deemed safe by the spymasters, handlers, and comms agents.
 
-Within the state of Zolkar, they have loosely organised their armed forces into four branches: the Privateers (naval), Raiders (irregulars), Scouts (reconnaissance and support), and Guard (regulars).
+Within the state of Zolkar, they have loosely organised their armed forces into four branches: the Privateers (naval), Raiders (irregulars), Scouts (reconnaissance and support), and Gendarmes (regulars).
 
-### Personnel
+In operations, agents typically refer to each other by short callsigns (suddarroki: [noms-de-guerre](https://en.wikipedia.org/wiki/Nom_de_guerre)) for communication and security reasons, separating their insurgent activities from their civilian life.
 
 The leadership itself is based in Zolkar, and consists of the **assembly of spymasters**, accomplished operatives who take on directive and supportive duties.
 The spymasters have roles that range from political presence to undercover oversight, and are tasked with making sure that the operative network remains decentralised and individual cells have enough support to take the initiative in their own regions.
 
 The most influential spymasters include:
 - [[Steelshade]], councillor of Palaurim, political face of the Berenfaer, and guildmaster of the Smiths' Guild
-- [[Blackmist]] head infiltrator, vigilante with multiple identities, sharpshooter
-- [[Aileen|Banshee]], head analyst, cultural face of the Berenfaer, muse of Elestair, powerful arcanist engineer
+- [[Blackmist]] head infiltrator, vigilante, and sharpshooter
+- [[Aileen|Banshee]], head analyst, cultural face of the Berenfaer, muse of Elestair, and powerful arcanist engineer
 - **Absinthe**, head of signals, diviner wizard
 - **Friar**, chaplain of [[Lainek]], head loremaster and brewer
-- [[Sevena|Gingerbread]], crone cauldron witch
+- [[Sevena|Gingerbread]], cauldron witch crone
 - **Scorpio**, captain of the privateers, former pirate and daredevil
 - [[Bjonnyr|Ajax]], captain of the raiders, lumbering berserker
 - [[Ulfwyr|Teucer]], captain of the scouts, paramedic marksman
-- [[Algirith|Tulip]], captain of the guard, pragmatic shieldmaiden
+- [[Algirith|Tulip]], captain of the gendarmes, pragmatic shieldmaiden
 - [[Kommissar]], kobold investigator and propagandist
 - **Sunstroke**, expat elderly gnoll shaman
-- **Stroopwaffel**, halfling bard and hypersocial beast
-- **Quake**, dwarven kineticist and intrepid archaeologist
+- **Stroopwaffel**, halfling bard and social beast
+- **Quake**, dwarf kineticist and intrepid archaeologist
 
 ### Bases
 
