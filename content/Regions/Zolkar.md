@@ -29,6 +29,7 @@ Its strategic location and temperate climate made it a hotspot of civilisation a
 
 Zolkar's breadth of ethnicities and languages is nothing new: it is among the most cosmopolitan places of the Inner sea, and has been for quite a while.
 Though traces of Solari heritage remain in architectural ruins and linguistic vestiges, most of the current population is a multicultural mix hailing from neighbouring lands.
+In its capital city of [[Elestair]], one may find individuals of every race in the known world. 
 
 In northern Zolkar, the influence of [[South Darrok]] is more prevalent. Apart from their historical colonial presence, Suddarrokians have also emigrated in great numbers over the past two generations for economic reasons, or fleeing from the giants' attacks out of the Tarhelm mountains.
 

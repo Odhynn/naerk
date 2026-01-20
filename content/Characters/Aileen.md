@@ -1,6 +1,6 @@
 ---
 title: Aileen Rosewood
-subtitle: female human battlemage
+subtitle: neurotic female human artificer
 date: 2025-04-09
 author: odysseas
 tags:
@@ -40,7 +40,7 @@ wiki:
 > Heads held high.
 > _-- signature sign-off in revolutionary correspondence_
 
-Aileen Saoirse Rosewood, better known by the cover name Rose Spellsmith, is a lead agent and spymaster of the [[Berenfaer]] by the handle "Banshee", an accomplished battlemage, talented singer and harpist, neurotic catastrophist, obsessive crafter of magic items and spells with a [[Kwarix|Kwarissian]] doctorate in clockwork engineering, and one of the [[Everbryght]].
+**Aileen Saoirse Rosewood**, better known by the cover name Rose Spellsmith, is a lead agent and spymaster of the [[Berenfaer]] by the callsign "Banshee", an accomplished battlemage, talented singer and harpist, anxious catastrophist, obsessive crafter of magic items and spells (with a [[Kwarix|Kwarissian]] doctorate in clockwork engineering), and one of the [[Everbryght]].
 
 - bears burn marks on her left side, mementoes of the brutally suppressed civilian uprisings of her teen years
 - overanalyses and overthinks things before they happen, nags about mistakes after they happen

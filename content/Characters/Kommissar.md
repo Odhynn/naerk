@@ -1,6 +1,6 @@
 ---
 title: the Kommissar
-subtitle: male kobold investigator
+subtitle: quirky male kobold agitator
 date: 2025-06-03
 author: odysseas
 tags:

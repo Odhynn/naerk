@@ -1,6 +1,6 @@
 ---
 title: Black Mist
-subtitle: male human vigilante
+subtitle: mysterious male human vigilante
 date: 2024-03-05
 author: sfakias
 tags:

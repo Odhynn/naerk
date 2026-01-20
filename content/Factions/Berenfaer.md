@@ -62,7 +62,7 @@ This led to their duality as a political force to be reckoned with within the di
 During the 48th century, the Berenfaer were no more than a fringe political faction across the guilds of Zolkar and Karrokh, their stance defined by advocating against slavery in a region deeply involved in it. While the Karrokhi branch adhered to this mostly out of economic considerations (cheap slave labour outcompeting the guilds), the Zolkari branch came to adopt a more ethical reasoning, arguing against the accepted notion of indentured servitude on principle.
 
 As officials became overtly corrupt at the start of the 49th century, the argument took on broader hues of combating oppression and nepotism, drawing more public support and carrying more influence within the guilds (especially the smiths, tanners, spinners, and carpenters).
-In 4813, two guildsmen of Berenfaer affiliation, Pieter-Jan [[Steelshade]] and Lyselott Vandewerf, became the guildmasters of the Elestari Smiths' Guild and Carpenters' Guild respectively. The slaver rings took notice and moved quickly: Lyselott's assassination in broad daylight drew public outcry that was nonetheless swiftly suppressed by the guard, and prompted Steelshade to lie low and reorganise the Berenfaer into a more covert force.
+In 4813, two guildsmen of Berenfaer affiliation, [[Steelshade|Pieter-Jan Steelschijd]] and Lyselott Vandewerf, became the guildmasters of the Elestari Smiths' Guild and Carpenters' Guild respectively. The slaver rings took notice and moved quickly: Lyselott's assassination in broad daylight drew public outcry that was nonetheless swiftly suppressed by the guard, and prompted Steelshade to lie low and reorganise the Berenfaer into a more covert force.
 
 ![[Zolkarsdawn Riot]]
 
@@ -80,20 +80,48 @@ The leadership itself is based in Zolkar, and consists of the **assembly of spym
 The spymasters have roles that range from political presence to undercover oversight, and are tasked with making sure that the operative network remains decentralised and individual cells have enough support to take the initiative in their own regions.
 
 The most influential spymasters include:
-- [[Steelshade]], councillor of Palaurim, political face of the Berenfaer, and guildmaster of the Smiths' Guild
-- [[Blackmist]] head infiltrator, vigilante, and sharpshooter
-- [[Aileen|Banshee]], head analyst, cultural face of the Berenfaer, muse of Elestair, and powerful arcanist engineer
-- **Absinthe**, head of signals, diviner wizard
-- **Friar**, chaplain of [[Lainek]], head loremaster and brewer
-- [[Sevena|Gingerbread]], cauldron witch crone
-- **Scorpio**, captain of the privateers, former pirate and daredevil
-- [[Bjonnyr|Ajax]], captain of the raiders, lumbering berserker
-- [[Ulfwyr|Teucer]], captain of the scouts, paramedic marksman
-- [[Algirith|Tulip]], captain of the gendarmes, pragmatic shieldmaiden
-- [[Kommissar]], kobold investigator and propagandist
-- **Sunstroke**, expat elderly gnoll shaman
-- **Stroopwaffel**, halfling bard and social beast
-- **Quake**, dwarf kineticist and intrepid archaeologist
+- [[Steelshade]] (pragmatic male human guildmaster):
+  councillor of Zolkar in Palaurim and political face of the Berenfaer
+- [[Blackmist]] (mysterious male human vigilante):
+  head infiltrator, vigilante, and sharpshooter
+- [[Aileen|Banshee]] (neurotic female human artificer):
+  head analyst, cultural face of the Berenfaer, muse of Elestair, and powerful arcanist engineer
+- **Absinthe** (alcoholic male elf bureaucrat):
+  head of signals, diviner wizard
+- **Friar** (sonorous male human cleric of Lainek):
+  head loremaster, cleric of [[Lainek]] and brewer
+- [[Sevena|Gingerbread]] (cackling female human cookwitch):
+  head of psyops
+- **Scorpio** (audacious male human privateer):
+  captain of the privateers, former pirate and daredevil
+- [[Bjonnyr|Ajax]] (hearty male human berserker):
+  captain of the raiders, imposing axeman
+- [[Ulfwyr|Teucer]] (caustic male human brigand):
+  captain of the scouts, paramedic marksman
+- [[Algirith|Tulip]] (reserved female human shieldmaiden):
+  captain of the gendarmes, reserved shieldmaiden
+- [[Kommissar]] (quirky male kobold agitator):
+  exuberant propagandist and investigator
+- **Sunstroke** (stoic male kholo shaman):
+  expat elderly gnoll sage
+- **Stroopwaffel** (hypersocial female halfling handler):
+  endearing bard and staff resources busybee
+- **Quake** (intrepid female dwarf geokineticist):
+  terrain expert, enthusiastic archaeologist
+
+### Callsigns
+
+In Zolkar, since the local organisation went underground, experienced agents have adopted noms-de-guerre ("war names" in Suddarroki) to mask their subversive activities and keep their civilian identity from being compromised.
+
+These callsigns are customarily short (one to four syllables) for quick comms, and often practically supplant civilian names for agents on the field. Every agent chooses one on induction, though it is not necessarily final and may be swapped for another later on if it is compromised or to reflect special circumstances.
+
+Berenfaer ringleaders have held on to their callsigns even after some of their civilian names leaked beyond the organisation, for by that time it can still convey infamy instead of cover:
+
+- Steelshade's callsign matches his civilian last name. A secret nom-de-guerre would be pointless given his high profile and that, to public perception, he was synonymous with the Berenfaer even back when they were still a formal, legal political faction. That being said, there is no concrete recorded evidence that "Pieter-Jan Steelschijd" is his original name to begin with.
+
+- Blackmist's callsign is also widely known, striking unease in the enemies of the Berenfaer. Few, if anyone, know his actual name, though many postulate that he is a posh nobleman by day and a deadly agent by night.
+
+- Kommissar's callsign might just be his only name by now. He forgot his original one after a particularly nasty fall down three or four flights of stairs — though he does recall it began with "K".
 
 ### Bases
 

@@ -1,6 +1,6 @@
 ---
 title: Algirith Evergreen
-subtitle: female human inquisitor
+subtitle: reserved female human shieldmaiden
 date: 2025-05-10
 author: odysseas
 tags:

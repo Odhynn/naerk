@@ -1,6 +1,6 @@
 ---
 title: Bjonnyr Arthwyrsson
-subtitle: male human barbarian
+subtitle: hearty male human berserker
 date: 2024-08-30
 author: odysseas, sfakias
 tags:

@@ -1,6 +1,6 @@
 ---
 title: Ulfwyr Arthwyrsson
-subtitle: male human ranger
+subtitle: caustic male human brigand
 date: 2025-04-09
 author: odysseas
 tags:

@@ -1,6 +1,6 @@
 ---
 title: Sevena
-subtitle: female human witch
+subtitle: cackling female human cookwitch
 date: 2025-05-10
 author: spyros
 tags:
