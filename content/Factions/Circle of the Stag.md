@@ -18,6 +18,6 @@ tags:
 > > | Symbol | stag head |
 > > | Members | Druids and nomads |
 > > | Region | [[Mitheryn]], [[Sennarin]] |
-> > | Leader | Rikithiir Ai |
+> > | Leader | Rikithiir Ai, [[Gwarfhyvaax]] |
 
-A [[Druids|Druid Circle]] operating in [[Mitheryn]] Forest. It has a reputation of being mostly peaceful and comprehensive.
+A [[Druids|Druid Circle]] operating in [[Mitheryn]] Forest, with has a reputation of being mostly peaceful and comprehensive.

@@ -70,7 +70,8 @@ In 4813, two guildsmen of Berenfaer affiliation, [[Steelshade|Pieter-Jan Steelsc
 
 ## Structure
 
-The Berenfaer consist of an array of operatives spread across Naerk, acting within regional cells that have as much contact with the rest of the Berenfaer as is deemed safe by the spymasters, handlers, and comms agents.
+Before the Zolkari revolution, communication between regions had deteriorated to the point where the Berenfaer were practically different organisations, knowing little of each other.
+Now they consist of an array of operatives spread across Naerk, acting within regional cells that have as much contact with the rest of the Berenfaer as is deemed safe by the spymasters, handlers, and comms agents.
 
 Within the state of Zolkar, they have loosely organised their armed forces into four branches: the Privateers (naval), Raiders (irregulars), Scouts (reconnaissance and support), and Gendarmes (regulars).
 
@@ -90,16 +91,16 @@ The most influential spymasters include:
   head of signals, diviner wizard
 - **Friar** (sonorous male human cleric of Lainek):
   head loremaster, cleric of [[Lainek]] and brewer
-- [[Sevena|Gingerbread]] (cackling female human cookwitch):
+- [[Sevena|Gingerbread]] (cackling female human soothsayer):
   head of psyops
 - **Scorpio** (audacious male human privateer):
   captain of the privateers, former pirate and daredevil
 - [[Bjonnyr|Ajax]] (hearty male human berserker):
-  captain of the raiders, imposing axeman
+  captain of the raiders, ferocious axeman
 - [[Ulfwyr|Teucer]] (caustic male human brigand):
   captain of the scouts, paramedic marksman
 - [[Algirith|Tulip]] (reserved female human shieldmaiden):
-  captain of the gendarmes, reserved shieldmaiden
+  captain of the gendarmes
 - [[Kommissar]] (quirky male kobold agitator):
   exuberant propagandist and investigator
 - **Sunstroke** (stoic male kholo shaman):

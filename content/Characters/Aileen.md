@@ -25,7 +25,7 @@ wiki:
 > > | ethnicity | Ffolk |
 > > | height | 5'5" |
 > > | weight | 136 lb. |
-> > | appearance | <li>copper red hair</li><li>green eyes</li><li>freckled skin</li> |
+> > | appearance | copper red hair, green eyes, freckled skin |
 > > | stats | [[Aileen 18 H55.pdf\|Pathfinder 1e]], [[Aileen 19 PF2e.pdf\|Pathfinder 2e]] |
 >
 > > [!quote]

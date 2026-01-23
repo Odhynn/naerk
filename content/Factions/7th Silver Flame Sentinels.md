@@ -45,7 +45,7 @@ They spent the next 5 years there constructing an astral portal to transport the
 ## Quest for the Dawnblade
 
 They arrived in the Lake of the Moon in late 4784 and wandered through the oni territories and Mitheryn forest. A kirin ultimately led them before Gwarfhyvijx, the green dragon of the forest.
-In an accord with Gwarfhyvijx, they helped drive his opponent, the young forest dragon Lhan Xi off his lands, in exchange for guidance and tutelage that lasted for a year.
+In an accord with [[Gwarfhyvaax]], they helped drive his opponent, the young forest dragon Lhan Xi off his lands, in exchange for guidance and tutelage that lasted for a year.
 
 Travelling through the [[Athar]] orc tribe territories, they eventually boarded a ship from [[Bjåglant]] to the [[Alagon]] archipelago, where they visited the Temple of the Sapphire Guard and found traces of a halfling named Tanner, whom Faenyss Laffirdul had killed 50 years ago on his first trip to Naerk while chasing Çan Tal, the person who had carried the Dawnblade there.
 

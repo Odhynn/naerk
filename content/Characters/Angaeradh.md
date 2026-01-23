@@ -1,6 +1,6 @@
 ---
 title: Angaeradh, the Prophetess under the Mountain
-subtitle: female half-elf oracle
+subtitle: ruthless female half-elf oracle
 date: 2024-06-03
 author: odysseas
 tags:
@@ -35,7 +35,7 @@ One night as Angaeradh lay sleeping in her late father's old office in Xianshi, 
 Overcome by grief, she vanished, leaving behind a vacuum of power within the mafia that sparked a bloody gang war. A few years later, she returned stronger and more vicious than ever, ended the conflict within weeks, and ruled with an iron fist as the Queen of the Selanahri Underworld.
 She foresaw terrible forces building up in the sealed tower of [[Eltirion]]. She foresaw that the secrets the ruling classes kept would bring ruin upon the continent and the world. She foresaw only she could prevent this.
 
-Determined to deliver bloody vengeance upon the dwarves for the injustice done against her, and to rise up as the rightful ruler and protector of the people of [[Selanahr]], she undermined their authority at every opportunity, consolidating her fiscal empire in the meantime, and gauging the ever-growing pressure of doom amassing high up in Eltirion. Revenge would come. In time.
+Determined to deliver bloody vengeance upon the dwarves for the injustice done against her, and to rise up as the rightful ruler and protector of the people of [[Selanaar]], she undermined their authority at every opportunity, consolidating her fiscal empire in the meantime, and gauging the ever-growing pressure of doom amassing high up in Eltirion. Revenge would come. In time.
 
 Thus, in time, when the call for the [[Winter's War]] came out, she intercepted the dwarven representatives heading to [[Kultaria]], offed them, and appeared in their stead as the Champion of Selanahr. The dwarven rulers soon learned what had transpired as tales of her exploits in the south against the Hordes of [[Fallfaunt]] reached the Athalaari shores, yet did not take action against her or debunk her ill-gotten Selanahri representative status so as not to show weakness.
 

@@ -17,6 +17,10 @@ wiki:
   residence: [[Elestair]]
 ---
 > [!attributes]
+> > [!grid]
+> >
+> > ![[../img/ajax--seung-woo-no-viking-warrior-finish.webp]]
+> 
 > 
 > > [!quote]
 > >
@@ -26,19 +30,17 @@ wiki:
 > > | ethnicity | Qrattan Northlanders |
 > > | height | 6'5" |
 > > | weight | 230 lb. |
-> > | appearance | <li>bearskin</li><li>dark brown hair</li><li>auburn beard</li><li>sharp canines</li> |
+> > | appearance | dark brown hair, auburn beard, sharp canines |
 > > | stats | [[Bjonnyr 10 PF2e.pdf\|Pathfinder 2e]] |
 
 
 > ΑΠΠΑΝΩ ΝΤΩΣ!
 > _-- jubilant Qrattan battlecry_
 
-Bjonnyr Arthwyrsson is a field agent of the [[Berenfaer]] by the handle "Ajax", a towering barbarian wielding a greataxe, a skilled smith and carpenter, and one of the [[Everbryght]].
+Bjonnyr Arthwyrsson is a leading field agent of the [[Berenfaer]] by the handle "Ajax", a towering barbarian axeman, handy smith and carpenter, and one of the [[Everbryght]].
+His Common are tinged with a slight North Darroki accent. While in battle he is prone to bursts of bloody rage, he is otherwise a jovial giant with a grounded perspective.
+His bearing, bearskin, and fighting tradition are almost textbook-indicative of the barbarian totem of the bear. He smells of wet fur.
 
-- speaks common with a slight North Darroki accent.
-- prone to bursts of fierce battle-rage, but otherwise a gentle giant who more often than not is the adult in the room
-- observes the totem of the bear and looks the part
-- smells of wet fur
 
 ## Berenfaer
 
@@ -49,3 +51,7 @@ They both sailed to the South Sea afterwards to explore.
 
 While travelling through [[Marjalat]] he joined [[Delishart]], [[Ludvig]] and [[Malthis]] in ending [[The Blackthroat Disease]] and slaying [[Nessessor]].
 Later that year, the Arthwyrsson brothers' sea journeys took them to [[Drozzin]], where they fought and killed the sea dragon [[Ozrallon]].
+
+---
+
+> artwork: "Viking Warrior" by [Seung Woo No](https://www.artstation.com/seungwoono2)

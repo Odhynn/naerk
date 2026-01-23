@@ -1,8 +1,8 @@
 ---
 title: Shizu, the Swordmaiden Serene
-subtitle: female human swordsaint
+subtitle: protective female human swordsaint
 date: 2024-09-15
-author: odysseas, sfakias
+author: odysseas
 tags:
   - characters/PCs
   - countries/South Darrok
@@ -37,8 +37,7 @@ wiki:
 > > ###### Affiliations
 > > | | |
 > > | --- | --- |
-> > | allegiance | [[Ironglance]] |
-> > | residence | [[Ekteron]] |
+> > | membership | [[Ironglance]], [[Vigilant Guard]] |
 > > | band | [[Band of Blood and Brimstone]] |
 
 > Whoso stands apart from the world
