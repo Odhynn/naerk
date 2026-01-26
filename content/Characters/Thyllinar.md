@@ -20,6 +20,7 @@ tags:
 > > | born | 3433 |
 > > | appearance | ? |
 > > | residence | [[Kordash]] |
+> > | stats | [[Thyllinar 2e.pdf\|Pathfinder 2e NPC]] |
 
 ## History
 

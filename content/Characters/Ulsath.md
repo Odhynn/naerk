@@ -38,6 +38,8 @@ wiki:
 > > | allegiance | [[Twilight Veil]] |
 > > | residence | [[Fol'rish]] |
 > > | band | [[Halcyon]] |
+> > | stats | [[Ulsath 2e.pdf\|Pathfinder 2e PC]] |
+
 
 > [!quote] 
 > _"Contact me by your own means"_

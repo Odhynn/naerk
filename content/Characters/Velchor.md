@@ -39,6 +39,7 @@ wiki:
 > > | --- | --- |
 > > | residence | [[Ferglund]] |
 > > | band | [[Sages of the North]] |
+> > | stats | [[Velchor the Bold 2e.pdf\|Pathfinder 2e NPC]] |
 
 > [!quote] 
 > *North lives in arrogance and enmity. It wasn't like that in the old days. Back then, the tribes worked together and found ways to resolve their differences. Today, nothing matters but strengthening their own tribe and attacking the others."*

@@ -20,4 +20,4 @@ tags:
 > > | nationality | Imtarian |
 > > | appearance | ? |
 
-Father of [[Emperor Olerio V]] and [[Emperor Ilarein]], his firstborn and thirdborn sons that later became emperors of [[Imtaria]].
+Son of [[Emperor Azul]] and father of [[Emperor Olerio V]] and [[Emperor Ilarein]], his firstborn and thirdborn sons that later became emperors of [[Imtaria]].

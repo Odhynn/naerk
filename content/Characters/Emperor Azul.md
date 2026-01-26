@@ -21,4 +21,4 @@ tags:
 > > | nationality | Imtarian |
 > > | appearance | ? |
 
-Father of [[Emperor Nilengar V]].
+Son of [[Emperor Nalangis I]] and father of [[Emperor Nilengar V]].

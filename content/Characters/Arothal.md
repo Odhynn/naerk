@@ -19,6 +19,7 @@ tags:
 > > | born | ? |
 > > | nationality | ? |
 > > | appearance | tan skin, bald, no visible hair, tattoed skin |
+> > | stats | [[Arothal the Distant 2e.pdf\|Pathfinder 2e NPC]] |
 
 > [!quote] 
 >*"The power of one Primordial, relative to the rest, was crystallized in the material world."*

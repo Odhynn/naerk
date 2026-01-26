@@ -1,5 +1,5 @@
 ---
-title: Raefibb
+title: Raefibb the Grim
 subtitle: male human druid
 date: 2024-02-22
 author: sfakias
@@ -41,6 +41,8 @@ wiki:
 > > | allegiance | [[Fismint]] |
 > > | residence | [[Raven's Tower]] |
 > > | band | [[Sages of the North]] |
+> > | stats | [[Raefibb 2e.pdf\|Pathfinder 2e NPC]] |
+
 
 > [!quote] 
 > *Where will you be when the storm breaks?*
