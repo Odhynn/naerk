@@ -17,3 +17,5 @@ tags:
 > > | nationality | ? |
 > > | appearance | Dark grey skin, black cloak and hood, bow, greataxe |
 > > | residence | ? |
+
+A renegade drow archer and scout. Member of the [[7th Silver Flame Sentinels]].

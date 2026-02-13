@@ -17,3 +17,5 @@ tags:
 > > | nationality | ? |
 > > | appearance | ? |
 > > | residence | ? |
+
+A brave knight and paladin of noble bloodline and a member of the [[7th Silver Flame Sentinels]]. He died wielding the [[Dawnblade]].

@@ -15,5 +15,7 @@ tags:
 > > | --- | --- |
 > > | born | ? |
 > > | nationality | ? |
-> > | appearance | ? |
+> > | appearance | muscular body, chainmail and shield |
 > > | residence | ? |
+
+A legendary pilgim healer and archpriestess that accompanied the [[7th Silver Flame Sentinels]] on their travels in [[Naerk]].

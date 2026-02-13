@@ -17,3 +17,5 @@ tags:
 > > | nationality | ? |
 > > | appearance | ? |
 > > | residence | ? |
+
+An archwizard incantator and the leader of the [[7th Silver Flame Sentinels]].
