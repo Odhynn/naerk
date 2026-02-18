@@ -35,3 +35,5 @@ tags:
 > > | Favored Weapon | Trident |
 > > | Domains | Cold, Healing, Nature, Travel, Water |
 > > | Cleric Spells | 1st: Hydraulic Push, 3rd: Feet to Fins, 5th: Control Water |
+
+The [[Primordial]] and [[Elemental Lords|Elemental Lord]] of Water. Brief lover of [[Fallfaunt]] and creator of the oceans, lakes and rivers. It is believed he made the first finfolk.
