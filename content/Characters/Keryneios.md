@@ -21,4 +21,4 @@ tags:
 > > | nationality | [[Zolkar]] |
 > > | appearance | Brown-silver hair |
 
-An agent of [[Berenfaer]] that wielded a hammer called Lisfyros and preached reading a book about the [[Zolkar]] revolution.
+An agent of [[Berenfaer]] that wielded a hammer called Lisfyros and preached reading a book about the [[Zolkar]] revolution. He died fighting followers of [[Karadosh]].

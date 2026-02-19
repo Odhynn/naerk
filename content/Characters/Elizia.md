@@ -17,4 +17,4 @@ tags:
 > > | nationality | [[Whistor]] |
 > > | appearance | black hair, earrings, 5'6" |
 
-A pirate of uncertain alliance.
+A pirate of uncertain alliances. She was a sailor of [[Whistor]].
