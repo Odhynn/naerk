@@ -18,4 +18,4 @@ tags:
 > > | appearance | green skin |
 > > | residence | southeast [[Hoen]] |
 
-Son of [[Efren]] and [[Feneg]]. Grandson of [[Feren]]. He was incapacitated by three people accused for murder and a strange soldier from [[Melinor]] after he tried to interfere in a battle that killed his father [[Feneg]] and grandfather [[Feren]].
+Son of [[Faeg]] and [[Feneg]]. Grandson of [[Feren]]. He was incapacitated by three people accused for murder and a strange soldier from [[Melinor]] after he tried to interfere in a battle that killed his father [[Feneg]] and grandfather [[Feren]].

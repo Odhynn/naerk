@@ -17,4 +17,4 @@ tags:
 > > | Members | [[Aldastrio], [[Shizu]]], [[Droghor]] |
 > > | Region | [[South Darrok]] |
 
-The order that derived from the [[Band of Blood and Brimstone]] and swore to protect the [[Rod of Stone and Steel]] and use it responsibly.
+The order that derived from the [[Band of Blood and Brimstone]] and swore to protect the [[Rod of Stone and Steel]] and use it responsibly. They are mostly scollars and diplomats that gather at [[Ekteron]].

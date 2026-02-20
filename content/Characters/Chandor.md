@@ -19,3 +19,5 @@ tags:
 > > | born | ? |
 > > | appearance | orange skin, red eyes |
 > > | residence | [[Blackwoods]] |
+
+A legendary figure of [[Oventhart]] and one of the [[Sages of the North]].

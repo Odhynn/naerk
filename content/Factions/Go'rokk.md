@@ -19,4 +19,4 @@ tags:
 > > | Capital | [[Drafhün]] |
 > > | Leader | [[Jarl Carlog\|Jarl Carlog Gorberosh]] |
 
-A nomadic tribe that lives in the tundra. It is one of the first tribes that appeared in [[Belgosreim]] and drove out the last remnants of the [[Gadrunen]] giants after ferocious battles. They have an ancestral enmity with the [[Vagor]] tribe.
+A nomadic tribe that lives in the tundra. It is one of the first tribes that appeared in [[Belgosreim]] and drove out the last remnants of the [[Gadrunen]] giants after ferocious battles. They have an ancestral enmity with the [[Vagor]] tribe. They are believed to be violent people that provoke their neighbors.

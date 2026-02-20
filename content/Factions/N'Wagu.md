@@ -17,4 +17,4 @@ tags:
 > > | --- | --- |
 > > | Region | [[Whistor]] |
 
-The native people of the [[Walgri Isles]]. A civilization with rich traditions, art and native language, that got displaced at the 39th century by several other groups that inhabited the country and formed [[Whistor]].
+The native people of the [[Walgri Isles]]. A civilization with rich traditions, art and native language, that got displaced at the 39th century by several other groups that inhabited the country and formed [[Whistor]]. Most of their traditions and settlements were lost.
