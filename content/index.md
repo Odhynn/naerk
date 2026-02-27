@@ -13,6 +13,6 @@ original material: [Naerk Blogspot](http://aclashofstoneandsteel.blogspot.com/)
 
 [Attribute Tables per Category](https://htmlpreview.github.io/?https://github.com/Odhynn/naerk/blob/v4/content/data-analysis.html)
 
-[Campaign Notes](https://odhynn.github.io/naerk/campaign-notes-ody.html)
+<a href="https://odhynn.github.io/naerk/campaign-notes-ody.html">Campaign Notes</a>
 
 [Session Calendar Map](https://odhynn.github.io/naerk/session-calendar.html)
