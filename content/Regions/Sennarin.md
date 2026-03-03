@@ -52,6 +52,8 @@ Sensing the rise of terrible ambition within her, Yerastu reminded her that in c
 
 These were a series of clashes lasting 11 years (4793-4804) between the Sennarii and the [[Bjåglant|Bjåglanders]], who had just began colonizing the region before the Arrival and would not easily cede it to the newcomers.
 
+#### The Draugrelfur Incident
+
 Ατ the spring of the year 4798, [[Bjåglant]]'s raiders made their third large-scale raid on Sennarin. Τhe first to be called upon to face them were the same ones who had fought them in the previous two raids: The Clans of Thunder. There were two main clans that had the largest part of the military power: the Are in the north and the Hida in the south. Originally, the Are had a much larger army, prestige and power, but they suffered from one basic problem: Lack of enough arable land. In many villages the villagers were starving.
 
 The Are clan chose to deal with the Oni devils first, in an attempt to expand their lands northward. Most people disagreed with this move, as initially the threat of Bjåglant's barbarians was much more immediate, and most would rather face twenty humans, orcs or dwarves than one Oni. The battles with the Oni were over by the year 4793, but the cost was too heavy. The land they had won was disproportionately small compared to the cost in warrior lives. Among the people, a rumor began to circulate that the lord [[Are Shinzou]] was executing everyone who retreated from the battle with the Oni. Even worse, word got out that their main way of dealing with the problem of starvation was by sending the world to certain death and thereby reducing the number of mouths asking for food.
@@ -68,9 +70,13 @@ But Lord Hida had also suffered huge losses: Half of his warriors were dead or w
 
 Then many of the Hida clan suggested that Ishigaki strike first: Gather his now larger army and make a surprise attack at night. But Hida, loyal to the law, refused. He gathered his warriors and prepared five ships to leave, with his Samurai loyalists. But the next morning he saw that he was followed by many more than he had expected: forty-two other ships, full of his loyal soldiers, who had fought with him in many battles and refused to desert him. So ex-Lord [[Hida]] first set sail for [[Stormsfall]], and most of the exiles stayed with him.
 
+#### The Athalaari Clans peace treaty
+Eventually, war weariness settled in after many years of stalemate, given the huge resources sunk by both nations into bleeding each other instead of fighting against the haunts of the land itself.
+A peace treaty was finally brokered in 4804, with representatives from the Alagon Archipelago as intermediaries and many joint projects launched between the scholarly circles to foster a spirit of joint investment and cooperation in overcoming the shared challenges of living in the Haunted Continent.  
+
 ### the Sennarii Expeditions to Selanaar
 
-The Clans of Snow, as the Sennarii clan confederation closest to the haunted lands of Selanaar, organised two ambitious ventures to explore and research them during opportunity window created by the Blood Moon, when the Harrowmist retreats for one lunar cycle before surging back. Two expeditions were undertaken in the two Blood Moon cycles since the Arrival: the first during Leafdrop of 4796, the second during Leafdrop of 4816. Both ended in disaster and unspeakable carnage.
+> see [[Selanaari Expeditions]]
 
 ## Geography
 

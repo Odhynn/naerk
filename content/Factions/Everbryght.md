@@ -139,11 +139,11 @@ The Everbryght all arrived in Naerk with nothing but a projection of their bodie
   For the next decade, Smolynx scoured Sennarin and Bjåglant for morghonljucht traces, became a prominent leader of the [[Circle of the Stag]] and worked with the Swordmaiden Serene's sisters, Lady Hime and Lady Sen of the Clans of Snow, to prepare for the arrival of the 5 children.
 - 4815, Spring
   Upon arrival, they spent a year and a half to acclimate and learn about Naerk.
-  - Gwynne served as an officer cadet in the Griffon Cavalry of the Snow Clans, eventually reaching the rank of Reserve Lance Lieutenant, and trained with the Knights Hospitaller in their newly established chapter house in Yoakyuuden.
+  - Gwynne served as an officer cadet in the [[Sennarii Griffon Cavalry|Griffon Cavalry of the Snow Clans]], eventually reaching the rank of Reserve Lance Lieutenant, and trained with the Knights Hospitaller in their newly established chapter house in Yoakyuuden.
   - Ulfwyr and Bjonnyr travelled to [[Bjåglant]] and [[North Darrok]] under the tutelage of Smolynx.
   - Aileen and Rowena were tutored by Lady Sen and Lady Hime respectively so that they would adapt their arcane knowledge to vethian magic.
 - 4816, Autumn
-  - The first trial of the youngsters was their participation in the 2nd Sennarii Expedition to the Harrowlands during the Blood Moon of 4816, where they hoped to uncover clues long lost to even Abraar Emberbeard.
+  - The first trial of the youngsters was their participation in the [[Selanaari Expeditions|2nd Sennarii Expedition to Selanaar]] during the Blood Moon of 4816, where they hoped to uncover clues long lost to even Abraar Emberbeard.
   - On the haunted shores of Selanaar, the expedition went as horribly awry as the previous one. Sennarii soldiers torn apart around them, the youngsters made it through fraught landscapes and deadly battles with oni, aberrations, and ghosts, to the final stand at Doong-jiao mountain where the [[Halcyon]] band broke [[Angaeradh]] loose from her confinement, that she might hold the Haruspex of Voolthow at bay.
   - Aileen climbed and blinked her way to the top of the ancient comms tower and sent out a distress signal to Smolynx, was momentarily caught in the Harrowmist and contracted the curse.The Griffon Cavalry homed into the signal and extracted the remnants of the expedition.
   - After that, the Everbryght agreed to go their separate ways and spread out across Naerk, so that they may cover more ground and have more chances of finding a lead. Since then, their paths have diverged and crossed again as each follows their own quests. 
