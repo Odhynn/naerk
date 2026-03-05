@@ -21,6 +21,16 @@ export const defaultContentPageLayout: PageLayout = {
     Component.ContentMeta(),
     // Component.MobileOnly(Component.Wikitable()),
   ],
+  // afterBody: [
+  //   Component.ConditionalRender({
+  //     component: Component.RecentNotes({
+  //     title: "Recently added notes:",
+  //     showDate: true,
+  //     limit: 5,
+  //     }),
+  //   condition: (props) => props.fileData.frontmatter?.title === "Steven's Digital Notebook",
+  //   })
+  // ],
   left: [
     Component.PageTitle(),
     Component.MobileOnly(Component.Spacer()),

@@ -16,7 +16,8 @@ const config: QuartzConfig = {
       typography: {
         header: "Alegreya",
         body: "Alegreya",
-        code: "Cascadia Code",
+        // code: "Cascadia Code",
+        code: "Alegreya Sans"
       },
       colors: {
         lightMode: {
