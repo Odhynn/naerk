@@ -6,16 +6,6 @@ tags:
   - RealmsBeyond
 ---
 
-> [!attributes]
-> 
-> > [!quote]
-> >
-> > | | |
-> > | --- | --- |
-> > | Symbol | six swords in a hexagon |
-> > | Region | [[Sennarin]] |
-> > | Leader | Smolynx Raerundlin |
-
 > Far from home / a lonely road / a promise
 > -- _final verse of the Everbryght stanza_
 

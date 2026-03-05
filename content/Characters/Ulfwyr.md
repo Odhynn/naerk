@@ -44,12 +44,17 @@ wiki:
 > Feh.
 > _-- dismissive Qrattan syllable_
 
-Ulfwyr Arthwyrsson is a leading field agent of the [[Berenfaer]] by the callsign "Teucer", a paramedic longbowman with a knack for guerilla warfare, and one of the [[Everbryght]]. His Common are tinged with a slight North Darroki accent and caustic eloquence. While distinguished for his track record in the Zolkari revolution and as Berenfaer Captain of the Scouts, he is known as a harsh teacher to his allies and a grudge keeper to his foes. He is oft flanked by his animal companions, Huskarl the owl and Virginia the wolf. He smells of rain.
+Ulfwyr Arthwyrsson is a leading field agent of the [[Berenfaer]] by the callsign "Teucer", a paramedic longbowman with a knack for guerilla warfare, and one of the [[Everbryght]].
+- His Common are tinged with a slight North Darroki accent and caustic eloquence.
+- Distinguished in the Zolkari Revolution, after which he became the 1st Berenfaer Captain of the Scouts.
+- A harsh teacher to his allies and a grudge keeper to his foes.
+- Oft flanked by his animal companions, Huskarl the owl and Virginia the wolf. 
+- Smells of rain.
 
 
 ## Berenfaer
 
-He was a major actor in the rescue mission that led to the [[Zolkarsdawn Riot]], under the guidance of [[Steelshade]] and alongside [[Sevena]], [[Blackmist]], and [[Algirith]] Evergreen.
+Ulfwyr was a major actor in the rescue mission that led to the [[Zolkarsdawn Riot]], under the guidance of [[Steelshade]] and alongside [[Sevena]], [[Blackmist]], and [[Algirith]] Evergreen.
 In order to enter the underground passages underneath the Zolkarsdawn Agora and extricate a captured Berenfaer agent, they set off a fight in the courtyard that blew up into a full-scale slave rebellion while they braved the tunnels. Opening many slaveholding cells on their way, they confronted the Cult of Karadosh that had taken hold of the underground. They survived only narrowly, as by the final fight, only two were on their feet; Ulfwyr was out of arrows and holding off cultists with sword and tooth, while the crone Sevena battered them with her cauldron.
 
 After the Berenfaer consolidated the rebellion's footing in Elestair, Ulfwyr headed north with a few squads to prepare the ground in Ilistair for concurrent action.

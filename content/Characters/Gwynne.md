@@ -23,7 +23,7 @@ wiki:
 > > | ethnicity | Sennarii |
 > > | height | 5'11" |
 > > | weight | 170 lb. |
-> > | appearance | <li>black hair in a bun</li><li>radiant amber eyes</li><li>unclouded countenance</li> |
+> > | appearance | black hair in a bun, radiant amber eyes, unclouded countenance |
 
 > The Watcher bless thee and keep thee.
 > The Watcher make his face shine upon thee, and be gracious unto thee.

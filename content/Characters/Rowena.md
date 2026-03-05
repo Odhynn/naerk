@@ -23,7 +23,7 @@ wiki:
 > > | ethnicity | Ffolk |
 > > | height | 6'1" |
 > > | weight | 166 lb. |
-> > | appearance | <li>blond hair in a braid</li><li>eerie blue eyes</li><li>unnerving grin</li><li>athletic physique</li> |
+> > | appearance | blond hair in a braid, eerie blue eyes, unnerving grin, athletic physique |
 
 > α σω σπασω τα κακκαλα
 > _-- maniacal Qrattan threat gleefully picked up from [[Bjonnyr]]_

@@ -38,8 +38,11 @@ wiki:
 > _-- jubilant Qrattan battlecry_
 
 Bjonnyr Arthwyrsson is a leading field agent of the [[Berenfaer]] by the handle "Ajax", a towering barbarian axeman, handy smith and carpenter, and one of the [[Everbryght]].
-His Common are tinged with a slight North Darroki accent. While in battle he is prone to bursts of bloody rage, he is otherwise a jovial giant with a grounded perspective.
-His bearing, bearskin, and fighting tradition are almost textbook-indicative of the barbarian totem of the bear. He smells of wet fur.
+- His Common are tinged with a slight North Darroki accent.
+- While in battle he is prone to bursts of bloody rage, he is otherwise a jovial giant with a grounded perspective.
+- Distinguished in the Zolkari Revolution, after which he became the 1st Berenfaer Captain of the Raiders.
+- His bearing, bearskin, and martial style are almost textbook-indicative of the barbarian totem of the bear.
+- Smells of tree bark.
 
 
 ## Berenfaer
