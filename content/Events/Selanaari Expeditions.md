@@ -2,16 +2,23 @@
 title: The Sennarii Expeditions to Selanaar
 date: 2026-03-03
 author: odysseas
+alias:
+  - "Sennarii Expeditions to Selanaar"
 tags:
+  - conflict
+  - expedition
+  - campaign/Halcyon
 ---
 
-The Clans of Snow, as the [[Sennarin|Senarii]] clan confederation closest to the haunted lands of Selanaar, organised two ambitious ventures to explore and research them during the temporal window of opportunity created by the Blood Moon, when the Harrowmist retreats for one lunar cycle before surging back. Two expeditions were undertaken in the two Blood Moon cycles since the Arrival: the first during Leafdrop of 4796, the second during Leafdrop of 4816. Both ended in disaster and unspeakable carnage.
+The Clans of Snow, as the [[Sennarin|Senarii]] clan confederation closest to the haunted lands of Selanaar, organised two ambitious ventures to explore and research them during the temporal window of opportunity created by the Blood Moon, when the Harrowmist retreats for one lunar cycle before surging back. Two expeditions were undertaken in the two [[Calendar#Blood Moon]] cycles since the Arrival: the first during Leafdrop of 4796, the second during Leafdrop of 4816. Both ended in disaster and unspeakable carnage.
 
+## First Expedition, 35-52 Leafdrop 4796
 
-The First Expedition in 4796 was effectively an arms race against the [[Bjåglant|Bjåglander]] clans, as both sides sought to gain an edge in the Arrival Wars by uncovering the secrets of the once mighty Selanaari Empire first.
+The First Expedition was effectively an arms race against the [[Bjåglant|Bjåglander]] clans, as both sides sought to gain an edge in the Arrival Wars by uncovering the secrets of the once mighty Selanaari Empire first.
 After a nebulous turn of events the Sennarii force was eventually cut off from supplies and perished to the last man in Fort Fuyuhan, subsequently turning into shades.
-The Bjåglander force was similarly decimated by the horrors of the land, and only Phaenniel, the cassissian angel familiar of a wizard researcher, survived trapped in the Carven Keep.
+The Bjåglander force was similarly decimated by the horrors of the land, and only Phaenniel, the cassissian angel familiar of a wizard researcher, survived trapped in the [[Carven Keep]].
 
+## Second Expedition, 30-54 Leafdrop 4816
 
 After the end of the Arrival Wars, and in the spirit of fostering cooperation and coexistent among the former belligerents, the Second Expedition was organised to cautiously investigate what had transpired. The joint naval venture was deployed by the Sennarii Clans of Mist, the Sennarii Clans of Snow, and the Bjåglander Clans of Spökeborg, Aarhall, and Bärshamn.
 The commanders and sages of the expedition were hoping to land on eastern shores of the Selanaari peninsula, decrypt the workings of the ancient menhir wards well enough to activate a natural barrier against the Harrowmist similar to what was protecting the coastal goblinoid communities, and subsequently consolidate a scientific foothold on the haunted ancient lands.
