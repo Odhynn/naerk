@@ -12,12 +12,12 @@ tags:
 The Everbryght are a group of six aliens hailing from the [[Realms Beyond]] who travel Naerk in search of a rare mineral that might help repair the fallout of a cataclysmic disaster in their homeworld.
 Though this ore is not something they expect someone to fight them for, they prefer to keep their quest known to as few as possible.
 
-- [[Smolynx]] Raerundlin, male elf Druid of the Circle of the Stag
-- [[Rowena]] Raerundlin, female half-elf Battlemage (of the jock variety)[^7]
-- [[Gwynne]] Shizusdottir, female nephelim Knight Hospitaller
-- [[Ulfwyr]] Arthwyrsson, male human Ranger longbowman
-- [[Bjonnyr]] Arthwyrsson, male human Barbarian axeman
-- [[Aileen]] Rosewood, female human Battlemage (of the nerd variety)[^7]
+- [[Smolynx]] Raerundlin, collected male elf archdruid
+- [[Rowena]] Raerundlin, sociopathic female half-elf battlemage-vanguard
+- [[Gwynne]] Shizusdottir, solemn female human-angelkin knight-hospitaller
+- [[Ulfwyr]] Arthwyrsson, caustic male human brigand
+- [[Bjonnyr]] Arthwyrsson, hearty male human berserker
+- [[Aileen]] Rosewood, neurotic female human battlemage-artificer
 
 ## Morghonljucht
 
@@ -131,24 +131,24 @@ The Everbryght all arrived in Naerk with nothing but a projection of their bodie
   Upon arrival, they spent a year and a half to acclimate and learn about Naerk.
   - Gwynne served as an officer cadet in the [[Sennarii Griffon Cavalry|Griffon Cavalry of the Snow Clans]], eventually reaching the rank of Reserve Lance Lieutenant, and trained with the Knights Hospitaller in their newly established chapter house in Yoakyuuden.
   - Ulfwyr and Bjonnyr travelled to [[Bjåglant]] and [[North Darrok]] under the tutelage of Smolynx.
-  - Aileen and Rowena were tutored by Lady Sen and Lady Hime respectively so that they would adapt their arcane knowledge to vethian magic.
+  - Aileen and Rowena, staff mages of the nerd and jock variety respectively[^7], were respectively tutored by Lady Sen and Lady Hime to adapt their arcane knowledge to vethian magic. The twin sisters of the Swordmaiden Serene themselves had made the exact same transition 25 years prior, under the tutelage of [[Gwarfhyvaax]].
 - 4816, Autumn
   - The first trial of the youngsters was their participation in the [[Selanaari Expeditions|2nd Sennarii Expedition to Selanaar]] during the Blood Moon of 4816, where they hoped to uncover clues long lost to even Abraar Emberbeard.
   - On the haunted shores of Selanaar, the expedition went as horribly awry as the previous one. Sennarii soldiers torn apart around them, the youngsters made it through fraught landscapes and deadly battles with oni, aberrations, and ghosts, to the final stand at Doong-jiao mountain where the [[Halcyon]] band broke [[Angaeradh]] loose from her confinement, that she might hold the Haruspex of Voolthow at bay.
-  - Aileen climbed and blinked her way to the top of the ancient comms tower and sent out a distress signal to Smolynx, was momentarily caught in the Harrowmist and contracted the curse.The Griffon Cavalry homed into the signal and extracted the remnants of the expedition.
+  - Aileen climbed and blinked her way to the top of the ancient comms tower and sent out a distress signal to Smolynx, was momentarily caught in the Harrowmist and contracted its curse. The Griffon Cavalry homed into the signal and extracted the remnants of the expedition.
   - After that, the Everbryght agreed to go their separate ways and spread out across Naerk, so that they may cover more ground and have more chances of finding a lead. Since then, their paths have diverged and crossed again as each follows their own quests. 
 - 4817, Winter
   - Smolynx travelled to [[Sunshine]] isle to speak with [[Droghor]] of the Dragonpact.
   - Ulfwyr and Bjonnyr (the Arthwyrsson brothers) travelled to Zolkar where they became involved in the events culminating in [[Zolkarsdawn Riot]] and the resurgence of the [[Berenfaer]]; they were joined by Rowena as soon as she heard of the amount of shite that was going down.
   - Gwynne finished her training and was ordained a knight hospitaller under the Chapter of the West.
-  - Aileen joined the [[Halcyon]] band for she shared their harrowed condition and sailed with them to [[Stormfall]], where she was captured and sent to [[Hashnev]] in chains.
+  - Aileen, having contracted the Harrowing Curse, joined the similarly afflicted [[Halcyon]] band and sailed with them to [[Stormfall]], where she was captured and sent to [[Hashnev]] in chains.
 - 4817, Spring
   - Smolynx travelled through the Allwick desert alongside his tiger companion Mr. Timms, where he briefly joined a band of spellcasters to traverse through an extra-planar crypt of riddles.
   - Aileen won her gladiatorial freedom in the arena and bore through the wicked machinations of slavers, royals, hellspriests and vampires in corrupt and evil-infested [[Hashnev]], managing to draw Palaurim's attention during the diplomatic councils, get appointed as a special committee member, and save a captured [[Steelshade]] who inducted her into the [[Berenfaer]]; Ulfwyr and [[Blackmist]] aided her efforts during the climactic battle in the palace.
   - Gwynne undertook a pilgrimage that began in the [[Temple of the Sapphire Guard]] in the [[Alagon]] archipelago.
 - 4817, Summer
   - Smolynx and Rowena journeyed through the [[Edhelwood]].
-  - Aileen became a spymaster of the Berenfaer, introducing many reforms in security measures, tactics, and protocol, and building Pegasus Keep in [[Elestair]] with her magic harp.
+  - Aileen became a spymaster of the Berenfaer, introducing many reforms in security measures, tactics, and protocol, and building Pegasus Keep in [[Elestair]] with her own magic harp.
   - Ulfwyr and Bjonnyr sailed along the isles of the South Sea, setting up contacts and safehouses; Bjonnyr helped end [[the Blackthroat Disease]] and slew [[Nessessor]] in [[Marjalat]].
   - Gwynne's pilgrimage continued into [[North Darrok]] and the [[Four Winds Monastery]].
 - 4817, Autumn
@@ -183,4 +183,4 @@ Limping after him, they briefly crossed blades with a [[Shizu#Blood Moon|young s
 [^4]: Sigrid, a bard well-versed in arcane lore by Annwn and Bjorg the Mad, hailed from the same region as the ap Qwynn siblings but had no clan name, thus she adopted the task force callsign as hers.
 [^5]: The Everbryght swords' morgholjucht-steel alloy glows in the vicinity of morghonljucht traces, and can bind the traces to itself with a certain alchemical procedure. 
 [^6]: The Everbryght Stanza consists of those last 3 lines and is inscribed on the sword-anchors of the Everbryght, as it lyrically conveys the nature of their never-ending quest. They have taken to using it as a calling sign to recognise one another in delicate or discreet situations: one member will begin reciting the stanza in their own ancient native language (that is alien to Naerk) and the other will finish it.
-[^7]: Aileen and Rowena both attended Gwynnedh Battlemage Academy, a wizarding doctrine focusing on abjuration, evocation, and the employ of magic staves, that Bjorg the Mad's and Annwn Raerundlin's sword-and-staff style was tangential to. The girls' approaches to the tradition, however, are wildly unorthodox: Aileen has extensively modified her staff to function as a crossbow or rifle through which she can channel ray spells, while Rowena uses hers to directly, physically, brutally beat people up.
+[^7]: While in the Realms, Aileen and Rowena had both attended Gwynnedh Battlestaff Academy, a wizarding doctrine focusing on abjuration, evocation, and the employ of magic staves, that Bjorg the Mad's and Annwn Raerundlin's sword-and-staff style was tangential to. The girls' approaches to the tradition, however, are wildly unorthodox: Aileen has extensively modified her staff to function as a long limbless crossbow (or a kwarissian rifle, for those in the know) through which she can channel ray spells, while Rowena uses her own staff to physically brutalise her opponents with extra arcane pain on top.

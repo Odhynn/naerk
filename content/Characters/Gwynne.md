@@ -1,6 +1,6 @@
 ---
 title: Syr Gwynne
-subtitle: female nephelim knight
+subtitle: female human--angelkin knight
 date: 2025-04-09
 author: odysseas
 tags:
@@ -24,6 +24,7 @@ wiki:
 > > | height | 5'11" |
 > > | weight | 170 lb. |
 > > | appearance | black hair in a bun, radiant amber eyes, unclouded countenance |
+> > | stats | [[gwynne-7.html\|Champion 7]] (PF2e PC) |
 
 > The Watcher bless thee and keep thee.
 > The Watcher make his face shine upon thee, and be gracious unto thee.
