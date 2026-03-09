@@ -23,4 +23,4 @@ tags:
 > > | Capital | [[Ferglund]] |
 > > | Leaders | [[Maul]], [[Jorgen]] |
 
-A mercenary company focused on raiding southern shores and all kinds of trade.
+A mercenary company focused on raiding southern shores and all kinds of trade. They are infamous for several raids in nearby countries.

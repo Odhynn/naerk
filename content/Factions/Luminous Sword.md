@@ -22,6 +22,8 @@ tags:
 > > | Foundation | 3127 |
 > > | Leader | ? |
 
+## Description and History
+
 [[Laerion]]'s order, also known as the Luminous Order, first appeared in [[Green Hills]] when the goblin attacks from [[Paraselt]] began in the year 3125. It was originally formed in [[Dargonast]], where it was embraced by a large portion of the town's population. Later, it was extended to other cities, such as [[Ostrabit]], where the highest authority of the priesthood and the order was transferred there.
 
 Not many months had passed, when an important dichotomy arose among the believers, which was to be decisive. With the first goblin attacks successfully repulsed, there was disagreement as to what the order's next steps should be.
@@ -33,3 +35,7 @@ This disagreement could not be bridged, despite various meetings and discussions
 Luminous Sword in later decades expanded in other countries too. It especially resonated in [[Sunshine]] because the knights there gained access to dragon steeds, which they mounted and flew, after the agreement of [[Nentha]] and the [[Dragonpact]]. With their flying dragons, they began patrolling the islands and the [[Misty Sea]], slaying bandits, pirates, criminals, as well as gnolls to the east of [[Karrokh]]. In recent years they even stopped [[Kambah]] expansions.
 
 The Luminous Sword, however, was not to be highly developed and massed in other regions. Today, there are headquarters in two other regions: [[Imtaria]] and northern [[Zolkar]]. It is characteristic, however, that Imtaria regards the Luminous Sword as overzealous fanatics who create trouble out of nowhere, even blaming them for [[Battle of the Gap|the defeat in the recent campaign at Paraselt]], for which they had an insignificant share of responsibility, given that they numbered two hundred warriors, that also sacrificed most of their number to allow other battalions to retreat in safety. Since then, there has been strong opposition in [[Palaurim]] over these issues and it is one of the reasons that [[Green Hills]] [[Green Hills: Focus Shift|seceded]] [[Palaurim]].
+
+## Emerald Cataphracts
+
+The Emerald Cataphracts are an elite legion of three mounted knight companies. They operate in [[Green Hills]], mostly near the borders of the north and south, where they are given land and resources. They are considered to be the first legion of the Luminous Sword.

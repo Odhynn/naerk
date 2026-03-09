@@ -29,3 +29,8 @@ An elite order formed to protect those crossing the [[Blackwoods]]. They have co
 ## Origins
 
 It is believed that originally many of the founding wardens belonged to a group called Leaf Rangers. The order was also formed by other [[Ghost War]] survivors and veterans.
+
+## Known Members
+
+-[[Aeluril]] the Archer.
+-[[Chandor]] the Stranger.
