@@ -21,4 +21,4 @@ tags:
 > > | appearance | black skin, 13' |
 > > | residence | [[Tarhelm]] |
 
-A troll warlord that fought in [[War of the Titan]] as a captain of [[Dumspergrond]]. He assaulted [[Ekteron]], personally leading his troll warriors and badly wounded [[Labelas Lionhead]].
+A troll warlord that fought in [[War of the Titan]] as a captain of [[Dumspergrond]]. He assaulted [[Ekteron]], personally leading his troll warriors and badly wounded [[Labelas Lionhead]]. It is believed his descendants are all over [[Tarhelm]].
