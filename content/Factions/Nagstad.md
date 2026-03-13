@@ -1,9 +1,6 @@
----
-title: Nagstad
-date: 2024-10-23
-author: sfakias
-tags:
 
+<<<<<<< HEAD
+=======
   - countries/Korhond
   - countries/Belgosreim
   - countries/Bjåglant
@@ -24,3 +21,5 @@ tags:
 > > | Leaders | [[Maul]], [[Jorgen]] |
 
 A mercenary company focused on raiding southern shores and all kinds of trade. They are infamous for several raids in nearby countries.
+
+>>>>>>> 0322582535c41afb9c2e3a9434d12acf014e46ce

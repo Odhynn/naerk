@@ -1,9 +1,6 @@
----
-title: Luminous Sword
-date: 2024-08-01
-author: sfakias
-tags:
 
+<<<<<<< HEAD
+=======
   -factions/Luminous Sword
   -factions/Luminous Order
   -countries/Green Hills
@@ -39,3 +36,4 @@ The Luminous Sword, however, was not to be highly developed and massed in other 
 ## Emerald Cataphracts
 
 The Emerald Cataphracts are an elite legion of three mounted knight companies. They operate in [[Green Hills]], mostly near the borders of the north and south, where they are given land and resources. They are considered to be the first legion of the Luminous Sword.
+>>>>>>> 0322582535c41afb9c2e3a9434d12acf014e46ce
