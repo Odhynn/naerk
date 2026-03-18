@@ -88,9 +88,9 @@ In an unfortunate turn of events borne of their parents' past always catching up
 
 Dinoksetijd's "treasure" survived, though they were subtly scarred by the event; it was this spell-scar that would eventually bind them to a singular purpose.
 They were:
-- Smolynx, son of Annwn, 163 years old[^3]
-- Rowena, daughter of Rhonwen and Smolynx, 17 years old
-- Gwynne, daughter of Shizu and Ullisson, 13 years old
+- Smolynx, son of Annwn†, 163 years old[^3]
+- Rowena, daughter of Rhonwen† and Smolynx, 17 years old
+- Gwynne, daughter of Shizu† and Ullisson†, 13 years old
 - Ulfwyr, son of Fjona and Arthwyr, 7 years old
 - Aileen, daughter of Sigrid and Angallyr, 4 years old
 - Bjonnyr, son of Fjona and Arthwyr, 2 years old

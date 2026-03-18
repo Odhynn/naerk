@@ -1,6 +1,6 @@
 ---
 title: Syr Gwynne
-subtitle: female human--angelkin knight
+subtitle: female human-angelkin knight
 date: 2025-04-09
 author: odysseas
 tags:
