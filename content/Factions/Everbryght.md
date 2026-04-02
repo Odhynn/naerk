@@ -129,7 +129,7 @@ The Everbryght all arrived in Naerk with nothing but a projection of their bodie
   For the next decade, Smolynx scoured Sennarin and Bjåglant for morghonljucht traces, became a prominent leader of the [[Circle of the Stag]] and worked with the Swordmaiden Serene's sisters, Lady Hime and Lady Sen of the Clans of Snow, to prepare for the arrival of the 5 children.
 - 4815, Spring
   Upon arrival, they spent a year and a half to acclimate and learn about Naerk.
-  - Gwynne served as an officer cadet in the [[Sennarii Griffon Cavalry|Griffon Cavalry of the Snow Clans]], eventually reaching the rank of Reserve Lance Lieutenant, and trained with the Knights Hospitaller in their newly established chapter house in Yoakyuuden.
+  - Gwynne served as an officer cadet in the [[Sennarii Griffon Cavalry|Griffon Cavalry of the Snow Clans]], eventually reaching the rank of Reserve Lance Lieutenant, and trained with the Knights Hospitaller in their newly established chapter house in Qillport.
   - Ulfwyr and Bjonnyr travelled to [[Bjåglant]] and [[North Darrok]] under the tutelage of Smolynx.
   - Aileen and Rowena, staff mages of the nerd and jock variety respectively[^7], were respectively tutored by Lady Sen and Lady Hime to adapt their arcane knowledge to vethian magic. The twin sisters of the Swordmaiden Serene themselves had made the exact same transition 25 years prior, under the tutelage of [[Gwarfhyvaax]].
 - 4816, Autumn

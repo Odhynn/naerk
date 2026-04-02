@@ -41,7 +41,7 @@ tags:
 ### Dwarven Clans
 
 - Clan Konungur
-- Clan Hammarstijn
+- Clan Hammarsteinn
 - Clan Ursenhaftur
 - Clan Emberbeard
 - Clan Borstellr
