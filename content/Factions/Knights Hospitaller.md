@@ -20,7 +20,7 @@ Traditionally, every knight names a trifecta of deities as their jury and guide 
 It arose in the late 46th century at the height of an era of profound change in [[Darrok]]. The carnage of the Almahri-Darroki conflicts culminating in the [[Bloodline War]] of 4535, compounded by the internal strife and the resultant [[Darroki Civil War]] of 4581, had laid waste to the population and thrown the humanitarian efforts of the official authorities into disarray. A network of emergent bands of hardened veterans, knights errant, clerics, and healers had made a name for themselves in protecting and soothing the common folk, eventually attracting foreign volunteers.
 Ultimately, official recognition and sponsorship by the fledgling Suddarroki state and the Imtarian empire coalesced into their formal establishment in the Queen's Hospital of [[Llykavann]] in 4583.
 
-## The Decade War[[Decade War of Arbader and South Darrok]]
+## The Decade War
 
 The beginnings of the order were fraught with turmoil even after that, as 6 year later during the Arbaderi invasion the half-fortified complex of the Queen's Hospital fell after a valiant defence to the last man, along with most of the city.
 The massacre at Llykavann sent waves of outrage throughout Darrok, bolstering the conviction of the remaining knights and the common folk alike. During the subsequent [[Decade War of Arbader and South Darrok]] (4589-4599), in which Llykavann was a focal point, the Knights Hospitaller rallied around mobile headquarters and attached themselves as supporting corps to Suddarroki Army battalions and contingents of the Knights of Sapurr. At its end, Llykavann and the Queen's Hospital was reclaimed.
