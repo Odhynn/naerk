@@ -23,7 +23,7 @@ Ultimately, official recognition and sponsorship by the fledgling Suddarroki sta
 ## The Decade War[[Decade War of Arbader and South Darrok]]
 
 The beginnings of the order were fraught with turmoil even after that, as 6 year later during the Arbaderi invasion the half-fortified complex of the Queen's Hospital fell after a valiant defence to the last man, along with most of the city.
-The massacre at Llykavann sent waves of outrage throughout Darrok, bolstering the conviction of the remaining knights and the common folk alike. During the subsequent [[Decade War]] (4589-4599), to which Llykavann was a focal point, the Knights Hospitaller rallied around mobile headquarters and attached themselves as supporting corps to Suddarroki Army battalions and contingents of the Knights of Sapurr. At its end, Llykavann and the Queen's Hospital was reclaimed.
+The massacre at Llykavann sent waves of outrage throughout Darrok, bolstering the conviction of the remaining knights and the common folk alike. During the subsequent [[Decade War of Arbader and South Darrok]] (4589-4599), in which Llykavann was a focal point, the Knights Hospitaller rallied around mobile headquarters and attached themselves as supporting corps to Suddarroki Army battalions and contingents of the Knights of Sapurr. At its end, Llykavann and the Queen's Hospital was reclaimed.
 
 ## International spread
 
@@ -31,9 +31,15 @@ After peace and stability in [[South Darrok]] had at long last been achieved, th
 
 Over the next two centuries, it established a number of chapters in the known world.
 The major ones, as of 4817, are:
-1. The Queen's Chapter, established since 4583 in Llykavann (South Darrok), led by Knight-Grandmaster Syr Yvette de Mont-Rouge
-2. The Bishop's Chapter, established since 4656 in Meertal (Imtaria), led by Knight-Master Sir Eric Myllers
-3. The Chapter of the North, established since 4719 in Krannårvikk (Fervolosh), led by Knight-Master Sir Olof Palmsson
-4. The Chapter of the South, established since 4744 in [[St. Qurin]] (Zelgerosh), led by Mother-Superior Benedita-Lúcia Frasende Apaciguadora de los Campos Áuricos
-5. The Chapter of the East, established since 4772 in [[Ostrabit]] (Greenhills), led by Knight-Commander Syr Hilde Lindenleaf
-6. The Chapter of the West, established since 4811 in Yoakyuuden (Sennarin), led by Knight-Captain Sir Haegar Hammarsteinn
+1. The **Queen's Chapter**, established since 4583 in Llykavann (South Darrok),
+led by Knight-Grandmaster Syr Yvette de Mont-Rouge.
+2. The **Bishop's Chapter**, established since 4656 in Meertal (Imtaria),
+led by Knight-Master Sir Eric Myllers.
+3. The **Chapter of the North**, established since 4719 in Krannårvikk (Fervolosh),
+led by Knight-Master Sir Olof Palmsson.
+4. The **Chapter of the South**, established since 4744 in [[St. Qurin]] (Zelgerosh),
+led by Mother-Superior Benedita-Lúcia Frasende Apaciguadora de los Campos Áuricos.
+5. The **Chapter of the East**, established since 4772 in [[Ostrabit]] (Greenhills),
+led by Knight-Commander Syr Hilde Lindenleaf.
+6. The **Chapter of the West**, established since 4811 in Yoakyuuden (Sennarin),
+led by Knight-Captain Sir Haegar Hammarsteinn.
