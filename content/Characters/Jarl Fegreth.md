@@ -22,4 +22,4 @@ tags:
 > > | weight | 151 lb. |
 > > | appearance | brown hair and beard, black eyes |
 
-The jarl that succeeded [[Jarl Forjod]] after his capture in [[Elestair]]. He was deemed nonworthy of the position and the burden of leadership.
+The jarl that succeeded [[Jarl Forjod]] after his capture in [[Elestair]]. He was deemed unworthy of the position and the burden of leadership.

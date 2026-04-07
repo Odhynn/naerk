@@ -21,4 +21,6 @@ tags:
 
 ## Story
 
-A loyal dragon of [[Dragonpact]], she clashed with [[Haldisoir]] during a [[Disputed Feast]].  She lost her eggs by thieves (including [[Droghor]]'s father and uncle) hired by [[Bloodscale]] cultists. The eggs were used for a ritual to empower some Wyrmspawn. She guarded a [[Solarium Rings|Solarium Ring]] in her lair at a mountain in [[South Watchers]] after [[Fildagar]]'s death, and eventually gave it to the [[Band of Blood and Brimstone]].
+As a young dragon, she roamed the plains of [[Oromil]] and discouraged aggressive warbands to attack local settlements. Soon, she grew a known and respected dragon in the area.
+
+A loyal dragon of [[Dragonpact]], she clashed with [[Haldisoir]] during a [[Disputed Feast]]. She lost her eggs by thieves (including [[Droghor]]'s father and uncle) hired by [[Bloodscale]] cultists. The eggs were used for a ritual to empower some Wyrmspawn. She guarded a [[Solarium Rings|Solarium Ring]] in her lair at a mountain in [[South Watchers]] after [[Fildagar]]'s death, and eventually gave it to the [[Band of Blood and Brimstone]].
