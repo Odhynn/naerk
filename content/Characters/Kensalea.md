@@ -22,4 +22,4 @@ tags:
 Founding dragon of [[Dragonpact]]
 Orc Patron
 
-An elder wyrm, nested in the shores of [[Paltenach]]. She is a legendary creature amongst orcs and is often worshipped as a god.
+An elder wyrm, nested in the shores of [[Paltenach]]. She is a legendary creature amongst orcs and is often worshipped as a god amongst the orcish tribes. It is believed she played a role in the forming of the [[Guldorom Horde]] and their invasion, though she was nowhere to be seen.
