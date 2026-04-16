@@ -1,5 +1,5 @@
 ---
-title: Smyt'th Herd
+title: Stormcrushers
 date: 2024-11-10
 author: sfakias
 tags:
@@ -22,5 +22,5 @@ These were:
 
 -[[Yøll]] Serok, a barbarian leader from [[Thimvert]].
 -[[Serafina]], a sorceress descendant of [[Fyrlean]] from [[Nargythe]].
--[[Angaeradh]], the Prophetess under the Mountain from [[Athalahr]].
+-[[Angaeradh]], the Prophetess under the Mountain from [[Athalaar]].
 -[[Ashiro]], the legendary leader of [[Oventhart]].

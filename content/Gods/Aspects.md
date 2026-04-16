@@ -30,3 +30,5 @@ The Aspects are:
 - [[Jalerk]], the Endless Sea
 - [[Mormankar]], the Diligent Beaver
 - [[Lastra]], the Unstoppable Hunt
+
+It is believed many more aspects exist, yet their followers and appearances are relative rare.
