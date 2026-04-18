@@ -25,6 +25,10 @@ Nightmares tend to change forms, depending on the dreams of fireflies. But they 
 
 Many creatures who have traveled for a long time in the Dreamworld are often unable to define its beginning and end. Having spent so much time there, it is very easy for anyone to go crazy and lose that dividing line between reality and dream.
 
+## Prophecy
+
+Somewhere within Dreamworld lies the power of Fate. It takes shape of future events that shape the reality of a specific part of the plane, accessible only to the most powerful firefly instances within. The [[Norns]], [[Angaeradh]] and the [[Oracle]] are some that are able to grasp these future visions, however they are usually uncertain and blurry, especially regarding events in the distant future or specific details. The power of prophecy has shaped several important events, and it is believed that sometimes, a manifestation of [[Hozetul]] is what forms these events and is believed to be the force behind Fate. However, this is just a speculation by most scolars.
+
 ## [[Twalar]]
 
 When Voolthow abused his friendship to [[Hozetul]] and sent his minions to infiltrate the Dreamworld, several nightmares resisted his influence. These attacks were unexpectedly successful because they specifically targeted only those who interfered with the unwritten rules of not meddling with the physical and spiritual state of the dreamers. Then, the more cowardly, found it in their best interest to ally with the nightmares, as they would escape Voolthow's control. And this alliance was called [[Twalar]]. Their results were multiplicative, as each invader they destroyed saved hundreds of mortals from their torment, and the more mortals Voolthow lost, the harder it was for him to invade the Dreamworld.
