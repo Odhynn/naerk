@@ -27,7 +27,7 @@ Many creatures who have traveled for a long time in the Dreamworld are often una
 
 ## Prophecy
 
-Somewhere within Dreamworld lies the power of Fate. It takes shape of future events that shape the reality of a specific part of the plane, accessible only to the most powerful firefly instances within. The [[Norns]], [[Angaeradh]] and the [[Oracle]] are some that are able to grasp these future visions, however they are usually uncertain and blurry, especially regarding events in the distant future or specific details. The power of prophecy has shaped several important events, and it is believed that sometimes, a manifestation of [[Hozetul]] is what forms these events and is believed to be the force behind Fate. However, this is just a speculation by most scolars.
+Somewhere within Dreamworld lies the power of Fate. It takes shape of future events that form the reality of a specific part of the plane, accessible only to the most powerful firefly instances within. The [[Norns]], [[Angaeradh]], the [[Oracle]], some witches and hags are among those individuals that are able to grasp these future visions. These visions are usually uncertain and blurry, especially regarding events in the distant future or specific details. The power of prophecy has shaped several important events, and it is believed that sometimes, a manifestation of [[Hozetul]] is what forms these events and thus believed to be the force behind Fate. However, this is just a speculation by most scolars. Nonetheless, these fortune tellers are revered and respected by most common folk.
 
 ## [[Twalar]]
 
