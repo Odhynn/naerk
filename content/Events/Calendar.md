@@ -21,10 +21,7 @@ Initially, solstices and equinoctes were not included in the months, but for the
 11. Leafdrop (30 days) (a'Disiklek)
 12. Graymist (30 days) (Amehann)
 
-## Blood Moon
-
-The solar cycle of Naerk however is slightly longer than 364 days, leading to a shift in accuracy regarding the solstices and equinoctes. To offset this, sages established the introduction of 25 leap days in Leafdrop upon every 20-year cycle, to tie in with the same uncannily periodic alignment of [[Qusm]] and [[Veth]].
-That cosmological phenomenon, known as the Blood Moon, was last observed from 31 to 55 Leafdrop, 4816; its next occurence will likewise be from 31 to 55 Leafdrop, 4836.
+![[Blood Moon]]
 
 ## Other conventions
 
