@@ -15,4 +15,4 @@ original material: [Naerk Blogspot](http://aclashofstoneandsteel.blogspot.com/)
 
 <a href="https://odhynn.github.io/naerk/campaign-notes-ody.html" target="_blank">Campaign Notes</a>
 
-[Session Calendar Map](https://odhynn.github.io/naerk/session-calendar.html)
+[Session Calendar Map](https://odhynn.github.io/naerk/session_calendar_yearly.html)
