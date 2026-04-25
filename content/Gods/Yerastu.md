@@ -19,7 +19,7 @@ tags:
 > > | Category | - |
 > > | Edicts | Respect the Circle of Life, Do not disturb time and space, Protect the souls of the dead |
 > > | Portfolio | Vigilance, Judgement of the dead, Punish those who threaten Material Plane |
-> > | Anathema | Raise Undead, Break time or space, Steal soul |
+> > | Anathema | Raise Undead, Break time or space, Soul stealing, disrespect lawful authorities, spread lies |
 > > | Followers | Pilgrims, Guardians, Sages, [[Baelarch]], [[Gatewatch]], [[Sapphire Guard]] |
 > > | Pantheon | [[The Just]] |
 > > | Plane | [[Tailway]], [[Fortress of the Just]] |
