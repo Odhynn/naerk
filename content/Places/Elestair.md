@@ -65,7 +65,7 @@ The city itself is rife with historical layers, spreading out from its center in
 # Places
 ## Agora
 
-The Zolkarsdawn Agora is a fortified mercantile building complex on a rocky outcropping at the shoreline of Elestair, comprised of open spaces, covered stoae, and the **Lakenhalle**, a great cloth hall,.
+The Zolkarsdawn Agora (commonly "Agora" when a distinction from the inner-city Meeuwkanal Agora need not be made) is a fortified mercantile building complex on a rocky outcropping at the shoreline of Elestair, comprised of open spaces, covered stoae, and a great cloth hall. is a fortified mercantile building complex on a rocky outcropping at the shoreline of Elestair, comprised of open spaces, covered stoae, and the **Lakenhalle**, a great cloth hall,.
 It was previously called the **Old Agora**, built c. 31st century and fallen into disrepair before eventually being restored c. 46th century to accomodate the bustling trade through the Zolkarsdawn Gulf.
 Before 4817, one might cross into the market through walled gateway of the **Propylaea** and discover a wide variety of goods, from stalls selling Syvhorman fruit to platforms auctioning off Kharrokhi slaves.
 Under the corridors of the cloth hall are entrances leading to the underground tunnels of Elestair.
