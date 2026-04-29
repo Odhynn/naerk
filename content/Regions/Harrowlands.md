@@ -29,7 +29,13 @@ A roiling, ghostly-cyan glowing fog that seeps through the darkest depths of the
 >
 > While it is itself a curse, it functions mechanically more like a disease, and as such features both of these affliction traits. As long as the curse persists, a creature cannot recover from the disease, and removing the curse does not automatically remove the disease element of the affliction. Both elements must be dealt with individually before a victim suffering from Harrowlands taint is safe.
 > 
-> **Stage 1** no ill effects, but the taint is detectable with a DC 30 Medicine or Occultism check; **Stage 2** troubled sleep (1 day) (`Fatigued`, `Drained 1`); **Stage 3** eyes begin to glow with an etheral cyan glow, gradual loss of interest in material things (1 day) (`Fatigued`, `Drained 2`, `Stupefied 2`); **Stage 4** cyan glowing patches appear on body and veins, shortness of breath, light-headedness (8 hours) (`Fatigued`, `Drained 3`, `Doomed 1`, `Enfeebled 3`, `Stupefied 3`); **Stage 5** insanity, glowing ectoplasm, diarrhea/vomitting (1 hour) (`Drained 4`, `Doomed 2`, `Sickened 4`, `Confused`); **Stage 6** death; **Special** a creature that dies from the Harrowing Curse reanimates 8 hours later as a *Harrowed Thrall*, a writhing lifeless husk of its past self
+> **Stage 1** no ill effects, but the taint is detectable with a DC 30 Medicine or Occultism check;
+> **Stage 2** troubled sleep (1 day) ( `Fatigued`, `Drained 1` );
+> **Stage 3** eyes begin to glow with an etheral cyan glow, gradual loss of interest in material things (1 day) ( `Fatigued`, `Drained 2`, `Stupefied 2` );
+> **Stage 4** cyan glowing patches appear on body and veins, shortness of breath, light-headedness (8 hours) ( `Fatigued`, `Drained 3`, `Doomed 1`, `Enfeebled 3`, `Stupefied 3` ); 
+> **Stage 5** insanity, glowing ectoplasm, diarrhea/vomitting (1 hour) ( `Drained 4`, `Doomed 2`, `Sickened 4`, `Confused` );
+> **Stage 6** death;
+> **Special** a creature that dies from the Harrowing Curse reanimates 8 hours later as a *Harrowed Thrall*, a writhing lifeless husk of its past self
 
 The origins of the Harrowmist are unclear, but the most common hypothesis is that it rises out of a conjuction of the Shadow and Void planes. If true, this would indicate that the ethereal veil was not only torn on the Material side during the events of the Harrowing. It would also explain why both undead and aberrations are not affected by the Harrowing Curse, while other creatures of the outer planes could still victim to it, even if they are more resistant to becoming harrowed thralls than creatures of the material plane.
 The only living creatures immune to the Harrowing Curse are the time oracle [[Angaeradh]] and the time dragon [[Qosvahriin]], who stood at the very epicenter of the Harrowing when the veil tore.
@@ -37,7 +43,7 @@ The only living creatures immune to the Harrowing Curse are the time oracle [[An
 There stand no records of the Harrowing Curse being removed until 4817.
 While treating afflicted members of the [[Selanaari Expeditions#Second Expedition, 30-54 Leafdrop 4816|2nd Sennarii Expeditions to Selanaar]], paragons of [[Utopia]] managed to find a way to keep the taint mostly dormant in Stage 1; whenever it would break containment and progress, the victim would have to be whisked back to Utopia for treatment.
 
-During the [[Battle of Clegonai]], [[Harr'hundun]] unexpectedly appeared, far from the Harrowlands, and absorbed the curse within [[Wo Cho]], removing it from the monk and somehow strengthening himself. 
+During the [[Battle of Clegonai]], [[Harr'hundun]] unexpectedly appeared, far from the Harrowlands, and absorbed the curse within [[Wo Cho]], removing it from the monk and apparently strengthening himself; the exact benefit to the Haruspex and the danger this event poses has not been determined yet. 
 
 ## Melee a trois
 Ever since the containment of the Harrowing, the Harrowlands have been the battleground of a constant three-way struggle between

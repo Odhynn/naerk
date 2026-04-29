@@ -60,6 +60,7 @@ The art and culture of these people is eerily similar to that of old Selanaar. H
 
 ![[../img/Athalahr.jpg]]
 
+
 [^1]: The confidential research document "Survey of the _Menhir_ network in the Eastern Selanaari Peninsula" ([[Aileen|Rosewood]] and [[Lindiwe|Ap Lwgh]], 4818; access restricted by Sennarii authorities) has noted the existence of standing stones among possible archaeological sites scouted during the [[Selanaari Expeditions#Second Expedition, 30-54 Leafdrop 4816|4816 Sennari expedition in Selanaar]], that are similarly carved in a crude humanoid shape. The authors posit from magical evidence collected on the field that those were once _maenhir_ but were defaced post-Harrowing by goblins too ignorant to understand the ramifications of picking at the only thing keeping the horrors at bay. The _maenhir_ that did remain active after such reverent goblin art expression, still protect goblin villages in Harrowmist-free pockets within the Harrowlands to this day.
 
 [^2]: Besides the goblins, association of the _maenhir_ with Angaeradh is also evident in the rest of the Athalaari cultures that survived the Harrowing, as indicated by linguistic evidence such as _"Hangradh's Wall"_ and _"Gowanëh:gotgö-Maniit"_ (Athar for "great witch spirit stone").
