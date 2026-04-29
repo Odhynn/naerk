@@ -29,10 +29,10 @@ A roiling, ghostly-cyan glowing fog that seeps through the darkest depths of the
 >
 > While it is itself a curse, it functions mechanically more like a disease, and as such features both of these affliction traits. As long as the curse persists, a creature cannot recover from the disease, and removing the curse does not automatically remove the disease element of the affliction. Both elements must be dealt with individually before a victim suffering from Harrowlands taint is safe.
 > 
-> **Stage 1** no ill effects, but the taint is detectable with a DC 30 Medicine or Occultism check;
+> **Stage 1** no ill effects, but the taint can be detected after 8 hours with a DC 34 Medicine or Occultism check;
 > **Stage 2** troubled sleep (1 day) ( `Fatigued`, `Drained 1` );
 > **Stage 3** eyes begin to glow with an etheral cyan glow, gradual loss of interest in material things (1 day) ( `Fatigued`, `Drained 2`, `Stupefied 2` );
-> **Stage 4** cyan glowing patches appear on body and veins, shortness of breath, light-headedness (8 hours) ( `Fatigued`, `Drained 3`, `Doomed 1`, `Enfeebled 3`, `Stupefied 3` ); 
+> **Stage 4** cyan glowing patches appear on body and veins, shortness of breath, light-headedness (8 hours) ( `Drained 3`, `Doomed 1`, `Enfeebled 2`, `Stupefied 3` ); 
 > **Stage 5** insanity, glowing ectoplasm, diarrhea/vomitting (1 hour) ( `Drained 4`, `Doomed 2`, `Sickened 4`, `Confused` );
 > **Stage 6** death;
 > **Special** a creature that dies from the Harrowing Curse reanimates 8 hours later as a *Harrowed Thrall*, a writhing lifeless husk of its past self
