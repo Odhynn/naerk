@@ -30,6 +30,6 @@ The only record by contemporary Imtarian merchants was one local rumor that "the
 As the dwarves subsequently found themselves at the helm of the kingdom of Selanaar for the next 1500 years, the elves gradually disappeared from the spotlight.
 
 In the wake of the Winter's War, in the early 3260s, Selanaar suddenly stopped interacting with the Northern Lands. The seas around Athalaar began to rage unceasingly.
-Ships attempting to sail beyond the archipelago of Alagon to see what became of Athalaar would never return, while the isles' inhabitants themselves (largely made up of pirate states) told apocalyptic tales of its fate. The second internal crisis of Selanahr must have been an extinction event that wiped it off the cultural map
-and created the Harrowlands.
+Ships attempting to sail beyond the archipelago of Alagon to see what became of Athalaar would never return, while the isles' inhabitants themselves (largely made up of pirate states) told apocalyptic tales of its fate. As far as the rest of the world was, the second internal crisis of Selanahr must have been an extinction event that wiped it off the cultural map and created the [[Harrowlands]].
 
+Within the now haunted continent, what had occured was hence known as the [[Harrowing]].
