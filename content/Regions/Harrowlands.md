@@ -14,7 +14,7 @@ They were created by the disaster known as "the [[Harrowing]]" in 3260, and are 
 ## The Harrowmist
 A roiling, ghostly-cyan glowing fog that seeps through the darkest depths of the ethereal planes and corrupts living creatures it engulfs, the Harrowmist animates eerily, as if alive and eager to reap the vital essence of its victims.
 
-> [!note] Harrowmist — Hazard 22 (PF2e implementation)
+> [!note] Harrowmist Hazard 22 — PF2e implementation
 > **Traits** simple, environmental, haunt
 > **Disable** DC 44 Survival (legendary) to predict and navigate through slim corridors of less dense mist.
 >
@@ -31,6 +31,9 @@ A roiling, ghostly-cyan glowing fog that seeps through the darkest depths of the
 > 
 > **Stage 1** no ill effects, but the taint is detectable with a DC 30 Medicine or Occultism check; **Stage 2** troubled sleep (1 day) (`Fatigued`, `Drained 1`); **Stage 3** eyes begin to glow with an etheral cyan glow, gradual loss of interest in material things (1 day) (`Fatigued`, `Drained 2`, `Stupefied 2`); **Stage 4** cyan glowing patches appear on body and veins, shortness of breath, light-headedness (8 hours) (`Fatigued`, `Drained 3`, `Doomed 1`, `Enfeebled 3`, `Stupefied 3`); **Stage 5** insanity, glowing ectoplasm, diarrhea/vomitting (1 hour) (`Drained 4`, `Doomed 2`, `Sickened 4`, `Confused`); **Stage 6** death; **Special** a creature that dies from the Harrowing Curse reanimates 8 hours later as a *Harrowed Thrall*, a writhing lifeless husk of its past self
 
+The origins of the Harrowmist are unclear, but the most common hypothesis is that it rises out of a conjuction of the Shadow and Void planes. If true, this would indicate that the ethereal veil was not only torn on the Material side during the events of the Harrowing. It would also explain why both undead and aberrations are not affected by the Harrowing Curse, while other creatures of the outer planes could still victim to it, even if they are more resistant to becoming harrowed thralls than creatures of the material plane.
+The only living creatures immune to the Harrowing Curse are the time oracle [[Angaeradh]] and the time dragon [[Qosvahriin]], who stood at the very epicenter of the Harrowing when the veil tore.
+
 There stand no records of the Harrowing Curse being removed until 4817.
 While treating afflicted members of the [[Selanaari Expeditions#Second Expedition, 30-54 Leafdrop 4816|2nd Sennarii Expeditions to Selanaar]], paragons of [[Utopia]] managed to find a way to keep the taint mostly dormant in Stage 1; whenever it would break containment and progress, the victim would have to be whisked back to Utopia for treatment.
 
@@ -39,12 +42,16 @@ During the [[Battle of Clegonai]], [[Harr'hundun]] unexpectedly appeared, far fr
 ## Melee a trois
 Ever since the containment of the Harrowing, the Harrowlands have been the battleground of a constant three-way struggle between
 1. [[Angaeradh]], the Haruspex of [[Yerastu]], leading the **Chosen** in the interests of the [[Material Plane]]
-2. [[Szaulthov]], the Haruspex of [[Voolthow]], leading the **Unliving** in the interests of the [[Shadow Plane]]
-3. [[Harr-hundun]], the Haruspex of [[Yast]], leading the **Abhorrent** in the interests of the [[Void]] Plane
+2. [[Szaulthov]], the Haruspex of [[Voolthow]], leading the hordes of the undead in the interests of the [[Shadow Plane]]
+3. [[Harr-hundun]], the Haruspex of [[Yast]], leading the hordes of the eldritch in the interests of the [[Void]] Plane
 
-The ranks of the Chosen, the Unliving, and the Abhorrent consist mostly of harrowed thralls whose souls have been bound in the service of the respective Haruspices.
-1. In the case of the Chosen, their souls are conscripted into service by divine decree.
-2. In the case of the Unliving, their souls are broken and trapped within their remains by necromantic power.
-3. In the case of the Abhorrent, their souls are grafted onto new twisted bodies by unspeakable ritual. 
 
-Given their link to the Harrowing Curse, neither the Chosen nor the Unliving nor the Abhorrent can remain standing beyond the Harrowlands, and in that sense differ from typical undead or aberrant creatures.
+### The Chosen
+The ranks of the Horror Hordes, apart from undead and aberrations crossing over the ethereal veil, can also swell by harrowed thralls leveraged and bound into service by the Haruspices of Voolthow and Yast respectively.
+
+To combat the endless supply of foes, the divine forces of the Material Plane sanctioned the creation of the Chosen: warriors slain in the Harrowlands whose souls are conscripted into service by divine decree before the Harrowing Curse can claim them. Not technically living, these creatures can rise again and again as needed to fight against the tide of the Horror Hordes, unaffected by the Harrowing Curse.
+
+The Chosen were originally the elite dwarven guard of the Prophetess Under the Mountain, who were sentenced to this eternal service by Yerastu, much like Angaeradh was. Though the exact process is different, closer to resurrection than necromancy, the Chosen are still defined by many of the characteristics of the unliving, which would arguably make them the only case of sanctioned undead. Only Angaeradh can raise additional Chosen from those slain within Athalaar, though opportunities for this are sparse; this would similarly, arguably make her the only sanctioned necromancer[^1].
+In rare cases, a Chosen can be honourably discharged from duty and allowed to pass on to the afterlife. This is done in moderation, so as not to overly deplete the ranks of the guardians of the realm.
+
+[^1]: The bone ship _Flying Finman_ and its literal skeleton crew would be another allusion to this. They are not confined to the Harrowlands like the Chosen, but serve at Angaeradh's behest. It is thus unclear whether they too are Chosen or regular undead that, by extension, serve Yerastu instead of Voolthow.
