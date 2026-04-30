@@ -54,10 +54,19 @@ Ever since the containment of the Harrowing, the Harrowlands have been the battl
 
 ### The Chosen
 The ranks of the Horror Hordes, apart from undead and aberrations crossing over the ethereal veil, can also swell by harrowed thralls leveraged and bound into service by the Haruspices of Voolthow and Yast respectively.
+When Harr'hundun raises a harrowed thrall, it devolves into a gibbering aberration. When Szaulthov raises a harrowed thrall, it commonly rises as a mindless undead.
 
-To combat the endless supply of foes, the divine forces of the Material Plane sanctioned the creation of the Chosen: warriors slain in the Harrowlands whose souls are conscripted into service by divine decree before the Harrowing Curse can claim them. Not technically living, these creatures can rise again and again as needed to fight against the tide of the Horror Hordes, unaffected by the Harrowing Curse.
+To combat the endless supply of such foes, the divine forces of the Material Plane sanctioned the creation of the Chosen: creatures slain in the Harrowlands whose souls are conscripted into service by divine decree before the Harrowing Curse can claim them. 
 
-The Chosen were originally the elite dwarven guard of the Prophetess Under the Mountain, who were sentenced to this eternal service by Yerastu, much like Angaeradh was. Though the exact process is different, closer to resurrection than necromancy, the Chosen are still defined by many of the characteristics of the unliving, which would arguably make them the only case of sanctioned undead. Only Angaeradh can raise additional Chosen from those slain within Athalaar, though opportunities for this are sparse; this would similarly, arguably make her the only sanctioned necromancer[^1].
+These reanimated warriors share most of the characteristics of the undead, but are technically neither dead nor living. As such, they are neither affected by the Harrowing Curse nor are they destroyed upon the failure of their physical form, and can rise again and again as needed to fight against the tide of the Horror Hordes.
+They eat and drink, but out of habit. They breathe, but can go for many minutes without needing to. They sleep, but can sleep for years. Their existence of eternal duty is to them more akin to a dream (a possible manifestation of the Dreamscape part of the Ether).
+
+Only Angaeradh can raise additional Chosen from those slain within Athalaar, though opportunities for this are sparse. The exact raising process is closer to resurrection than reanimation, and the soul experiences it as a military draft rather than abduction and torture.[^1].
+
 In rare cases, a Chosen can be honourably discharged from duty and allowed to pass on to the afterlife. This is done in moderation, so as not to overly deplete the ranks of the guardians of the realm.
 
-[^1]: The bone ship _Flying Finman_ and its literal skeleton crew would be another allusion to this. They are not confined to the Harrowlands like the Chosen, but serve at Angaeradh's behest. It is thus unclear whether they too are Chosen or regular undead that, by extension, serve Yerastu instead of Voolthow.
+[^1]: Before becoming the Prophetess Under the Mountain, Angaeradh was dabbling in necromancy herself, and in possession of the _Hand of Voolthow_ since the Winter's War. [[Arothal]] the Distant has mused that the creation of the Chosen played to her strengths in a manner permissible within the tenets of Yerastu; this would make them the only sanctioned undead, and her the only sanctioned necromancer.
+The bone ship _Flying Finman_ and its literal skeleton crew stand as another clue to this: they are not confined to the Harrowlands like the Chosen, but serve at Angaeradh's behest. It is thus unclear whether they too are Chosen or regular undead that, by extension, ironically serve Yerastu instead of Voolthow.
+
+[^2]: The Chosen were originally the elite dwarven guard of the Prophetess Under the Mountain, who were sentenced to this eternal service by Yerastu, much like Angaeradh was.
+
