@@ -42,6 +42,8 @@ The lord of the Shadow plane, Voolthow, had his own powers, the so-called veil o
 
 Voolthow at the same time, gained strength by feeding on various emotions. Every emotion of fear, sadness, or hatred uses it to increase its influence, and an experienced subject can harness it to gain strength. Voolthow has now changed his views, and does not wish for the destruction of the Material plane. He believes that if his essence and his creatures can master it, it will be an inexhaustible source of power and authority. Most of his subordinates are of course divided on this question, with some having completely different approaches.
 
+The Lord of Shadows uses several motivations to corrupt and gain power. It is usually ambition and revenge found in powerful mortals that cause them to join the undead. He has numerous servants, powerful dark beings that spread his influence in the Material Plane.
+
 ## History
 
 Among his first and most cunning machinations, was when Voolthow gave [[Vaelasil]], the orb of darkness to [[King Erlamin]] in order to corrupt the [[Edhellin]]. He recognised the terrifying and potentially infinite capacity for continuous evolution of the Edhellin civilization and wanted to exploit their power. The kings' magical ability scared [[Voolthow]], as he believed that in a millenia, he could even pose a danger to the power of the gods. So he took the initiative to give him the magic orb, which in addition to unlimited power, gave its owner arrogance and corruption, concepts that the ancient elven language didn't even have words for to be able to interpret. Within a century, warmongering and hierarchy struggles started the demise of the elves.

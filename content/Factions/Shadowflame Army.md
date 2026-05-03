@@ -21,3 +21,5 @@ tags:
 > > | Leader | prince [[Talkeri]] Shadowflame |
 
 Voolthow took the dead warriors of [[Zulhan]] in the civil war as a sacrifice from prince [[Talkeri]] in order to grant him immortality. Shadow magic spread across the destroyed empire and raised everyone as undead.
+
+This army advances from western [[Allwick]] towards [[Marelthia]] plains. It is impossible to determine their complete numbers or the burrows they rise from.
