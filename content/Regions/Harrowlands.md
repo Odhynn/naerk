@@ -14,7 +14,7 @@ They were created by the disaster known as "the [[Harrowing]]" in 3260, and are 
 ## The Harrowmist
 A roiling, ghostly-cyan glowing fog that seeps through the darkest depths of the ethereal planes and corrupts living creatures it engulfs, the Harrowmist animates eerily, as if alive and eager to reap the vital essence of its victims.
 
-> [!note] Harrowmist Hazard 22 — PF2e implementation
+> [!note] the Harrowmist (Hazard 22) — `PF2e`
 > **Traits** simple, environmental, haunt
 > **Disable** DC 44 Survival (legendary) to predict and navigate through slim corridors of less dense mist.
 >
@@ -29,11 +29,16 @@ A roiling, ghostly-cyan glowing fog that seeps through the darkest depths of the
 >
 > While it is itself a curse, it functions mechanically more like a disease, and as such features both of these affliction traits. As long as the curse persists, a creature cannot recover from the disease, and removing the curse does not automatically remove the disease element of the affliction. Both elements must be dealt with individually before a victim suffering from Harrowlands taint is safe.
 > 
-> **Stage 1** no ill effects, but the taint can be detected after 8 hours with a DC 34 Medicine or Occultism check;
-> **Stage 2** troubled sleep (1 day) ( `Fatigued`, `Drained 1` );
-> **Stage 3** eyes begin to glow with an etheral cyan glow, gradual loss of interest in material things (1 day) ( `Fatigued`, `Drained 2`, `Stupefied 2` );
-> **Stage 4** cyan glowing patches appear on body and veins, shortness of breath, light-headedness (8 hours) ( `Drained 3`, `Doomed 1`, `Enfeebled 2`, `Stupefied 3` ); 
-> **Stage 5** insanity, glowing ectoplasm, diarrhea/vomitting (1 hour) ( `Drained 4`, `Doomed 2`, `Sickened 4`, `Confused` );
+> **Stage 1** no ill effects, but the taint can be detected after 8 hours
+> _(Medicine or Occultism check at the same DC);_
+> **Stage 2** troubled sleep (1 day);
+> _(Fatigued, Drained 1);_
+> **Stage 3** eyes begin to glow with an etheral cyan glow, gradual loss of interest in material things (1 day); 
+> _(Fatigued, Drained 2, Stupefied 2);_
+> **Stage 4** cyan glowing patches appear on body and veins, shortness of breath, light-headedness (8 hours); 
+> _(Drained 3, Doomed 1, Enfeebled 2, Stupefied 3);_
+> **Stage 5** insanity, glowing ectoplasm, diarrhea/vomitting (1 hour);
+> _(Drained 4, Doomed 2, Sickened 4, Confused);_
 > **Stage 6** death;
 > **Special** a creature that dies from the Harrowing Curse reanimates 8 hours later as a *Harrowed Thrall*, a writhing lifeless husk of its past self
 
@@ -49,12 +54,12 @@ During the [[Battle of Clegonai]], [[Harr'hundun]] unexpectedly appeared, far fr
 Ever since the containment of the Harrowing, the Harrowlands have been the battleground of a constant three-way struggle between
 1. [[Angaeradh]], the Haruspex of [[Yerastu]], leading the **Chosen** in the interests of the [[Material Plane]]
 2. [[Szaulthov]], the Haruspex of [[Voolthow]], leading the hordes of the undead in the interests of the [[Shadow Plane]]
-3. [[Harr-hundun]], the Haruspex of [[Yast]], leading the hordes of the eldritch in the interests of the [[Void]] Plane
+3. [[Harhundun]], the Haruspex of [[Yast]], leading the hordes of the eldritch in the interests of the [[Void]] Plane
 
 
 ### The Chosen
 The ranks of the Horror Hordes, apart from undead and aberrations crossing over the ethereal veil, can also swell by harrowed thralls leveraged and bound into service by the Haruspices of Voolthow and Yast respectively.
-When Harr'hundun raises a harrowed thrall, it devolves into a gibbering aberration. When Szaulthov raises a harrowed thrall, it commonly rises as a mindless undead.
+When Harhundun raises a harrowed thrall, it devolves into a gibbering aberration. When Szaulthov raises a harrowed thrall, it commonly rises as a mindless undead.
 
 To combat the endless supply of such foes, the divine forces of the Material Plane sanctioned the creation of the Chosen: creatures slain in the Harrowlands whose souls are conscripted into service by divine decree before the Harrowing Curse can claim them. 
 
