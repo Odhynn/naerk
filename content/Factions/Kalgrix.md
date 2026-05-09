@@ -15,4 +15,4 @@ tags:
 > > | Region | north [[Allwick]] |
 > > | Leader | ? |
 
-A remote tribe living in northern [[Allwick]]. Very difficult to find as they make their settlements hidden within the desert.
+A remote tribe living in northern [[Allwick]]. Very difficult to find as they make their settlements hidden underground in the desert.

@@ -17,4 +17,4 @@ tags:
 > > | Religions | [[Voolthow]], [[Neverborn]], [[Yushan]], [[Steenar]], [[Sennek]] |
 > > | Location | [[Whistor]] |
 
-A city port in central [[Whistor]] that faced recently [[The Blackthroat Disease]]. It is a protectorate of Duke [[Naldar]], however a most unruly one.
+A city port in central [[Whistor]] that faced recently [[The Blackthroat Disease]]. It is a protectorate of Duke [[Naldar]], however a most unruly one. It is presently ruled by his daughter, Lady [[Anyssa]] and her husband, baron [[Stephan]]. In the recent pirate invasion, several pirates were hanged to send a message that piracy is not tolerable.

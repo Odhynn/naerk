@@ -10,4 +10,4 @@ tags:
   - planes/Zinctizuctra
 ---
 
-The children of [[Veth]] that survived his destruction and lived on. Mysterious and unpredictable creatures with many arcane abilities, they are not to be underestimated.
+The children of [[Veth]] that survived his destruction and lived on. Mysterious and unpredictable creatures with many arcane abilities, they are not to be underestimated. They change form often and even their beliefs seem to alter from time to time.

@@ -17,4 +17,4 @@ tags:
 > > | Religions | [[B'tolen]], [[Laerion]], [[Valanshore]], [[Saekla]] |
 > > | Location | south [[Tithlon]] |
 
-The capital of [[Tithlon]] and a big southern port. The city contains many exiles, outcasts and renegades and is prone to monstrous attacks from [[Paraselt]].
+The capital of [[Tithlon]] and a big southern port. The city contains many exiles, outcasts and renegades and is prone to monstrous attacks from [[Paraselt]]. The city, even though it is a cultural center in the region, is filled with spies from [[Magma Star]].

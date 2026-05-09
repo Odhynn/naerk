@@ -15,4 +15,4 @@ tags:
 > > | Region | south of [[Blackwoods]], northwest [[Allwick]] |
 > > | Leader | ? |
 
-A peaceful tribe living in northwestern Allwick, eager to trade with passing caravans.
+A peaceful tribe living in northwestern Allwick, eager to trade with passing caravans. They are famous for their valuable gemstones.
