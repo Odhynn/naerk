@@ -16,7 +16,7 @@ The earliest records of Athalaar originate from the prehistoric times when the e
 There had been a draconic name for these foggy lands, which was unfortunately not preserved in the limited literary sources of that age, and the few dragons who remember it still are silent on the matter.
 
 ### Eltirion
-It was the elven sages and mages of old that first investigated Athalaar's peculiar ties with the moon, namely the older one of the globe's satellites known as [[Qusm]] or Cosmodrome.
+It was the elven sages and mages of old that first investigated Athalaar's peculiar ties with the moon, namely the older one of the globe's satellites known as [[Qusm]] or the Cosmodrome.
 It is so far unknown when exactly Eltirion (translating to "Tower of Stars") was constructed in the highest mountains at the center of the continent, but a decent estimation would be between -2000 to -1600.
 The observatory-palatial complex set up there by the elves acted as a projection focus point to the Cosmodrome in such a way that it functioned as a gateway to other worlds.
 

@@ -21,14 +21,15 @@ Initially, solstices and equinoctes were not included in the months, but for the
 11. Leafdrop (30 days) (a'Disiklek)
 12. Graymist (30 days) (Amehann)
 
-![[Blood Moon]]
+The solar cycle of Naerk is slightly longer than 364 days, leading to a shift in accuracy regarding the solstices and equinoctes.
+To offset this, sages established the introduction of 25 leap days in Leafdrop upon every 20-year cycle, to tie in with the same uncannily periodic alignment of [[Qusm]] and [[Veth]].
+This is called the [[Blood Moon]], and lasts from 31 to 55 Leafdrop every 20th year (last one being 4816).
 
 ## Other conventions
 
-In some regions mostly inhabited by barbarians and nomads, time is reckoned by more empirical metrics instead, as in with seasons in the North (Fallas = winter, Volont = spring,
-Perlon = summer, Livdash = autumn) or lunar cycles in the Athar Grounds.
+In some regions mostly inhabited by barbarians and nomads, time is reckoned by more empirical metrics instead, as in with seasons in the North (Fallas = winter, Volont = spring, Perlon = summer, Livdash = autumn) or lunar cycles in the Athar Grounds.
 
-A typical 7 day week includes 6 working days and 1 resting day.
+<!-- A typical 7 day week includes 6 working days and 1 resting day. -->
 
 
 ####  Festivals

@@ -5,8 +5,12 @@ author: odysseas
 tags:
 ---
 
-## the Blood Moon
+The cosmological phenomenon known as the Blood Moon derives from a conjunction between [[Qusm]] and [[Veth]], during which the surface of the former appears red for days on end, with the effects not limited to a lunar eclipse.
 
-The solar cycle of Naerk however is slightly longer than 364 days, leading to a shift in accuracy regarding the solstices and equinoctes. To offset this, sages established the introduction of 25 leap days in Leafdrop upon every 20-year cycle, to tie in with the same uncannily periodic alignment of [[Qusm]] and [[Veth]].
-That cosmological phenomenon, known as the Blood Moon, was last observed from 31 to 55 Leafdrop, 4816; its next occurence will likewise be from 31 to 55 Leafdrop, 4836.
+This event is visible across Naerk, and used in the common calendar to mark the insertion of 20 years' worth of leap days: 31 to 55 Leafdrop.
+
+It holds however the most physical significance in [[Athalaar]]. There, the  [[Athalaar#The Maenhir|ancient menhirs]] absorb the Harrowmist, weakening the terrors its fosters and allowing the [[Harrowlands]] to take a brief breath of life before the haunting returns.
+The last two Blood Moons in 4796 and 4816 were used as an opportunity for (ultimately doomed) [[Selanaari Expeditions|expeditionary forays]] in the Harrowlands.
+
+The next occurence will likewise be from 31 to 55 Leafdrop, 4836.
 

@@ -14,7 +14,7 @@ They were created by the disaster known as "the [[Harrowing]]" in 3260, and are 
 ## The Harrowmist
 A roiling, ghostly-cyan glowing fog that seeps through the darkest depths of the ethereal planes and corrupts living creatures it engulfs, the Harrowmist animates eerily, as if alive and eager to reap the vital essence of its victims.
 
-> [!note] the Harrowmist (Hazard 22) — `PF2e`
+> [!note] the Harrowmist (Hazard 22) — _PF2e_ 
 > **Traits** simple, environmental, haunt
 > **Disable** DC 44 Survival (legendary) to predict and navigate through slim corridors of less dense mist.
 >
